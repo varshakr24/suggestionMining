@@ -10,7 +10,7 @@ from torch.utils import data
 class CNN_GC(nn.Module):
 
     def __init__(self):
-        super(CCN, self).__init__()
+        super(CNN_GC, self).__init__()
         
 
     def forward(self,x):
