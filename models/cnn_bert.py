@@ -7,11 +7,11 @@ import torch.optim as optim
 from torch.utils import data
 
 
-class CNN(nn.Module):
+class CNN_BERT(nn.Module):
 
     def __init__(self):
-        super(CCN, self).__init__()
-        
+        super(CNN_BERT, self).__init__()
+
 
     def forward(self,x):
         return x

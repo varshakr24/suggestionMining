@@ -12,8 +12,6 @@ from stanfordcorenlp import StanfordCoreNLP
 #   1. Bert word encoding + CNN with max pooling for sent.embed
 #   2. Glove & CoVe word Encoding  + CNN with attention for sent.embed
 #   3. (1) and (2) concated and fed to MLP for classification (1-sugg)
-#
-########################################################################
 
 class MLP(nn.Module):
     def __init__(self):
@@ -35,11 +33,22 @@ class SuggestionClassifier(nn.Module):
     def __init_(self):
         # path all the models together
         # BERT->CNN + CNN->ATT
-        pass
+        super(SuggestionClassifier,self).__init__()
+        self.CNN_b = CNN_BERT()
+        self.CNN_gc = CNN_GC()
+        self.MLP = MLP()
+
 
     def forward(self,x):
-        pass
+        bert_x = self.CNN_b(x)
+        gc_x = self.CNN_gc(x)
+        torch.cat(bert_x,gc_x) # TODO : ensure dimensions align
+        x = self.MLP(x)
+        return x
 
+
+#############################
+# HELPER FUNCTION
 
 def pre_process(text):
     '''
@@ -86,7 +95,7 @@ model.to(device)
 
 WEIGHT_DECAY = 3
 BATCH_SIZE = 32
-LEARNING_RATE = 0.1 ### ??
+LEARNING_RATE = 0.1 # TODO : Experiment, as LR not given
 
 #######################
 # OPTIMIZATION
