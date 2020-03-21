@@ -21,9 +21,9 @@ class CNN_BERT(nn.Module):
         self.dropout = dropout
 
         self.bert_layer = BertModel.from_pretrained('bert-large-uncased')
-        self.conv_3 = nn.Conv1d(1, out_dim, embed_size * 3, stride=embed_size)
-        self.conv_4 = nn.Conv1d(1, out_dim, embed_size * 4, stride=embed_size)
-        self.conv_5 = nn.Conv1d(1, out_dim, embed_size * 5, stride=embed_size)
+        self.conv_3 = nn.Conv1d(1, out_dim, embed_dim * 3, stride=embed_dim)
+        self.conv_4 = nn.Conv1d(1, out_dim, embed_dim * 4, stride=embed_dim)
+        self.conv_5 = nn.Conv1d(1, out_dim, embed_dim * 5, stride=embed_dim)
 
     def get_conv_out(self,conv,x, num):
         return F.max_pool1d(F.relu(conv(x)), 
@@ -35,7 +35,7 @@ class CNN_BERT(nn.Module):
         conv_4 = self.get_conv_out(self.conv_4,x,4)
         conv_5 = self.get_conv_out(self.conv_5,x,5)
         x = torch.cat([conv_3,conv_4,conv_5], 1)
-        x = F.dropout(x, p=dropout)
+        x = F.dropout(x, p=self.dropout)
         return x
 
 
