@@ -34,11 +34,12 @@ def pre_process_data(folder="Subtask-A", filename="SubtaskA_EvaluationData_label
 
     labels = [datum[2] for datum in data]
 
-    feats = [pre_process_text(datum[1]) for datum in data] # should I remove the quotes
+    feats = [pre_process_text(datum[1]) for datum in data] # TODO : removed quotes
     return feats, labels, id_map
 
 
-feats, labels, id_map = pre_process_data()
-print(feats[0])
-print(labels)
-print(id_map)
+# Testing
+# feats, labels, id_map = pre_process_data()
+# print(feats[0])
+# print(labels)
+# print(id_map)

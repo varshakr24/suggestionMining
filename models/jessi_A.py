@@ -9,11 +9,17 @@ from csv import reader
 import re
 import pathlib
 from stanfordcorenlp import StanfordCoreNLP
+import sys
 
-from models.cnn_bert import CNN_BERT
-from models.cnn_glove_cove import CNN_GC
-from utils.prep_data import pre_process_text, pre_process_data
-from dataLoaders.suggestion_loader import SuggestionDataset
+sys.path.append('models')
+from cnn_bert import CNN_BERT
+from cnn_glove_cove import CNN_GC
+
+sys.path.append('utils')
+from prep_data import pre_process_text, pre_process_data
+
+sys.path.append('dataLoaders')
+from suggestion_loader import SuggestionDataset
 
 #######################################################################
 # 
@@ -35,7 +41,7 @@ nlp = StanfordCoreNLP(path)
 class MLP(nn.Module):
     def __init__(self):
         super(MLP,self).__init__()
-        self.l0 = nn.Linear(TBD,300)
+        self.l0 = nn.Linear(900,300) # BERT-> CNN (300), G,C->CNN (600)
         self.dp0 = nn.Dropout(p=0.5)
         self.l1 = nn.Linear(300,300)
         self.dp1 = nn.Dropout(p=0.5)
@@ -75,7 +81,14 @@ def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
 
     Ret: 
     '''
+    # TODO : 10-fold cross validation (build 10 models)
+    # TODO : Ensemble, pick top three models, majority vote between these three
+
     model.train()
+    val_loss_min = None
+    val_loss_min_delta = 0
+    val_patience = 0
+    val_loss_counter = 0
 
     for epoch in range(numEpochs):
         avg_loss = 0.0
@@ -100,11 +113,24 @@ def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
             del feats
             del labels
 
-    torch.save(model.state_dict(), "jessi_A_"+str(epoch)+".pt")
+        torch.save(model.state_dict(), "jessi_A_"+str(epoch)+".pt")
 
-    val_loss, val_acc = validate(model, valid_loader)
-    test_loss, test_acc = test(model, test_loader, epoch)
-    print('Epoch{:.4f}\tVal Loss: {:.4f}\tVal Accuracy: {:.4f}\tTest Loss: {:.4f}\tTest Accuracy: {:.4f}'.format(epoch, val_loss, val_acc, test_loss, test_acc))
+        val_loss, val_acc = validate(model, valid_loader)
+        test_loss, test_acc = test(model, test_loader, epoch)
+        print('Epoch{:.4f}\tVal Loss: {:.4f}\tVal Accuracy: {:.4f}\tTest Loss: {:.4f}\tTest Accuracy: {:.4f}'.format(epoch, val_loss, val_acc, test_loss, test_acc))
+
+        # Early stopping
+        if val_loss_min is None:
+            val_loss_min = val_loss
+        elif val_loss_min >= (val_loss + val_loss_min_delta) :
+            val_loss_counter += 1
+            if (val_loss_counter > val_patience) :
+                print("Validation Loss: {}\t Lowest Validation Loss {}\t".format(val_loss, val_loss_min))
+                print("Training stopped early, Epoch :"+str(epoch))
+                break
+        else:
+            val_loss_min = val_loss
+
 
 
 
@@ -127,18 +153,18 @@ def validate(model, valid_loader):
         _, pred_labesl = torch.max(output, dim=1)
         pred_labels = pred_labels.view(-1)
 
-        #loss = criterion(output, labels.long())
+        loss = criterion(output, labels.long())
         accuracy += torch.sum(torch.eq(pred_labels, labels)).item()
         total += len(labels)
-        #test_loss.extend([loss.item()]*feats.size()[0])
+        test_loss.extend([loss.item()]*feats.size()[0])
 
         #torch.cuda.empty_cache()
         del feats
         del labels
 
     model.train()
-    #return np.mean(test_loss), accuracy/total
-    return 0, accuracy/total
+    return np.mean(test_loss), accuracy/total
+    #return 0, accuracy/total
 
 
 def test(model, test_loader, epoch):
@@ -187,7 +213,7 @@ def test(model, test_loader, epoch):
 
 
 #########################
-# Hyperparameters
+# HYPER PARAMETER TUNING
 
 NUM_EPOCHS = 10
 WEIGHT_DECAY = 3
