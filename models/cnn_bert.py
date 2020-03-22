@@ -12,7 +12,7 @@ from transformers import BertModel
 
 class CNN_BERT(nn.Module):
 
-    def __init__(self, out_dim=300, embed_dim=1024, max_len=1000, dropout=0.5):
+    def __init__(self, out_dim=100, embed_dim=1024, max_len=1000, dropout=0.5):
         super(CNN_BERT, self).__init__()
         
         self.embed_dim = embed_dim
@@ -30,7 +30,7 @@ class CNN_BERT(nn.Module):
                             self.max_len - num + 1).view(-1, self.out_dim)
 
     def forward(self,x):
-        x = self.bert_layer(x)[0].view(-1, 1, self.embed_dim * self.max_len) # better 1 right ?
+        x = self.bert_layer(x)[0].view(-1, 1, self.embed_dim * self.max_len)
         conv_3 = self.get_conv_out(self.conv_3, x, 3)
         conv_4 = self.get_conv_out(self.conv_4, x, 4)
         conv_5 = self.get_conv_out(self.conv_5, x, 5)

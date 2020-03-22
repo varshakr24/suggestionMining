@@ -24,7 +24,6 @@ from suggestion_loader import SuggestionDataset
 #######################################################################
 # 
 #  Global Variable, to avoid repeated load
-#   
 
 # Ref : https://github.com/Lynten/stanford-corenlp
 prefix = str(pathlib.Path(__file__).parent.parent)
@@ -42,14 +41,13 @@ class MLP(nn.Module):
     def __init__(self):
         super(MLP,self).__init__()
         self.l0 = nn.Linear(900,300) # BERT-> CNN (300), G,C->CNN (600)
-        self.dp0 = nn.Dropout(p=0.5)
         self.l1 = nn.Linear(300,300)
-        self.dp1 = nn.Dropout(p=0.5)
         self.l3 = nn.Linear(300,2)
+        self.dp = nn.Dropout(p=0.5)
 
     def forward(self,x):
-        x = self.dp0(F.sigmoid(self.l0(x)))
-        x = self.dp1(F.sigmoid(self.l1(x)))
+        x = self.dp(F.sigmoid(self.l0(x)))
+        x = self.dp(F.sigmoid(self.l1(x)))
         x = F.sigmoid(self.l3(x))
         return x
 
@@ -67,8 +65,8 @@ class SuggestionClassifier(nn.Module):
     def forward(self,x):
         bert_x = self.CNN_b(x)
         gc_x = self.CNN_gc(x)
-        torch.cat(bert_x,gc_x) # TODO : ensure dimensions align
-        x = self.MLP(x)
+        torch.cat(bert_x,gc_x) # TODO : ensure dimensions align (1x300, 1x600)
+        x = self.MLP(x) # Dim : 1x900
         return x
 
 
@@ -81,8 +79,6 @@ def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
 
     Ret: 
     '''
-    # TODO : 10-fold cross validation (build 10 models)
-    # TODO : Ensemble, pick top three models, majority vote between these three
 
     model.train()
     val_loss_min = None
@@ -90,6 +86,19 @@ def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
     val_patience = 0
     val_loss_counter = 0
 
+    # TODO : 10-fold cross validation (build 10 models)
+    # TODO : Ensemble, pick top three models based on train loss
+    # TODO : Voting Mechanism to evaluate on Validation data
+    
+    # for each fold
+    #     for each epoch
+    #         for each batch
+    #             train(model)
+    #         models += models
+    #     three_models = select_best_3(models) based on train_loss
+    #
+    #     use_ensemble(three_models,validation_data)
+        
     for epoch in range(numEpochs):
         avg_loss = 0.0
         for batch_num, (feats, labels) in enumerate(train_loader):
@@ -222,6 +231,7 @@ LEARNING_RATE = 0.1 # TODO : Experiment, as LR not given
 
 ########################
 # DATA LOADING
+
 train_dataset = SuggestionDataset()
 valid_dataset = SuggestionDataset(file="SubtaskA_Trial_Test_Labeled.csv")
 test_dataset = SuggestionClassifier(file="SubtaskA_EvaluationData_labeled.csv", mode=0)
