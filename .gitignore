@@ -19,7 +19,7 @@ lib64/
 parts/
 sdist/
 var/
-pkgs/stanford-corenlp-full-2016-10-31
+pkgs/stanford-corenlp-full-2016-10-31/*
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
