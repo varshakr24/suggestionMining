@@ -5,8 +5,6 @@ import pathlib
 from stanfordcorenlp import StanfordCoreNLP
 import sys
 
-from pytorch_pretrained_bert.tokenization import BertTokenizer
-
 
 # Ref : https://github.com/Lynten/stanford-corenlp
 prefix = str(pathlib.Path(__file__).parent.parent)
