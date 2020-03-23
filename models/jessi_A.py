@@ -16,7 +16,7 @@ from cnn_bert import CNN_BERT
 from cnn_glove_cove import CNN_GC
 
 sys.path.append('utils')
-from prep_data import pre_process_text, pre_process_data
+from prep_data import pre_process_text, pre_process_data, load_data, create_cross_val_train_test, create_folds
 
 sys.path.append('dataLoaders')
 from suggestion_loader import SuggestionDataset
@@ -73,7 +73,7 @@ class SuggestionClassifier(nn.Module):
 #############################
 # HELPER FUNCTIONS
 
-def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
+def train(model, train_loader, valid_loader, test_loader, foldId, numEpochs=5):
     '''
     Args:
 
@@ -114,17 +114,18 @@ def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
             avg_loss += loss.item()
 
             if batch_num % 50 == 49:
-                print('Epoch: {}\tBatch: {}\tAvg-Loss: {:.4f}'.format(epoch+1, batch_num+1, avg_loss/50))
+                print('Fold: {}\t Epoch: {}\tBatch: {}\tAvg-Loss: {:.4f}'.format(foldId+1, epoch+1, batch_num+1, avg_loss/50))
                 avg_loss = 0.0
 
             torch.cuda.empty_cache()
             del feats
             del labels
 
-        torch.save(model.state_dict(), "jessi_A_"+str(epoch)+".pt")
+        model_name = "jessi_A_fold_"+str(foldId+1)+"_epoch_"+str(epoch+1)+".pt"
+        torch.save(model.state_dict(), model_name)
 
         val_loss, val_acc = validate(model, valid_loader)
-        test_loss, test_acc = test(model, test_loader, epoch)
+        test_loss, test_acc = validate(model, test_loader)
         print('Epoch{:.4f}\tVal Loss: {:.4f}\tVal Accuracy: {:.4f}\tTest Loss: {:.4f}\tTest Accuracy: {:.4f}'.format(epoch, val_loss, val_acc, test_loss, test_acc))
 
         # Early stopping
@@ -139,7 +140,7 @@ def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
         else:
             val_loss_min = val_loss
 
-
+        return test_acc, model_name
 
 
 def validate(model, valid_loader):
@@ -175,14 +176,13 @@ def validate(model, valid_loader):
     #return 0, accuracy/total
 
 
-def test(model, test_loader, epoch):
+def test(models, test_loader, id_map):
     '''
     Args:
 
     Ret:
     '''
 
-    model.eval()
     test_loss = []
     accuracy = 0
     total = 0
@@ -191,27 +191,22 @@ def test(model, test_loader, epoch):
     
     for batch_num, (feats, labels) in enumerate(test_loader):
         feats, labels = feats.to(device), labels.to(device)
-        outputs = model(feats)[0]
-        
-        
-        _, pred_labels = torch.max(outputs, dim=1)
-        #loss = criterion(outputs, labels.long())
-        accuracy += torch.sum(torch.eq(pred_labels, labels)).item()
-        total += len(labels)
-        #test_loss.extend([loss.item()]*feats.size()[0])
-        
-        pred_labels = pred_labels.view(-1)
-        pred_labels = pred_labels.cpu()
-        pred_labels = np.array(pred_labels)
-        outcomes += [ [test_loader.dataset.samples[batch_num*BATCH_SIZE+i][0].split('/')[-1],
-            pred_labels[i]] for i in range(len(pred_labels)) ]
-        
+        predictions = np.zeros(len(labels))
+
+        for model in models:
+            model.eval()
+            outputs = model(feats)[0]
+            _, pred_labels = torch.max(F.softmax(outputs, dim=1), 1)
+            predictions += pred_labels.view(-1).cpu()
+            model.train()
+
+        predictions = np.round(predictions/3).astype(int)            
+        outcomes += [ [id_map(test_loader.dataset.samples[batch_num * BATCH_SIZE + i]),predictions[i]] for i in range(len(predictions)) ]
+            
         del feats
         del labels
-
-    model.train()
     
-    f = open("Suggestion"+str(epoch)+".csv", "w", newline="")
+    f = open("Suggestion.csv", "w", newline="")
     writer = csv.writer(f)
     writer.writerows(outcomes)
     f.close()
@@ -226,21 +221,8 @@ def test(model, test_loader, epoch):
 NUM_EPOCHS = 10
 WEIGHT_DECAY = 3
 BATCH_SIZE = 32
+NFOLDS = 10
 LEARNING_RATE = 0.1 # TODO : Experiment, as LR not given
-
-########################
-# DATA LOADING
-
-train_dataset = SuggestionDataset()
-valid_dataset = SuggestionDataset(file="SubtaskA_Trial_Test_Labeled.csv")
-test_dataset = SuggestionClassifier(file="SubtaskA_EvaluationData_labeled.csv", mode=0)
-
-train_loader =  torch.utils.data.DataLoader(train_dataset, batch_size=BATCH_SIZE, 
-                                               shuffle=True, num_workers=8)
-valid_loader = torch.utils.data.DataLoader(valid_dataset, batch_size=BATCH_SIZE, 
-                                               shuffle=True, num_workers=8)
-test_loader = torch.utils.data.DataLoader(test_dataset, batch_size=BATCH_SIZE, 
-                                               shuffle=True, num_workers=8)
 
 ########################
 # MODEL CREATION
@@ -257,3 +239,42 @@ model.to(device)
 
 criterion = nn.CrossEntropyLoss()
 optimizer = torch.optim.Adadelta(model.parameters(), lr=LEARNING_RATE, weight_decay=WEIGHT_DECAY)
+
+########################
+# DATA LOADING
+
+valid_dataset = SuggestionDataset(load_data(filename="SubtaskA_Trial_Test_Labeled.csv"))
+valid_loader = torch.utils.data.DataLoader(valid_dataset, batch_size=BATCH_SIZE, 
+                                               shuffle=False, num_workers=8)
+test_dataset = SuggestionDataset(load_data(filename="SubtaskA_EvaluationData_labeled.csv"), mode=0)
+test_id_map = test_dataset.get_map()
+test_loader = torch.utils.data.DataLoader(test_dataset, batch_size=BATCH_SIZE, 
+                                               shuffle=False, num_workers=8)
+
+data = load_data()
+data_folds = create_folds(data)
+model_perfs = []
+model_names = []
+for i in range(NFOLDS):
+    train, test = create_cross_val_train_test(data_folds,i)
+    train_dataset = SuggestionDataset(train)
+    train_loader =  torch.utils.data.DataLoader(train_dataset, batch_size=BATCH_SIZE, 
+                                               shuffle=True, num_workers=8)
+    test_dataset = SuggestionClassifier(test)
+    test_loader = torch.utils.data.DataLoader(test_dataset, batch_size=BATCH_SIZE, 
+                                               shuffle=False, num_workers=8)
+
+    test_loss, model_name = train(model, train_loader, valid_loader, test_loader, i, NUM_EPOCHS)
+
+    model_perfs.append(test_loss)
+    model_names.append(model_name)
+
+best_three_model_idx = np.flip(np.argsort(model_perfs))[0:3]
+models = []
+for idx in best_three_model_idx:
+    # load the model
+    temp_model = SuggestionClassifier()
+    temp_model.load_state_dict(torch.load(model_names[idx]))
+    models.append(temp_model)
+    test(models, test_loader, test_id_map)
+

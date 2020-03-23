@@ -8,18 +8,16 @@ from csv import reader
 import re
 
 sys.path.append('utils')
-from prep_data import pre_process_data, pre_process_text
+from prep_data import pre_process_data_from_dataset, pre_process_text, load_data, create_folds, create_cross_val_train_test
 
-prefix = str(pathlib.Path(__file__).parent.parent)
-path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
-nlp = StanfordCoreNLP(path)
-
+# prefix = str(pathlib.Path(__file__).parent.parent)
+# path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
+# nlp = StanfordCoreNLP(path)
 
 class SuggestionDataset(Dataset):
-    def __init__(self, folder='Subtask-A', file='V1.4_Training.csv', mode=1):
-        self.feats, self.labels, self.id_map = pre_process_data(filename=file)
+    def __init__(self, dataset, mode=1):
+        self.feats, self.labels, self.id_map = pre_process_data_from_dataset(dataset)
         self.mode = mode
-
 
     def __len__(self):
         return len(self.labels)
@@ -30,8 +28,13 @@ class SuggestionDataset(Dataset):
         else:
             return self.feats[index], self.labels[index]
 
+    def get_map(self):
+        return self.id_map
 
-# Testing
-# test = SuggestionDataset()
-# print(test.__getitem__(0))
+#Testing
+# data = load_data()
+# data_folds = create_folds(data)
+# train, test = create_cross_val_train_test(data_folds,0)
+# train_loader = SuggestionDataset(train)
+# print(train_loader.__getitem__(0))
 
