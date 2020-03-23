@@ -92,12 +92,11 @@ def train(model,train_loader,valid_loader,test_loader, numEpochs=5):
     
     # for each fold
     #     for each epoch
-    #         for each batch
-    #             train(model)
-    #         models += models
+    #       min_batch_train(model)
+    #       val_loss = model(trial_data)
+    #       early_stopping(val_loss)
+    #     models += models
     #     three_models = select_best_3(models) based on train_loss
-    #
-    #     use_ensemble(three_models,validation_data)
         
     for epoch in range(numEpochs):
         avg_loss = 0.0
