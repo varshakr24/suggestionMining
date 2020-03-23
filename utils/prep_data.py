@@ -5,6 +5,8 @@ import pathlib
 from stanfordcorenlp import StanfordCoreNLP
 import sys
 
+from pytorch_pretrained_bert.tokenization import BertTokenizer
+
 
 # Ref : https://github.com/Lynten/stanford-corenlp
 prefix = str(pathlib.Path(__file__).parent.parent)
@@ -103,7 +105,6 @@ def create_cross_val_train_test(data_batches,id, folds=10):
         if i != id:
             train += data_batches[i]
     return train, test
-
 
 
 #testing
