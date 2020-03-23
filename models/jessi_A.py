@@ -276,5 +276,6 @@ for idx in best_three_model_idx:
     temp_model = SuggestionClassifier()
     temp_model.load_state_dict(torch.load(model_names[idx]))
     models.append(temp_model)
-    test(models, test_loader, test_id_map)
+# testing
+test(models, test_loader, test_id_map)
 
