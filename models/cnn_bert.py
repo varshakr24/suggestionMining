@@ -5,19 +5,19 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torch.utils import data
-from transformers import *
+from transformers import BertModel
 
-#bert large uncased
-#hiddenlayers = 1024
+# Bert-large uncased (IN_CHANNELS : 300)
+# hiddenlayers = 1024 (OUT_CHANNELS : 1024)
 
 class CNN_BERT(nn.Module):
 
-    def __init__(self,out_dim=300,embed_dim=1024,max_len=1000, dropout=0.5):
+    def __init__(self, out_dim=100, embed_dim=1024, max_len=1000, dropout=0.5):
         super(CNN_BERT, self).__init__()
         
         self.embed_dim = embed_dim
-        self.out_dim = out_dim
-        self.max_len = max_len
+        self.out_dim = out_dim # not 100?
+        self.max_len = max_len # ?
         self.dropout = dropout
 
         self.bert_layer = BertModel.from_pretrained('bert-large-uncased')
@@ -30,11 +30,11 @@ class CNN_BERT(nn.Module):
                             self.max_len - num + 1).view(-1, self.out_dim)
 
     def forward(self,x):
-        x = self.bert_layer(x)[0].view(-1, 1, self.embed_dim*self.max_len)
-        conv_3 = self.get_conv_out(self.conv_3,x,3)
-        conv_4 = self.get_conv_out(self.conv_4,x,4)
-        conv_5 = self.get_conv_out(self.conv_5,x,5)
-        x = torch.cat([conv_3,conv_4,conv_5], 1)
+        x = self.bert_layer(x)[0].view(-1, 1, self.embed_dim * self.max_len)
+        conv_3 = self.get_conv_out(self.conv_3, x, 3)
+        conv_4 = self.get_conv_out(self.conv_4, x, 4)
+        conv_5 = self.get_conv_out(self.conv_5, x, 5)
+        x = torch.cat([conv_3, conv_4, conv_5], 1)
         x = F.dropout(x, p=self.dropout)
         return x
 
