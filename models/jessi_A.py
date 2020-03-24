@@ -22,15 +22,6 @@ sys.path.append('dataLoaders')
 from suggestion_loader import SuggestionDataset
 
 #######################################################################
-# 
-#  Global Variable, to avoid repeated load
-
-# Ref : https://github.com/Lynten/stanford-corenlp
-prefix = str(pathlib.Path(__file__).parent.parent)
-path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
-nlp = StanfordCoreNLP(path)
-
-#######################################################################
 #
 #   Architecture is as follows
 #   1. Bert word encoding + CNN with max pooling for sent.embed
