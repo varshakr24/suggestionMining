@@ -65,7 +65,7 @@ def bert_embedding(text):
     '''
     Get bert tokenized sentences
     '''
-    return tokenizer.tokenize(text)
+    return tokenizer.encode(tokenizer.tokenize(text))
 
 
 def glove_cove_embedding(text, tokenizer=nlp):
