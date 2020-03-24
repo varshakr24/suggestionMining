@@ -33,7 +33,8 @@ class CNN_GC(nn.Module):
 
     def forward(self,x):
         cove_embed = cove_model.encode(x)
-        glove_embed = glove_model.encode(x)
+        tokens = [sentence.split(" ") for sentence in x]
+        glove_embed = glove_model.encode(tokens)
         x = torch.cat([cove_embed,glove_embed], 2)
         
         conv_3 = F.relu(self.conv_3(x))
