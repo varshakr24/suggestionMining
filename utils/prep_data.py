@@ -1,15 +1,36 @@
 import os
-from csv import reader
 import re
-import pathlib
-from stanfordcorenlp import StanfordCoreNLP
 import sys
-
+import pathlib
+import numpy as np
+from csv import reader
+from stanfordcorenlp import StanfordCoreNLP
+from aion.embeddings.cove import CoVeEmbeddings
+from aion.embeddings.glove import GloVeEmbeddings
+from pytorch_pretrained_bert.tokenization import BertTokenizer
 
 # Ref : https://github.com/Lynten/stanford-corenlp
 prefix = str(pathlib.Path(__file__).parent.parent)
 path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
 nlp = StanfordCoreNLP(path)
+
+# Ref : 
+# Bert Embedding
+tokenizer = BertTokenizer.from_pretrained('bert-large-uncased', do_lower_case=True)
+
+# Ref : 
+# Glove Embedding
+glove_model = GloVeEmbeddings()
+glove_model.load_model(dest_dir='../model/text/stanford/glove/', process=False)
+
+
+# Ref
+# Cove Embedding
+cove_model = CoVeEmbeddings(
+            word_embeddings_dir='../model/text/stanford/glove/', 
+            tokenizer=nlp,
+            max_sequence_length=1000, verbose=20)
+
 
 # def pre_process_data(folder="Subtask-A", filename="SubtaskA_EvaluationData_labeled.csv"):
 #     '''
@@ -40,6 +61,26 @@ def pre_process_text(text):
     return result
 
 
+def bert_embedding(text):
+    '''
+    Get bert tokenized sentences
+    '''
+    return tokenizer.tokenize(text)
+
+
+def glove_cove_embedding(text, tokenizer=nlp):
+    '''
+    Get Glove_Cove Embedding
+    '''
+    tokens = [nlp.word_tokenize(sentence) for sentence in text]
+    glove_embed = glove_model.encode(tokens)
+    cove_embed = cove_model.encode(tokens)
+    result = np.concatenate(glove_embed,cove_embed, axis=2)
+    return result
+
+
+
+
 def load_data(folder= "Subtask-A", filename="SubtaskA_EvaluationData_labeled.csv"):
     '''
     Args : folder name, file name
@@ -64,8 +105,9 @@ def pre_process_data_from_dataset(data):
 
     labels = [datum[2] for datum in data]
 
-    feats = [pre_process_text(datum[1]) for datum in data]
-    return feats, labels, id_map
+    bert_feats = [bert_embedding(datum[1]) for datum in data]
+    glove_cove_feats = glove_cove_embedding([datum[1] for datum in data], nlp)
+    return glove_cove_feats, bert_feats, labels, id_map
 
 
 def create_folds(data, folds=10):
@@ -115,8 +157,9 @@ print(data_folds[0][0])
 train, test = create_cross_val_train_test(data_folds,0)
 print("Length of train and test: ", len(train),len(test))
 
-feats, labels, id_map = pre_process_data_from_dataset(train)
+feats, bert, labels, id_map = pre_process_data_from_dataset(train)
 print(feats[0])
-print(id_map[2])
+print(bert[0])
+# print(id_map[2])
 # feats, labels, id_map = pre_process_data_from_dataset(data_folds[1])
 # print(feats[1])

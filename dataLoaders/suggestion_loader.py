@@ -17,10 +17,9 @@ from get_embeddings import bert_embedding
 
 class SuggestionDataset(Dataset):
     def __init__(self, dataset, mode=1):
-        self.feats, self.labels, self.id_map = pre_process_data_from_dataset(dataset)
+        self.glove_cove_feats, self.bert_feats, self.labels, self.id_map = pre_process_data_from_dataset(dataset)
         self.mode = mode
-
-        self.bert_feats = get_bert_embedding(dataset)
+        
 
     def __len__(self):
         return len(self.labels)
