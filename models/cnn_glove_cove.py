@@ -14,11 +14,12 @@ class CNN_GC(nn.Module):
     def __init__(self,out_dim=200,gc_dim=1024,max_len=1000, dropout=0.5):
         super(CNN_GC, self).__init__()
         
-        cove_model = CoVeEmbeddings(
+        """cove_model = CoVeEmbeddings(
             word_embeddings_dir='../model/text/stanford/glove/', 
+            tokenizer=tokenizer,
             max_sequence_length=max_len, verbose=20)
         glove_model = GloVeEmbeddings()
-        glove_model.load_model(dest_dir='../model/text/stanford/glove/', process=False)
+        glove_model.load_model(dest_dir='../model/text/stanford/glove/', process=False)"""
         
         self.gc_dim = gc_dim
         self.out_dim = out_dim
@@ -32,10 +33,10 @@ class CNN_GC(nn.Module):
         self.attn = nn.Linear(gc_dim*max_len, max_len)
 
     def forward(self,x):
-        cove_embed = cove_model.encode(x)
-        tokens = [sentence.split(" ") for sentence in x]
-        glove_embed = glove_model.encode(tokens)
-        x = torch.cat([cove_embed,glove_embed], 2)
+        #cove_embed = cove_model.encode(x)
+        #tokens = [sentence.split(" ") for sentence in x]
+        #glove_embed = glove_model.encode(tokens)
+        #x = torch.cat([cove_embed,glove_embed], 2)
         
         conv_3 = F.relu(self.conv_3(x))
         conv_5 = F.relu(self.conv_5(x))
