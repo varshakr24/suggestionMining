@@ -157,9 +157,11 @@ print(data_folds[0][0])
 train, test = create_cross_val_train_test(data_folds,0)
 print("Length of train and test: ", len(train),len(test))
 
-feats, bert, labels, id_map = pre_process_data_from_dataset(train)
-print(feats[0])
-print(bert[0])
+####################################
+
+glove_cove_feats, bert_feats, labels, id_map = pre_process_data_from_dataset(train)
+print(glove_cove_feats[0])
+print(bert_feats[0])
 # print(id_map[2])
 # feats, labels, id_map = pre_process_data_from_dataset(data_folds[1])
 # print(feats[1])
