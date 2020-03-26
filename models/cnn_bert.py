@@ -1,6 +1,7 @@
 import os
 from collections import defaultdict
 import numpy as np
+import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
@@ -12,7 +13,7 @@ from transformers import BertModel
 
 class CNN_BERT(nn.Module):
 
-    def __init__(self, out_dim=100, embed_dim=1024, max_len=1000, dropout=0.5):
+    def __init__(self, out_dim=100, embed_dim=1024, max_len=512, dropout=0.5):
         super(CNN_BERT, self).__init__()
         
         self.embed_dim = embed_dim
