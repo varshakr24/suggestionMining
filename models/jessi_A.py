@@ -34,38 +34,34 @@ class MLP(nn.Module):
         super(MLP,self).__init__()
         self.l0 = nn.Linear(900,300) # BERT-> CNN (300), G,C->CNN (600)
         self.l1 = nn.Linear(300,300)
-        self.l3 = nn.Linear(300,2)
-        self.dp = nn.Dropout(p=0.5)
+        self.l3 = nn.Linear(300,1)
 
     def forward(self,x):
         print(x)
         print(x.shape)
         quit()
-        x = self.dp(F.sigmoid(self.l0(x)))
-        x = self.dp(F.sigmoid(self.l1(x)))
+        x = F.sigmoid(self.l0(x))
+        x = F.sigmoid(self.l1(x))
         x = F.sigmoid(self.l3(x))
         return x
 
 
-# class SuggestionClassifier(nn.Module):
-#     def __init_(self):
-#         # path all the models together
-#         # BERT->CNN + CNN->ATT
-#         super(SuggestionClassifier,self).__init__()
-#         # self.CNN_b = CNN_BERT()
-#         # self.CNN_gc = CNN_GC()
-#         self.MLP = MLP()
+class SuggestionClassifier(nn.Module):
+    def __init__(self):
+        # path all the models together
+        # BERT->CNN + CNN->ATT
+        super(SuggestionClassifier,self).__init__()
+        self.CNN_b = CNN_BERT()
+        self.CNN_gc = CNN_GC()
+        self.MLP = MLP()
 
 
-#     def forward(self, x):
-#         # bert_x = self.CNN_b(x[0])
-#         # gc_x = self.CNN_gc(x[1])
-#         bert_x = x[0]
-#         gc_x = x[1]
-        
-#         out = torch.cat(bert_x,gc_x) # TODO : ensure dimensions align (1x300, 1x600)
-#         out = self.MLP(out) # Dim : 1x900
-#         return out
+    def forward(self, x, y):
+        bert_x = self.CNN_b(x)
+        gc_x = self.CNN_gc(y)
+        out = torch.cat((bert_x,gc_x), 1) # TODO : ensure dimensions align (1x300, 1x600)
+        out = self.MLP(out) # Dim : 1x900
+        return out
 
 
 #############################
@@ -98,7 +94,17 @@ def train(model, train_loader, valid_loader, test_loader, foldId, numEpochs=5):
         
     for epoch in range(numEpochs):
         avg_loss = 0.0
-        for batch_num, (feats, labels) in enumerate(train_loader):
+        for batch_num, batch in enumerate(train_loader):
+            glove_then_last_layer_cove = outputs_cove_with_glove(*batch.sentence)
+            target = torch.zeros(5, 512, 900)
+            max_sentence_len_in_batch = max(batch.sentence[1].tolist())
+            target[:, :max_sentence_len_in_batch, :] = glove_then_last_layer_cove
+            glove_then_last_layer_cove = target.permute(0,2,1)
+
+            #output = model_cnn_gc(glove_then_last_layer_cove)
+            # bert_output = model_bert(batch.bert_enc)
+            out = model_overall(batch.bert_enc, glove_then_last_layer_cove)
+
             feats,labels = feats.to(device), labels.to(device)
 
             optimizer.zero_grad()
