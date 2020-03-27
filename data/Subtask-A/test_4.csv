@@ -1,0 +1,851 @@
+id,sentence,label
+0_1003,"""Developers should be focusing more on App as opposed to implement the standard navigation pattern and spend effort on styling.""""",1
+0_1004,"""Problem using mouse GUI for resizing windows in [Windows 10 Pro Insider Preview].""",0
+0_1005,"""There is a problem grabbing the edges/boarders of OS windows.""",0
+0_1221,"""Allow Zune music + video tile in windows phone 7 to fetch metadata and display artist images and artist names in India too ... settings>applications >lock+wallpaper >show artist image when playing music under lock screen .""",1
+0_1306,"""Please enhance the new back up function (http://blog.feedly.com/2014/07/14/dropbox-vault/) and enable Google Drive integration.""",1
+0_1307,"""Google reader API allows to create feeds like i.e. http://www.google.com/reader/public/atom/user/99999/state/com.google/starred.""",0
+0_1308,"""I can import this feed in Wordpress or Joomla so when I find an interesting article in Google Reader, I simply """"star"""" it with automatic pubblication in my blog.""",0
+0_1309,"""It would be very nice to have this in Feedly.""""",1
+0_1310,"""I know it works in IE 10 now, not sure about 9 but definately not 8.""",0
+0_1311,"""I'm forced to use IE 8 on Windows XP at work with no ability to install anything or use portable Firefox, etc.;""",0
+0_1312,""" I'm not the only one that has asked for this, but comments are lost on closed general IE threads now that Feedly works in IE 10.""""",0
+0_1313,"""want to still be able to subscribe to Twitter feeds without having to create Twitter account""",1
+0_1314,"""Please make an option to login that does not include Google.""",1
+0_1315,"""There are a lot of us who want anonomosity in what we are reading.""",1
+0_1316,"""We want it to be between Feedly and us only, especially now that the government is working to get open access to our Google accounts.""",1
+0_1317,"""Is this a recent change or something I've just seen ?	""",0
+0_1318,"""I couldn't find any option in Feedly Extension to turn this off, So I've turned background apps off in Chrome, but would rather this be an option in Feedly""""",1
+0_1319,"""I like that Instapaper is an option, but it's very clunky.	""",0
+0_1320,"""Clicking the """"Instapaper"""" button in feedly opens a new browser window on the Instapaper site, and then I have to wait for it to load my account and then I have to click another button to save the article.""",0
+0_1321,"""Would be so much nicer if I just clicked the Instapaper button in feedly and that was that.""""",1
+0_1322,"""It would be cool if there were some way to receive notifications of new posts in the Mac OS X (and iOS) notification center.""",1
+0_1323,"""Doesn't suport the IE8.	""",0
+0_1324,"""I see blank page.""",0
+0_1325,"""Please, make update!""""",1
+0_1326,"""Today, I opened Chrome.	""",0
+0_1327,"""Haven installed the Feedly extension, I did notice that I has some weird tab that decided to add itself.""",0
+0_1328,"""Not liking that, I thought, """"diabling the extension will solve this.""""""",0
+0_1329,"""No, much problem surfing later, I discover that I have to """"unpin"""" the tab.""",0
+0_1330,"""Also, the tab does not stay """"unpinned.""""""",0
+0_1331,"""THIS IS BAD.""",0
+0_1332,"""I didn't put the tab there, and I DON'T WANT IT.""",0
+0_1333,"""GET IT OFF!""",0
+0_1334,"""You absolutely cannot do this.""",0
+0_1335,"""I don't care how many votes this suggestions gets, if I see it happen again, feedly will be DEAD to me.""",0
+0_1336,"""I will uninstall it everywhere and make it my life's mission to destroy it.""""",0
+0_1337,"""I believe HTC Blinkfeed is getting a lot of users as well, and it'll be nice if you guys can reach out to HTC to get your APIs working with their Blinkfeed :) """,1
+0_1338,"""I generate a majority of my Google Reader RSS content from manually set up Google Alerts (by setting up Google keyword searches and selecting ""Deliver to: Google Reader"").""",0
+0_1339,"""Can you create a connection between Google Alerts and Feedly, so that when I update a feed in Google Alerts, the change will be picked up by Feedly.""",1
+0_1340,"""I would like to have the possibility to link Readability to Feedly.""",1
+0_1341,"""Create Kippt integration to allow sharing to Kippt.com""",1
+0_1342,"""Being able to follow reddit topics from within feedly.""",0
+0_1343,"""Currently cloud.feedly.com works only with IE10 browser which is still rather new to the world (especially corporate one).""",0
+0_1344,"""IE8 is too old and probably too many hacks to support it.""",0
+0_1345,"""But IE9 would be nice to support.""",1
+0_1346,"""Is there any way i can save to Pocket directly without opening a separate web page each time?""",0
+0_1347,"""Google Reader sends new articles every day as a periodical format do Kindle Mail address, being able to send every subscriptions os just located in a folder.""",0
+0_1348,"""Better than that would be an option to catch the article text and send it completely (not just the resume from rss, as some sites do), somewhat like the instapaper does.""",1
+0_1349,"""Create a separate registration/login system independent of a Google account.""",1
+0_1350,"""Right now, if I have two Google accounts (and separate Chrome sessions) - one for work and one for personal use, I cant use feedly across sessions""",0
+0_1351,"""Another win is that - right now, I have to generate my multi-factor authentication code when I try to login to Feedly on my iPad which is not always convenient -- for Feed reading purposes.""""",0
+0_1352,"""Feedly looks nice but NewsRob provides a significantly more useful experience for users with lots of feeds.; https://play.google.com/store/apps/details?id=com.newsrob.pro;""",0
+0_1353,""" Allow a new version of NewsRob to use the feedly backend API.""",1
+0_1354,"""Promote Feedly by having that version of NewsRob being re- branded with Feedly logo.""",1
+0_1355,"""A desktop version that would integrate both online services (Facebook, Twitter, Pinterest) with desktop services (photoshop, outlook, messages).	""",0
+0_1356,"""I prefer using the reeder on my desktop than Feedly on the browser, since it opens links on the app, helping me focus on my reading.""""",0
+0_1357,"""The IFTTT ingredient ArticleContent does not contain the full article body, it saves the 1st paragraph or nothing at all.""",0
+0_1358,"""We loose the main goal of the use of IFTTT.""",0
+0_1359,"""Can you enable full article content from the original rss feed?""",0
+0_1360,"""Integration with Net News Wire, so we can keep updated on every Mac (I use NNW for publishing to my blog with MarsEdit); """,0
+0_1361,"""It would be great if feedly would provide the current count of unread articles to TeslaUnread, which would show that number in the corner of the app icon on Nova Launcher.""",1
+0_1362,"""Maybe you need to contact TeslaCoil Software for information on how to implement that.""",1
+0_1363,"""As an alternative to that, you could also create a 1x1 widget mimicking the app icon with unread counter.""",1
+0_1364,"""However, the downside of that would be that you couldn't place this widget in a homescreen folder.""""",0
+0_1365,"""This is very powerful feature.""",0
+0_1366,"""I suggest do it like it is done in the Google Reader Watcher (http://ajnasz.hu/google-reader-watcher).""",1
+0_1367,"""Additional, the Watcher provided notifications about a number of the unreaded articles.""""",0
+0_1368,"""Yes, I know that the first build of Mac OS 10.9 (13A376u) is as slow as a tortoise.""",0
+0_1369,"""Burt the feedly extension seems to be horribly broken.""""",0
+0_1370,"""Create a webapp for Ubuntu, so Feedly can be integrated into the messaging menu, show notification bubbles or indicate the number of unread feeds on the launcher.	""",1
+0_1371,"""More info: http://developer.ubuntu.com/web/""""",0
+0_1372,"""Please enhance the new back up function (http://blog.feedly.com/2014/07/14/dropbox-vault/) and enable OneDrive as well!""",1
+0_1373,"""Right now, the only way I can find to make a stand-alone Feedly app with Fluid is to use these instructions, http://rudis.net/content/2009/11/22/feedly-safari-fluidapp-painless-updates.""",0
+0_1374,"""I would much rather be able to create a Fluid app by using Fluid in the normal manner.""""",0
+0_1375,"""I just got the new chromecast - and one of my first thoughts was that it would be cool to send movies from my feeds straight to the TV.""",1
+0_1376,"""I know I can watch them via mirroring on the computer - but something more native would be appreciated.""",1
+0_1377,"""Integrate Facebook, Twitter, YouTube and other social accounts into Feedly so I can read the timeline, posts and other in Feedly.	""",1
+0_1378,"""Like, your Facebook News Feed could be a feed on Feedly.""",0
+0_1379,"""New videos from users you subscribed to on Youtube can be a whole feed (like migrate the entire Home Page of your Youtube account and put it as a feed here).""",1
+0_1380,"""And Twitter tweets from your followers can be another feed.""""",1
+0_1381,"""The OPML export feature should include tagging data.""",1
+0_1382,"""I would like to be able to switch to another service without losing all of the tags I use to organize my source library.""",1
+0_1383,"""Microsoft has a RSS Platform for a common store of RSS feeds across IE and Outlook.""",0
+0_1384,"""It would be nice to sync any feeds from that store to Feedly.""",1
+0_1385,"""It would eliminate the need for an add-on to IE as people can use the native button to have their feeds pulled into Feedly.""",1
+0_1386,"""It would be great if there was a Feedly plug-in for the Mozilla Thunderbird email client.""",1
+0_1387,"""Right now, I can have several Google apps open in separate tabs in Thunderbird.""",0
+0_1388,"""So each morning I start my day with my Inbox, Google Calendar, and Google Reader each in their own tab, right there together in one app.""",0
+0_1389,"""I love that!""",0
+0_1390,"""With the fazing out of Google Reader, it would be great if Feedly could take its place in my third tab.""""",1
+0_1391,"""I notice that when viewing full articles, tumblr feeds work just great, EXCEPT for photosets.""",0
+0_1392,"""They seem to get out of order, and the one in the top right is out of place.""",0
+0_1393,"""It's a minor thing, but for someone who follows a lot of tumblr blogs, it can get annoying.""",0
+0_1394,"""I know you can set a preference to save an article to a read later service instead of saving it to Feedly, but I like Feedly's save feature within the apps.	""",0
+0_1395,"""However, sometimes I'd prefer to send an article to InstaPaper, Readability or Pocket AND STILL have it saved in Feedly.""",0
+0_1396,"""Could you install something like that under the sharing options?""""",1
+0_1397,"""Have the app available in the for Lion OSX in the app store.""",1
+0_1398,"""http://www.spritzinc.com/about/; ""...reading becomes more efficient because spritzing_____ increases the time your brain spends processing content without having to waste time searching for the next word...""""",0
+0_1399,"""The direct posting from the feedly to the yammer is much preferred by many of enterprise business persons.""",0
+0_1400,"""Currently we can only choose safari and chrome in options.""",0
+0_1401,"""It would be nice to open articles in the browser we actually use - like Mercury in my case.""",1
+0_1403,"""Many of us use Beyondpod as the ""go to"" app for pod casts.""",0
+0_1404,"""It was easy to integrate with Google Reader.""",0
+0_1405,"""Perhaps a similar situation could be made with feedly.""""",1
+0_1406,"""I subscribe to my YouTube subscriptions in Feedly and so much appreciate this feature.""",0
+0_1407,"""I find it easier to keep up with my subscriptions in Feedly than in YouTube!""",0
+0_1408,"""However, most of the time, I just want to get some of those videos added to my YouTube playlist """"Watch Later"""".""",0
+0_1409,"""It would be awesome to have a 1-click option to add any YouTube video in any post directly to my YouTube """"Watch Later"""" playlist.""",1
+0_1410,"""I'm not sure what the deal is with ""Buffer"" but it seems like a needless step.""",0
+0_1411,"""For some unknown reason it decided to """"buffer"""" my post until 10:45 AM tomorrow?""",0
+0_1412,"""What the heck?""",0
+0_1413,"""Is there an actual reason you cannot share directly to Facebook/Twitter anymore?""",0
+0_1414,"""Is it not allowed?""",0
+0_1415,"""Do you not have the proper agreements in place?""",0
+0_1416,"""Can you get them?""",0
+0_1417,"""That would be wonderful.""",0
+0_1418,"""I'm not the first person to post this.""",0
+0_1419,"""Look it up.""",0
+0_1420,"""I dislike the fact that you have started to mask users Bitly URLs with your own feedly links.	""",0
+0_1421,"""I realize that your link still pings my link and get the analytics, but i have a custom URL for a reason.""",0
+0_1422,"""I understand why you might do this for the FREE version of Feedly, but i implore you to not mask users custom URLs in your upcoming Paid/Pro version.""""",1
+0_1423,"""Would love a 1-click Add To InstaPaper, rather than opening a new window (yes i have a password and even the browser javascript bug).""",1
+0_1424,"""Thank you!""""",0
+0_1425,"""Add FeedReader____ to the App Center list____.""",1
+0_1426,"""Right now it's connected to the wrong account (i have more than one buffer accounts).""",0
+0_1427,"""There is no option to disconnect in any way.""",0
+0_1428,"""I already tried to reinstall the app.""",0
+0_1429,"""share directly with Twitter instead of Buffer""",0
+0_1430,"""I am using this app for my iPad and yours for the iPhone and Laptop.""",0
+0_1431,"""It would be great if you could share the API with the developer allowing a seamless sync amongst the apps (as it happens now with Google Reader).""",1
+0_1432,"""http://mrreaderblog.curioustimes.de/post/52060909928/supported-google-reader-alternatives-part-two""",0
+0_1433,"""Deploy the latest version of Feedly so that I can update the app on my Kindle Fire""",1
+0_1434,"""It seemed like for a few days, Feedly was using Chrome Custom tabs instead of opening links in the external Chrome app.""",0
+0_1435,"""It was a little jarring at first, but once I realized what was going on, I really liked it.; So, why did you quickly remove that feature?""",0
+0_1436,"""So, why did you quickly remove that feature?""",0
+0_1437,"""I understand that a lot of people who choose to have links open in Chrome may not like it, but I really liked having links be added to my Chrome history while still feeling like I was in the Feedly app.""",0
+0_1438,"""Will you be making that an additional option along side """"open directly in browser""""?""""",0
+0_1439,"""http://getpocket.com/developer/docs/authentication""",0
+0_1440,"""Allow for default settings so that when this new ""defaulting"" mode is enabled, clicking the Evernote icon will save with no additional interaction.""",1
+0_1441,"""Default tags would also be helpful -- even better, configurable content keyword tagging would be great!""""",1
+0_1442,"""Have an option to make items open directly in the Chrome Browser on mobile""",1
+0_1443,"""Please make a feedly widget/gadget for iGoogle (or equivalent)""",1
+0_1444,"""A Chrome/Firefox extension that shows a counter of unread items, with a dropdown that lets the user see the items.	""",0
+0_1445,"""Similar to the Official Reader Notifier from Google.""""",0
+0_1446,"""There can be apps installed in system, that catch http url and display its content inside itselves.""",0
+0_1447,"""Built-in browser of Feedly brakes such behavior""""",0
+0_1448,"""Pushbullet is an amazing sharing app.	""",0
+0_1449,"""It pushes stuff from your one device to other, as well as to other person.""",0
+0_1450,"""Sometimes, when I am reading a feed and I want to share it directly with a person, it is very easy to to push it to someone.""",0
+0_1451,"""I know it already does that for Android app, well, because Android OS lists all the apps that keep sharing capability when I hit 'Share' icon in the feedly app but it would be awesome to have it in the web app.""""",1
+0_1452,"""basically instead of having to manually install the Firefox plugin every time there's an update, it should auto update.	""",1
+0_1453,"""Maybe you should consider including the plugin in the Firefox Addon repo/marketplace.""""",1
+0_1454,"""Would be great to be able to read my feedly feeds on ighome.com instead of having to go to feedly.com.""",1
+0_1455,"""So flipbook sort of did this, but they did it awful and i unistalled.	""",0
+0_1456,"""yes, i want feedly to replicate google reader... but I want it to do more.""",1
+0_1457,"""Can you bring in my twitter feed and know which one's I've already read?""",1
+0_1458,"""i.e. do that google reader/feedly does for RSS, but with twitter.... or facebook... or pinterest""",1
+0_1459,"""give me ONE place to consume everything, but only see it once (unless I save it). """,1
+0_1460,"""ohhh that would be awesome.""",0
+0_1461,"""Feedly client doesn't support Android 2.1 so I was forced to use alternative Android apps.""",0
+0_1462,"""I tried more than 5 on my Nook Simple Touch.""",0
+0_1463,"""And all of them have the same problem when trying to log into Feedly.""",0
+0_1464,"""After entering Google username and password I get onto the Moved temporarily page.""",0
+0_1465,"""After clicking on the only link on the page I get an empty page.""",0
+0_1466,"""Offering other ways to log in or even Feedly's own registration system might also help.""",1
+0_1467,"""Every time I restart Chrome feedly mini appears on every web page.""",0
+0_1468,"""I want to turn it off.""",0
+0_1469,"""I've updated my preferences which works until I close the browser and restart it, then my preference is set to show it again.""""",0
+0_1470,"""I have tried the gReader and Press Android clients.""",0
+0_1471,"""Both show we a Google login in a web view within their apps.""",0
+0_1472,"""This is insecure because I cannot verify that I am not phished and that I am talking directly to Google.""",0
+0_1473,"""Such a login process should not be allowed.""",1
+0_1474,"""Login should go through the Google account stored on the Android device.""",1
+0_1475,"""Make the Safari extension open the Feedly page in a new tab/window when clicking the Feedly button, similar to the Safari GReader extension.""",1
+0_1476,"""I didn't see anyone else suggest this but I would think it would be very simple for Flip Board to add support for your service.""",1
+0_1477,"""I see no reason why they wouldn't because I know they transferred over a bunch of Google Reader feeds but they aren't doing what feedly is.""",0
+0_1478,"""Would be nice to have.""",0
+0_1479,"""Would love the ability to monitor specific pages that don't have rss feeds at set intervals, and be able to vary the alert options, such as getting an email etc when the pages change.""",1
+0_1480,"""Thanks and please keep up the great work!""""",0
+0_1481,"""Can I only not find it or is it really gone?""",0
+0_1482,"""Since today I cannot send to Instapaper anymore, which was very useful for me.""",0
+0_1483,"""(I am using Safari)""""",0
+0_1484,"""100% of my blogs are music blogs and i'd say 75% of posts have soundcloud streams embedded into them.""",0
+0_1485,"""to visit the sites externally for EVERY page is not very convient.""",0
+0_1486,"""could u make this happen?""",0
+0_1487,"""Google Reader never did, but I suspect that's because they quit investing R&D into improvements""""",0
+0_1488,"""Allow us to import twitter lists and view them like regular feeds.""",1
+0_1489,"""Support login with Twitter, Facebook, Microsoft, Yahoo, VK account, etc.... and remove google account login support.""",1
+0_1490,"""Allow Android app to provide an option to open within the application or open in a browser.""",1
+0_1491,"""I have read that you did have tumblr integration and then it was gone.	""",0
+0_1492,"""Like a """"Send to tumblr"""" button, and liking posts from tumblr feeds.""",0
+0_1493,"""I assume there was problems with it but some of us really use it and it would be great to have it back.""",1
+0_1494,"""So far this is the best feed reader I've tried.""",0
+0_1495,"""Please consider it.""",0
+0_1496,"""Thanks!""""",0
+0_1497,"""On Android devices it is hard to add new feeds to Feedly.	""",0
+0_1498,"""You can't use """"paste"""" in the search bar/field and you can't use Feedly as a sharing option in other Android apps (Dolphin Browser, etc.).""",0
+0_1499,"""It is really annoying to remember every interesting site until I can use a desktop computer.""",0
+0_1500,"""Please, please add an option to easily add content by using a mobile device!""",1
+0_1501,"""Thanks!""",0
+0_1502,"""Make a Chrome packaged app for Feedly please.""",1
+0_1503,"""So I can launch Feedly from google desktop app launcher.""",0
+0_1504,"""I'm talking about just integrating my stream / followed tumblrs, that is, reading not posting.""",0
+0_1505,"""I keep reading that feedly has tumblr integration, but can't find it anywhere.""",0
+0_1506,"""I just want my tumblr content to show up as """"articles"""" without having to add every single one as RSS.""",1
+0_1507,"""I keep reading that that's possible, but can't find any setting or even anyone explaining HOW it's done.""",0
+0_1508,"""If it is indeed possible, maybe a short how-to in the help section is in order?""",1
+0_1509,"""If it isn't, that would also be great to have clarified somewhere, FAQ maybe.""""",1
+0_1510,"""Youtube video work fine on feedly but somehow vimeo video is not showing the content instead showing error #2048.""",0
+0_1511,"""Take a The Verge for example""",0
+0_1512,"""Better support for Podcasts; """,0
+0_1513,"""I use BeyondPod on my Android phone and it supported integration of sorts with Feedly.""",0
+0_1514,"""My desire is to be able to catch up on podcasts either on my phone or on my desktop such that if I've listened to a podcast completely from either source (i.e. from my browser at home or work or on my cell phone) that the episode would be marked """"listened to"""" (or read) and disappear from the list in Feedly on any of my machines as well as drop off of my BeyondPod list.""",1
+0_1515,"""Ideally if Feedly and BeyondPod could get together and synchronize the position within a podcast would be excellent!""",1
+0_1516,"""That said, as a podcast player, Feedly leaves a lot to be desired.""",0
+0_1517,"""From what I can tell merely starting to play a podcast marks it as read or essentially completely listened to.""",0
+0_1518,"""Furthermore if I am careless and click somewhere else like to read another article, Feedly will stop the playback and go to the place I clicked.""",0
+0_1519,"""It should warn me.""",1
+0_1520,"""Finally a popout player would be nice for the audio/video of podcasts.""",1
+0_1521,"""Chrome extension required too much permission(extension can access: Your data on all websites)""",0
+0_1522,"""Please reduce required permission for chrome extension.""",1
+0_1523,"""work with soundgecko so anything I mark in feedly goes to soundgecko for readout""",1
+0_1524,"""Feedly should let users login through Mozilla Persona or Gravatar, which don't track users.""",1
+0_1525,"""Persona is made by the makers of the Firefox browser and Gravatar is made by WordPress.""",0
+0_1526,"""I would like to change my log in for feedly so that it does not match my google account, which contains other personal data.""",0
+0_1527,"""How?""""",0
+0_1528,"""I cba to leave feedly but I want to know what other people are saying and I want to be able to contribute without signing up to anything.""",0
+0_1529,"""If a blog does use disqus the comments should be viewable and a reply able to be added directly from feedly.""",1
+0_1530,"""make App/Extension/Plugin for all browsers with one click to add feed from any website""",1
+0_1531,"""There are some private blogs on wordpress.com.	""",0
+0_1532,"""You can subscribe to them in wordpress reader once you have access to them, but you can't use them outside wordpress.""",0
+0_1533,"""When you could connect your feedly to your wordpress.com account, why shouldn't you be able to subscribe to them?""",0
+0_1534,"""I don't know if wordpress has an API for this; """,0
+0_1535,"""I guess such a feature would be a big advantage for your service.""""",1
+0_1536,"""Even though I'm logged in to Google in the same browser, and I've already logged in to Feedly with my google account and granted access to use what it wants, it still keeps logging me out then making me go through this process every couple of days - why?""",0
+0_1537,"""I wish as feedly pro user, if I save the feeds in Evernote I want to tag the note, not only the notebook but also the tag of Evernote.""",1
+0_1538,"""The utm_ parameter added to your links breaks them at some sites.""",0
+0_1539,"""Case in point: New York Magazine.""",0
+0_1540,"""Creating a win win situation for readers and content creators.""",0
+0_1542,"""Further thoughts: feedly could develop 'subscription options' for content creators.""",1
+0_1543,"""i.e feedly handles payment and delivery of information, creator creates information and receives revenue.""",0
+0_1544,"""Readers get access to contribution-only content.""",0
+0_1545,"""It's been seen over time how simple barriers can stop people from doing activities that they want to do and that benefit them and others.""",0
+0_1546,"""I would like to see better integration with Google services across the board, specifically GMail, Google+, and Google Drive.""",1
+0_1547,"""I would like the ability to email articles with GMail, post them to Google+, and save them to Google Drive.; 'cause Google doesn't own quite enough of my soul, yet.""",1
+0_1548,"""Though this idea has been expressed to varying degrees with regard to specific services, like google translate, I've not seen it expressed generally.""""",0
+0_1549,"""This option existed before.""",0
+0_1550,"""Now I have to go the the source article to have the option to post to a LinkedIn group.""",0
+0_1551,"""It's a relatively minor detail but it would be really convenient.""",0
+0_1552,"""Import RSS from other readers""",1
+0_1553,"""Beyond Pod is my main feed reader when I'm not on my computer.	""",0
+0_1554,"""I like it because of its built in browser and various settings for feeds and podcasts, which the Google Reader app didn't have.""",0
+0_1555,"""Please consider speaking to the people of Beyond Pod to integrate with their app.""""",1
+0_1556,"""Feedly is beautiful, and I would love to use it on my Windows 8 Phone""",0
+0_1557,"""Allow publishers to trigger feedly to refresh feedly's cached version of their RSS feeds.""",1
+0_1558,"""Feedly doesn't seem to notice when existing feed content for a date/time changes and refresh their cache.""",0
+0_1559,"""Letting publishers trigger that refresh could be a work around when there are errors in the publisher's feed.""",1
+0_1560,"""add integration with Trello""",1
+0_1561,"""Evernote sharing in feedly seems to cause the Chrome Evernote plugin to sign out the user and then Feedly takes you to a web page version of Evernote, rather than using the Evernote plugin clipper to push it directly into the application or push it transparently to the web.""",0
+0_1562,"""I just see a blank screen on IE9.""",0
+0_1563,"""Since i'ts my work computer I can't control the software upgrade.""",0
+0_1564,"""If you don't fix that i will seriously consider droping feedly.""",0
+0_1565,"""Chromecast support would be great so I could read my news on big screen.""",1
+0_1566,"""I love how you have pintrest integration on your images - please consider adding GimmeBar integration as well.""",1
+0_1567,"""The type of users on gimmebar vs pintrest is night and day.""",0
+0_1568,"""great app!""",0
+0_1569,"""gimme bar https://gimmebar.com/""",0
+0_1570,"""As above""",0
+0_1571,"""I'd love to be able to export all of my ""saved for later"" articles to my kindle so I can read it via e-ink.	""",1
+0_1572,"""I used to subscribe to instapaper's premium service and it exported all of my articles into a kindle """"book"""" with a table of contents etc.""",0
+0_1573,"""I feel like this might be easy to integrate with a service that's already up and running like SendtoReader.com OR I would gladly pay $$$ to have the option for Feedly to do it on it's own and send to my kindle.""""",1
+0_1574,"""Feedly allows folder order to be rearranged instead of appearing in alphabetical order.""",0
+0_1575,"""This is useful to me as I'd prefer that a group or groups of feeds in some folders appear at the bottom of the """"all items view"""".""",0
+0_1576,"""I changed the folder order via the Feedly web interface (organize) but the changes in folder order are not being reflected in Mr. Reader.""",0
+0_1577,"""I logged out of then back into the Feedly account in Mr. Reader but the folders are still appearing in ascending alphabetical order.""",0
+0_1578,"""Please enhance your API.""",1
+0_1579,"""I rarely use Google Plus, but there are few very interesting people using it who's post I'd like to read.	""",0
+0_1580,"""For example Linus Torvalds.""",0
+0_1581,"""On Feedly Android App, when I share something through email, it goes straight to Gmail app, when I rather want to use the Regular Email App on that plataform.""",1
+0_1582,"""Make it possible for us to choose the Mail App we want to use!""",1
+0_1583,"""As a feedly users we all know the pain of having to deal with truncated feeds.""",0
+0_1584,"""This problem becomes more prevalent when using mobile apps that rely on feedly like Press on Android.""",0
+0_1585,"""I would like to request the capability to run articles through the readability mobilizer before they're inserted into our feeds.""",1
+0_1586,"""This would help to solve the problem of truncation and poor article formatting.""",0
+0_1587,"""I have missed the ""email subscriptions"" feature of the old (pre-2008) bloglines ever since they discontinued it.""",0
+0_1588,"""I would gladly become a Feedly Pro subscriber if you offered something comparable.""",0
+0_1589,"""In a nutshell, you could create a bunch of random email addresses that you could use when subscribing to newsletters (etc) and then any emails sent to one of those addresses would show up as a standard HTML feed.""",1
+0_1590,"""This was fantastic for those sites which offer more content in their email newsletter than their RSS feed (or lack an RSS feed completely).""",0
+0_1591,"""A perfect use case for this would be to turn twitter/facebook/etc notifications on and forward those to these email addresses instead of having them clog up my inbox.""",1
+0_1592,"""This could be used for any of these """"closed"""" services which do not offer RSS feeds.""",0
+0_1593,"""The closest solution to this I have found is to use mailinator to create the throwaway emails (and they support rss feeds) but they also strip out all images/attachments/etc and generate plain text feeds, so this isn't a good solution.""",0
+0_1594,"""Please consider adding this type of feature to feedly.""""",0
+0_1595,"""In iGoogle there was the Google Reader gadget.""",0
+0_1596,"""One of the very popular alternatives to iGoogle is netvibes.com.""",0
+0_1597,"""It would be cool if there was a feedly gadget for netvibes.""",1
+0_1598,"""oEmbed is a format for allowing an embedded representation of a URL on third party sites.""",0
+0_1599,"""Eagerly waiting on connection with Evernote!""",0
+0_1600,"""There are my tags I use daily.""",0
+0_1601,"""The way Flipboard has implemented Twitter is that it grabs the content in the tweet and displays it, so rather than a user having to click a link to read an article or view an image, it simply gets the article content or image and displays it, with any text of the tweet acting as a caption.	""",0
+0_1602,"""It would be great if I could integrate my Twitter account into Feedly the same way, and have full images or articles displayed alongside my RSS images and articles.""""",1
+0_1603,"""SoundGecko is a great way to be able to listen to articles that you want to read later while in the car or on the go.""",0
+0_1604,"""I use it every day.""",0
+0_1605,"""I would love to have direct integration so that I can easily send articles to SoundGecko from within the Feedly app.""",1
+0_1606,"""I've only noticed this on two feeds, my own blog and XKCD's.""",0
+0_1607,"""In both cases what should be a """"float:left"""" is actually changed in the code to a """"float:right.""""""",0
+0_1608,"""See attached.""",0
+0_1609,"""This does not occur in Google Reader, where the original layout displays normally.""",0
+0_1610,"""Since the attribute isn't changed in Reader, I concluded that the problem is with Feedly, not the RSS feed itself.""""",0
+0_1611,"""Please enhance the new back up function (http://blog.feedly.com/2014/07/14/dropbox-vault/) and enable local drive integration.""",1
+0_1612,"""This would allow anyone to back up to DropBox, GoogleDrive, Synology Cloudstation, Microsoft OneDrive or any other """"cloud"""" solution which has a local drive representation (in addition to allowing me to save it on a local machine)""""",0
+0_1613,"""I can login into my account for the past 3 days.	""",0
+0_1614,"""I was logging in using my google credentials.""",0
+0_1615,"""The Oauth screen is popping up and hanging,""""",0
+0_1616,"""It would be nice to be able to add usenet newsgroup in Add Content such as comp.""",1
+0_1617,"""Mailing list would be great as well.; Great job!""",0
+0_1618,"""something like AntennaPod (https://play.google.com/store/apps/details?id=de.danoeh.antennapod) would be very nice""",1
+0_1619,"""Maybe you could send them an API or something so they can add the option to sync with Feedly once GReader disappears.""",1
+0_1620,"""It would be super useful if you are able to choose your own default email app.""",1
+0_1621,"""Not everybody uses the Gmail app as default... some others use CloudMagic, Mailbox, Inbox, K-9 and such_""",0
+0_1622,"""Please guys make it happen!""",0
+0_1623,"""I cannot login to my Feedly account using Windows 10 Microsoft Edge, even after deleting all cookies etc.	""",0
+0_1624,"""I can still login with iexplore.""",0
+0_1625,"""I cannot tell if this is a problem with Edge or with Feedly.""""",0
+0_1626,"""Google Reader allows you to get a public rss feed for each category/label used.""",0
+0_1627,"""Is very useful for sharing feeds, using it with wordpress blogrolls, ecc...""""",0
+0_1628,"""It would be great, if google+ button opened an app on iOS(if it is installed).""",1
+0_1629,"""I used Google Reader to get the best posts from many blogs and share them through my own Blog, hosted in Blogger.""",0
+0_1630,"""Google Reader had the option """"Send to > Blogger"""".""",0
+0_1631,"""That's the only feature I'm missing in feedly.""",0
+0_1632,"""I can add my Tumblr blogs to my groups to read them but if I want to like them, I have to open the page in another browser window.""",0
+0_1633,"""It would be nice if we could get the Tumblr heart right in the feedly page like how we can save for later.""",1
+0_1634,"""Reblog support would be nice too but mostly just like at least!""",1
+0_1635,"""I know of many folks -- including yours truly -- who use Feedly in conjunction with Pocket.""",0
+0_1636,"""I noticed that Buffer and Evernote each have a keyboard shortcut in the Web interface.""",0
+0_1637,"""My feature request is rather straightforward, add a similar shortcut for Save to Pocket.""",1
+0_1638,"""for example if you want to have a feed with a particular tracked tag from tumblr, Feedly could create a feed.	""",0
+0_1639,"""For example if you want a feed for every tumblr feed containing the hashtags """" #retail #design """"; """"http://www.tumblr.com/tagged/retail+design""""; would be a feedly feed.""""",0
+0_1640,"""The current version of your Chrome Web App does not behave correctly:; When you click the icon of a Chrome web app this should bring an existing, open window or tab to the front or in case of a window minimize it into the Chrome Launcher or maximize it from there.; Feedly's web app, however, keeps on opening a new window or tab everytime you click on it.""",0
+0_1641,"""The current version of your Chrome Web App does not behave correctly.""",0
+0_1642,"""When you click the icon of a Chrome web app this should bring an existing, open window or tab to the front or in case of a window minimize it into the Chrome Launcher or maximize it from there.""",0
+0_1643,"""That can really drive you nuts as there is almost no other web app that does this (Google+ being the stupid other exception of the rule).""",0
+0_1644,"""Please fix this by updating the manifest.json file inside the app.""",1
+0_1645,"""It should be enough to make the URLs match the actual URL of the open app.""",0
+0_1646,"""So in case you switch to https do use that in the manifest , too.""""",1
+0_1647,"""Currently if there's a link to an app in the Google Play store it opens in the Feedly browser instead of using the Play app which is frustrating.""",0
+0_1648,"""This is just one example of many so it seems to be a problem with opening in the browser only.""",0
+0_1649,"""We should have the choice!""",0
+0_1650,"""For instance, Feedpress can't see how many people subscribe to feeds through Feedly.	""",0
+0_1651,"""Please allow some way for RSS services to get access to that data, especially since Feedly is so big.""",1
+0_1652,"""Right now it's a black box.""""",0
+0_1653,"""Fix it if you can.""",0
+0_1654,"""How about giving Feedly compatibility with If This Then That?""",1
+0_1655,"""Posting to Pocket via the Chrome extension is currently very laborious (opens in a separate tab, then loads all your Pocket stories every time!).""",0
+0_1656,"""Pending more straightforward integration with Pocket, how about allowing us to send our entire 'saved' list straight to Pocket?""""",1
+0_1657,"""You reader is nearly unusable with tools that allow mouseless browsing (vimperator, pentadactyl), please replace all links you emulated with divs (eg menu on the left) with real hrefs, so these are found by such tools.""",1
+0_1658,"""Let the content creators see that their content is viewed in your service.; Like: http://feedburner.google.com/""",1
+0_1659,"""I add RSS source by click the RSS icon on the URL bar on Chrome, but with feedly i can't do it.	""",0
+0_1660,"""Please, make a way to do that.""",0
+0_1661,"""Rendering is messed up in IE10 and 11.""",0
+0_1662,"""I'm SUPER grateful that you guys got it working at all by July 1st, but this is something that will need to be fixed.""",0
+0_1663,"""When showing news as just title lines, in Chrome it'll show 1 title per line, so to say, and the 1st line of the article is revealed after the title or upon clicking on it.""",0
+0_1664,"""In IE10-11, every news line is effectively 2 lines; 1 line for the title, then the 1st line of the article starts AND goes on for a full 2nd line.""",0
+0_1665,"""This looks really weird and is quite distracting when trying to read my RSS.""",0
+0_1666,"""Again, super grateful you guys got it working somewhere other than Chrome (a life saver since I can only use IE on my Windows RT Tablet), but this needs to be fixed eventually.""",1
+0_1667,"""When saving to (Pocket in this case) a third party app, having visual feedback that the save is happening would be useful.""",1
+0_1668,"""I have performed a save multiple times, as its not always instant (a limitation of integrating with a third party I understand).""",0
+0_1669,"""Maybe the press to save could change the item color until saved, and the save icon could be disabled until it is saved""""",1
+0_1670,"""Now that we have a wonderfully awesome Evernote integration, it's time to make it easier to use.""",0
+0_1671,"""I have quite a few notebooks and would like to be able to select one notebook as a default so I can simply click the Evernote icon and voila, the article saved to my default notebook.""""",1
+0_1672,"""When I send content from Feedly web to Evernote, the formatting comes across wonky and unclear.""",0
+0_1673,"""When I send it from other similar tools like Mr Reader, it comes across as an article and without the extra content from the website.""",0
+0_1674,"""I wish to add content in Evernote with the clearest formatting I can so it needs to be better than Feedly currently supports.""""",1
+0_1675,"""Many people want you to get rid of the need for an extension and make Feedly a pure-web-based app.	""",1
+0_1676,"""So do I.""",0
+0_1677,"""If you're not going to, please explain, """"why not?""""""""",0
+0_1678,"""What I really want are GMail-style filters for feeds, to automatically star or mark as read based on matches.""",1
+0_1679,"""A typical example: If article subject contains """"this week in"""", mark it as read.""",0
+0_1680,"""If article body contains """"My Name"""", star it and send to instapaper.""",1
+0_1681,"""I *think* IFTTT integration could get us there, with not too much in the way of additions, add trigger with pattern or keyword matching on subject, sender, body, etc., add 'mark as read' as an action""""",1
+0_1682,"""It should be possible to specify actions in IFTTT that mark articles as read when triggered.""",0
+0_1683,"""I would like to do some action when new articles show in some categories, but I don't want to see them anymore in Feedly after this action is executed.""""",1
+0_1684,"""Lots of blogs contains LaTeX code, to display mathematical characters.""",0
+0_1685,"""This should display as the characters themselves, rather than just as the code.""",1
+0_1686,"""$\alpha$ should be the Greek letter alpha, and so one.""",1
+0_1687,"""This would make it much easier to read philosophical and mathematical blogs.""",0
+0_1688,"""(Pages created with Wordpress allow this.)""""",0
+0_1689,"""This would allow you to minimize the rights required for users interested only in the reader.""",0
+0_1690,"""keyword filtering, deleting articles/authors not of interest, prevent unwanted articles from being grabbed by IFTTT.""",0
+0_1691,"""Some Tumblrs I read have passwords on them.""",0
+0_1692,"""It'd be great to have a way to add these feeds to Feedly by allowing us to enter the password once from Feedly""",1
+0_1693,"""Make it possible for me to open articles and links inside articles IN SAFARI, from within feedly.""",1
+0_1694,"""I am looking for something like this but for feedly https://chrome.google.com/webstore/detail/checker-plus-for-google-r/lbmpmiibbncadgagnfcloaeilfhomemb""",1
+0_1695,"""Create Delicious integration to allow sharing to delicious.com""",1
+0_1696,"""The side area allows you to include your Facebook and Twitter feed.""",0
+0_1697,"""If you're using Feedly as your homepage, a quick overview of upcoming events might be nice.""""",1
+0_1698,"""Please let me sign in with an ID and password I chose (not my google account)""",1
+0_1699,"""I'd like to connect articles with items in my calendar.""",1
+0_1700,"""E.g. I read an article about concert and add an item to calendar attaching link to article.""",0
+0_1701,"""Or I read an article about grant or scholarship and create calendar item for documents submission deadline attaching link to article.""",0
+0_1702,"""I'm limited to IE 7 on Windows XP at work.""",0
+0_1703,"""All I get is the same white screen all the IE 8 and IE 9 users are complaining about.""",0
+0_1704,"""Is there anything you can do to make Feedly work on IE 7?""",1
+0_1705,"""Hi Few day ago I have started using you excelent app, but one thing annoying me.	""",0
+0_1706,"""My favorite web page which id http://lodz.naszemiasto.pl/rss/artykuly/1.xml is not acceptable by your app.""",0
+0_1707,"""Could you fix it?""""",0
+0_1708,"""Hello Feedly developers, here is a proposal on how to create a win win situation for readers and content creators.	""",0
+0_1709,"""Flattr is still not lifting, mainly due to a lack off content creators willing to register themselves at flatter.""",0
+0_1710,"""Also flatters prototypish content search function makes it hard for users to find proper content.""",0
+0_1711,"""Feedly has a user friendly interface with a pretty reliable search function and share options to several other applications.""",0
+0_1712,"""It might be an idea to add a flatter function to feedly.""",1
+0_1713,"""Alternatively, a simple flattr-inspired donate function might do it. """,1
+0_1714,"""feedly pro readers sign up for the 'donate' option where they can donate an amount of money for articles they liked. """,1
+0_1715,"""The amount of the donation is up to the user, the user pays in advance into his pro-account and may spend that money for article donations.""",1
+0_1716,"""As a feedback, a graphical representation of number and amount of donations and how many readers have read and/or donated a certain article is shown.""",0
+0_1717,"""In this way, the current intransparent """"recommendation count"""" would become more transparent.""",0
+0_1718,"""All articles can be donated too.""",1
+0_1719,"""The donated money will be transferred to all publishers who are interested in getting donations, similar to """"unclaimed flatters"""".""",1
+0_1720,"""Bloggers/Authors who want to claim their money do this by registering their rss-feed and bank- or paypal-account at feedly.""",1
+0_1721,"""After registration, unclaimed donations will be transferred from donator to author.""",1
+0_1722,"""feedly keeps a certain percentage of the donation as an administration fee.""",1
+0_1723,"""Benefits: gives readers an easy way to support the authors and content they like.""",0
+0_1724,"""gives content creators an additional revenue model.""",0
+0_1725,"""gives feedly an additional revenue model.""",0
+0_1726,"""opens up further possibilities around subscription, paid-only content, contributors influencing content creators, etc.""",0
+0_1727,"""Feedly could re-invent the way we consume articles in the same way how Amazons Kindle Unlimited did with the book market.""",1
+0_1728,"""An easy-to-use donate-function might turn feedly pro into a universal news portal for fact-based quality news.""",1
+0_1729,"""This function might change the independent news market in a similar way as Amazons Kindle unlimited did to the book market and might attract both readers and authors to sign up for a feedly account.""",0
+0_1730,"""Anyway, the most important feature is to find the simplest way to transfer money from article-readers to article-authors.""",0
+0_1731,"""Feedly could be the perfect platform for that.""",0
+0_1732,"""I have two twitter accounts that I use regularly, one for work and a personal account.	""",0
+0_1733,"""I often post to both from Feedly, but this requires a lot of logging in and out.""",0
+0_1734,"""Integration with Tweetdeck would allow me to easily post to either account.""""",0
+0_1735,"""I often want to read articles at a later time in Safari's Readling List.""",0
+0_1736,"""Would love to have a direct link to do this.""",1
+0_1737,"""Do you think it's possible to mod this little software ""Google Reader Notifier"" by Yonizaf (http://code.google.com/p/google-reader-notifier-windows/) to notify us when new Feedly feeds are available.""",1
+0_1738,"""Currently in browser and mobile version one has often to do two step navigation to go to original content (e.g. youtube rss for uploads, in browser and mobile version it embeddes video, which is not what some of us want""",0
+0_1739,"""I prefer to see original content most of the time) so along with mark as read / save links there could be URL link which will drive to the original site.""",1
+0_1740,"""Applies to browser and mobile versions.""""",0
+0_1741,"""It would be awesome to play all videos one by one like in a playlist but without a hassle of creating one.""",1
+0_1742,"""I often have many short videos which I have to click individually which is pretty annoying when I want to do sth else and not touch computer.""",0
+0_1743,"""Feedly is a website.""",0
+0_1744,"""Luakit is a browser.""",0
+0_1745,"""I *should* be able to use feedly in luakit.""",1
+0_1746,"""I understand that offline support is being worked on and can't wait to use that functionality, however since Google Reader is shutting down within weeks, and BYLINE reader is the ONLY offline reader currently available for commuters, it would be fantastic if you could work together... """,0
+0_1747,"""Unfortunately they only pull their feeds from google reader.""",1
+0_1748,"""The Android app is missing a ""mark as unread"" option.""",1
+0_1749,"""It would be great if you could add a link / bookmark right into your Diigo account while reading in Feedly.""",1
+0_1750,"""I am a blogger and I want to make it easy for people to subscribe by having a flare unit for them to add my feed to their Feedly, but I simply cannot find a working flare unit to add to my feedburner.""",0
+0_1751,"""And, I seem to be having trouble making one of my own.""",0
+0_1752,"""Please create and host a flare unit and provide the URL for bloggers to easily add this option for their readers who use Feedly.""",1
+0_1753,"""Sina weibo is a service like twitter in China(It has biggest market share).	""",0
+0_1754,"""I can use flipboard to access my feeds in sina weibo, but I like feedly better, so if it can be done in feedly, it will be great for me.""""",1
+0_1755,"""Now it shows 5 recent items which makes it unusable""",0
+0_1756,"""I cannot see more and have to go to FB website anyway - so the integration is not useful at all""",0
+0_1757,"""the button to subscribe to rss with feedly in Firefox actually does nothing""",0
+0_1758,"""some articles include slideshows with article information that have to be viewed with a swipe action.""",0
+0_1759,"""Because feedly's swipe action moves to the next feed, its not possible to view the slideshow.""",0
+0_1760,"""Either allowing a function to go to a webpage in your internet browser outside of feedly or using another action to view the slideshow""""",0
+0_1761,"""Other similar apps have this functionality, it would be quite useful to my workflow, at least.""",0
+0_1762,"""Since you can integrate with Twitter, it would be nice to have my ""saved"" links across both platforms show up in a nice readable format in Feedly.""",1
+0_1763,"""I'd like to have Feedly automatically detect YouTube videos in feeds, and if I save a post with a YouTube embed, automatically add that specific video to my 'Watch Later' feed in YouTube.""",1
+0_1764,"""This way, I can pull up the YouTube app on my phone or tablet later and watch these videos on my Chromecast.""""",0
+0_1765,"""Make the Feedly reader browser extension more like the Google reader extension.""",1
+0_1766,"""Add a drop down menu of the sources with number of unread items in (), list the latest unread articles in a scrollable manner and add a ""mark all as read"" button and the link to the feedly reader.""",1
+0_1767,"""Maybe you could also add a link to the preferences and please make sure that clicking a link to an article marks it as read in feedly ;-) Thanks!""""",1
+0_1768,"""Footnote popovers, as used on many popular blogs and Wikipedia, display the footnote itself within a pop-up bar or text bubble right next to the main article text it relates to.""",0
+0_1769,"""In a properly formatted RSS article, the reading app will display the footnote inline and not require invoking the web browser and going online.""",0
+0_1770,"""Can Feedly's RSS parser be made to not break this functionality please?""""",1
+0_1771,"""I want to open feeds outside of Feedly sometimes and look at the site it came from.""",1
+0_1772,"""I prefer to use Chrome and it crashes constantly in Feedly on my iPAD if I browse beyond the article 's page.""",0
+0_1773,"""It's a more stable option that selecting Chrome as the 'preferred browser' in Feedly.""",0
+0_1774,"""Also we should have the choice... I'm not going to leave Feedly - it's a great app!""",1
+0_1775,"""Just looking for an option that let's me list my articles from oldest to newest like I have it in the on the site.""",1
+0_1776,"""I'm looking for a consistent experience.""",1
+0_1777,"""I currently use NewsBlur, but I'd love to transfer all my feeds via OPML to Feedly.""",1
+0_1778,"""Unfortunately, Feedly's OPML support is artificially limited to Google Reader's exact OPML format, but there's no reason we can't expand it to handle NewsBlur's OPML download format for importing into Feedly.""""",1
+0_1779,"""Let us configure the directory and file names when saving to Dropbox, with tokens like <year>, <month>, <date>, <feed-name>, <post-date> etc.""",1
+0_1780,"""When you click on an rss feed in firefox it shows you a preview of the current feed with an option to subscribe to it.	""",0
+0_1781,"""But the current add on doesn't add an option to the list of programs to subscribe using.""",0
+0_1782,"""I've tried adding it manually but it doesn't work, and in any case it shouldn't be that awkward.""",0
+0_1783,"""Also would be nice to petition firefox devs to have it as standard.""""",1
+0_1784,"""Please remove unsaved items from Dropbox (or add a preference).""",1
+0_1785,"""Would also mitigate this:""",0
+0_1786,"""Allow all your ""Saved for Later"" items to be exported as a bookmark file in a similar format to the Firefox and Google Chrome bookmarks export tool.""",1
+0_1787,"""This will allow bulk importing of """"saved for later"""" items into tools like pinboard.in""""",0
+0_1788,"""I just cant use the chrome extrension.	""",0
+0_1789,"""It won't allow me to log in, the window containing the form is closed as soon as the form has finished loading""""",0
+0_1790,"""I love Feedly, it's a really well-programmed app.""",0
+0_1791,"""Nevertheless there's one thing that annoys me""",0
+0_1792,"""when I press a link in an article that I'm reading on feedly then the link will always open inside Feedly.""",0
+0_1793,"""There is no option to open the link directly in the browser (safari or -in my case - chrome).""",0
+0_1794,"""sometimes it's necessary to open links in the browser, out of convenience and sometimes for usability.""",0
+0_1795,"""usually I end up opening the link in feedly, wait for the site to load, and then i go into the options menu to open the site once more in chrome.""",0
+0_1796,"""it would be so much easier just to have a context-menu item that gives the option to open a link directly in the browser.""""",1
+0_1797,"""Support for reading latest gmail mails directly from inbox feed just the same as igoogle""",0
+0_1798,"""When I switch in IOS to another application (e.g. to translate a word) and switch back again the reader goes to a title page instead staying on the page I was reading, which is not pleasant.""",0
+0_1799,"""Possibly some translation functionality might be useful.""""",1
+0_1800,"""We can set the preferred browser on iOS, this rocks.""",0
+0_1801,"""However if I then click on sharing and google plus, it opens in safari.""",0
+0_1802,"""My suggestion is to honour the preferred browser, if chosen, when using more generic based web sharing services.""""",1
+0_1803,"""I do not need all the Pro features.""",0
+0_1804,"""I'd love to pay $10/year just for evernote integration, though.""""",1
+0_1805,"""This function is currently available in the Gmail and Pocket iOS apps, in which a button appears at the top left corner of the Chrome browser which will allow the user to quickly return to Feedly when they view a page in Chrome from Feedly.""",0
+0_1806,"""More convenient than using multitask function.""""",0
+0_1807,"""Integration or support to work with Net News Wire for Mac and Reeder and Instapaper for iOS""",0
+0_1808,"""Recently, there was a change that forced you to use a Buffer account to share to social networks, such as Facebook.	""",0
+0_1809,"""Seems kind of pointless for those who don't have a Buffer account (nor want one) to have to create an account, and have it be the middleman between Feedly and Facebook.""",0
+0_1810,"""I LOVED the way Facebook sharing was!""",0
+0_1811,"""Clean, at the end of articles, and available for comments before posting.""",0
+0_1812,"""If it ain't broke, don't fix it.""""",0
+0_1813,"""Feedly allowed mailing articles through gmail directly instead of bringing up a mail client.""",0
+0_1814,"""I want that feature back as I would like to mail my articles directly.""",1
+0_1815,"""The G+ hack does not work for mailing lists.""",0
+0_1816,"""When I tag an article in feedly, i want the tags to follow when i export the article to evernote (with the built in evernote feature for Feedly Pro plan).	""",1
+0_1817,"""As it is now when i export, with the evernote-button, an article i have to manually log in to evernote and ad the tag again.""""",0
+0_1818,"""It would be nice if we were able to view content from Twitter embeds (such as images) in Feedly.""",1
+0_1819,"""Some libsyn feeds don't link to the libsyn item but rather the audio file directly.""",0
+0_1820,"""You used to be able to right click on the item in feedly and save it.""",0
+0_1821,"""Now you have to open the file and use save page as.""",0
+0_1822,"""Please fix this.""",0
+0_1823,"""BeeLine Reader (full disclosure: I'm the founder) has browser plugins that apply eye-guiding color gradients to make reading faster and easier.""",0
+0_1824,"""Over 85% of people find that these gradients improve readability, and the plugins work great on feedly.""",0
+0_1825,"""But the BeeLine functionality could be built into the feedly UI, using the BeeLine javascript library.""",1
+0_1826,"""add Google+ as option for feed that appear on the left in the app and also in your main feed""",1
+0_1827,"""When we long-press on a link in Feedly or in a web view, we're given the option to add it to Reading List, but not to Instapaper or any of the other Read Later services.	""",0
+0_1828,"""When you select a preferred RL service, it should also be available when you long-press a link so that you can send that link directly to your favorite service, rather than having to open the link, wait for it to load, then send it to Instapaper or Pocket or whatever you prefer.""""",1
+0_1829,"""I have searched high and low - Google, DuckDuckGo, feedly.com (which redirects me to my feeds, from where there are no other links), PimpMySafari (dead link) Apple's Safari Extension Gallery - everywhere.""",0
+0_1830,"""I see people talking about the extension all over the place - but for the life of me, I cannot locate a link to the damn thing.""",0
+0_1832,"""The abillity to export an article or post directly to Kindle or/and other e-book readers.""",0
+0_1833,"""In the Firefox extension, selecting ""oldest first"" under ""change layout..."" doesn't stick.	""",0
+0_1834,"""It keeps resetting to unchecked (so the sort is newest first the next time you enter that category.""""",0
+0_1835,"""Import ""google current"" feeds into feedly""",1
+0_1836,"""Add ability to share whole articles to Evernote.""",1
+0_1837,"""This option is very important when RSS feed contains only text excerpt.""",0
+0_1838,"""make feedly more sandboxed""",1
+0_1839,"""Android 4.1, Feedly 19.1, Chrome.""",0
+0_1840,"""I have a chrome icon in the action bar.	""",0
+0_1841,"""I think its for """"open in browser"""" or maybe """"share with chrome"""".""",0
+0_1842,"""Anyway, it'd be great if this opened the currently visible article in the browser instead of the previous article.""",1
+0_1843,"""That's how it used to work and I think that makes more sense.""""",0
+0_1844,"""Sometimes after I've clicked into an article--into a Chrome tab--and then clicked the ""Back"" button, I end up at the Feedly app's top level, rather than at the article summary.""",0
+0_1845,"""I'm presented with the Feedly app's splash screen along the way.""",0
+0_1846,"""As is, one has to open each post one wants to read later.	""",0
+0_1847,"""Often I have little time and just want to scan headlines, and make sure the ones that seem important get into the readitlater pile.""""",0
+0_1848,"""Unify login feedly allowing access by more than one source (or facebook or Google or Microsoft or ...).""",1
+0_1849,"""Just depending on what the user decided accounts relate.""",0
+0_1850,"""I would like the Feedly Chrome app to act just like the Google Reader one, shows how many feeds I have and I can click on them individually.""",1
+0_1851,"""Add the number of followers to your subscribe button (like Bloglovin already does) to be displayed on blogs.""",1
+0_1852,"""Provide the html code with your other buttons.""",1
+0_1853,"""Integrate Twitter cards on article preview page, so that when viewing an article that has an embedded twitter card with all its information, it shows the card instead of plain text.""",1
+0_1854,"""When I save an article to Evernote, the resulting note is the text and images, but not what the webpage looks like.	""",0
+0_1855,"""The Evernote Web Clipper allows to me save the full page, but I would love to be able to do this straight from Feedly.""",1
+0_1856,"""I currently use Pocket as my """"read later"""" app, but was hoping to move to Evernote.""""",0
+0_1857,"""Right now it takes 2 clicks and navigating to another tab for saving to pocket, it would be nice if it's handled in the same window with pop-up , or just with single click.	""",1
+0_1858,"""Also, if it's possible to override save for later to pocket.""""",1
+0_1859,"""I'd like to have feedly integrate with bit.ly.""",1
+0_1860,"""Bit.ly's bookmark function, combined with it's URL shortener and usage information would be really useful when sharing from feedly!""""",1
+0_1861,"""Please allow Chrome feedly (and other browsers' feedly) to customize favourite saving tool, so that I can save to pocket with one click (and please also cut the settings on the pocket's end for ""adding a new item"").""",1
+0_1862,"""Would be most appreciated!""",0
+0_1864,"""I currently use gRead widget to see my unread count on Google Reader.""",0
+0_1865,"""It's how I get notified that there is unread items while I am on the Mac.""",0
+0_1866,"""Essentially, I'd like to see the ability to add ""All"" to an external application, such as Desktop Ticker by Mike Batt """,1
+0_1867,"""This application and gReader Pro for Android is where I pull all my news in normally, and Desktop Ticker is now useless as of this morning without a way to pull Feedly (or Digg Reader?	""",0
+0_1868,"""might have to check to see if they have its data into it.""""",0
+0_1869,"""I like the feedly interface more than the Instapaper interface.""",0
+0_1870,"""I would like to read my Instapaper saved articles via feedly.""",1
+0_1871,"""We use Feedly and the Buffer link in a work environment.	""",0
+0_1872,"""I have Googled and found at the moment, Feedly only works on one web browser which is Google Chrome.""",0
+0_1873,"""We are limited to one browser (which is Internet Explorer) in our work environment so we are currently unable to use your services.""",0
+0_1874,"""Please can you give us a fix or enable your program to work in IE.""",1
+0_1875,"""Other user's who are using your program for work purposes will have a similar problem as it makes it difficult for IT teams to support more than one browser.""""",0
+0_1876,"""I'd like to be able to save articles to MindSky similar to other integrations.""",1
+0_1877,"""As available with their save tool: http://sky.mind.im/6301""",0
+0_1878,"""It's frustrating that I don't need to remember passwords anymore when I'm using Safari but I need to exit Feedly, go to Settings> Safari>Passwords>look for the site>copy password>go to Feedly again and paste password.""",0
+0_1879,"""Apply the awesome mobile app feature to the web interface!""",1
+0_1880,"""I would love to be able to save directly to Pocket like I can on the android app.""",1
+0_1881,"""all is in title""",0
+0_1882,"""when a term is added, should lookup for feeds in popular RSS Feed Directories in one go.	""",1
+0_1883,"""This will present with more options to subscribe to.""""",0
+0_1884,"""As a web developer, I do not like plugins that add elements to the DOM of each page.	""",0
+0_1885,"""Can you use a traditional address bar button?""""",1
+0_1886,"""simple timeline were you can add content from twitter-accounts & facebook sites/profiles (in a own categorie?)""",0
+0_1887,"""I'm working on a feedly application and I want to add some ""pro"" features like in-stream search, but I'm not able to test these because i don't have a pro account.""",0
+0_1888,"""So my suggestion is to offer developers a switch to turn on/off pro features in the sandbox.	""",1
+0_1889,"""Obviously this should be somehow restricted so that this system can't be abused.""""",0
+0_1890,"""Feedly always inserts ""quotation marks"" in posts to Buffer.""",0
+0_1891,"""Please remove the quotation marks or make Buffer post template editable like already the Twitter post template.""",1
+0_1893,"""The use case is that I'm surfing the web and I find a site that I'd like to follow.""",0
+0_1894,"""I drag the url to my feedly bookmark, and Feedly adds the feed to my account (even better would be the ability to categorize the feed as I add it).""",1
+0_1895,"""The ability to let indigo read the title of the posts perhaps with commands to marks as unread, save even read the whole article Like an interactive radio""",0
+0_1896,"""You Recently added function and allowed us to save an article to; Evernote , that's great !	""",0
+0_1897,"""However , ___________________________ ( Evernote's service for China ) is not supported.""",0
+0_1898,"""Please do not abandon market in China !""""",1
+0_1899,"""Please remove google+ requirement.""",1
+0_1900,"""It would be great if chrome and opera weren't the only options for opening up articles in.""",1
+0_1901,"""I'm using your Chrome app.	""",0
+0_1902,"""Due to the way your article popup is positioned, its """"close"""" button sits directly above the side pane.""",0
+0_1903,"""Although my mouse click is properly sent to the """"close"""" button, any mouse movement after the popup goes away, is sent to the side pane -- which causes it to """"intelligently"""" expand and reflow the list of articles that I am trying to read.""",0
+0_1904,"""It's really annoying.""""",0
+0_1905,"""I really love how I can browse the latest articles from all feeds on the iOS version but this doesn't seem to be an option on the chrome web app version?""",0
+0_1906,"""I might just not be able to find the option so if someone else has anything to add then please comment.""",0
+0_1907,"""Keep the awesome work up guys!""",0
+0_1908,"""At some point can we get Google Keep integration to go along side Pocket?""",1
+0_1909,"""That is if they have an API for it.""",0
+0_1910,"""I have a jabber-Account GoogleTalk.""",0
+0_1911,"""I would like to receive the headlines (as items arrive) to my IM-client.""",1
+0_1912,"""As soon as I log in online, your jabber-bot could return to 10 (20, 30 ... looking as defined in the settings) of fresh news headlines.""",0
+0_1913,"""If I'm already connected, the bot could write headlines (with links) to me upon receipt of the news in my rss-subscription.""""",0
+0_1914,"""my facebook page is blocked by the plugin.""",0
+0_1915,"""I uninstalled all plugins and I only reactivated the feedly plugin to be sure""",0
+0_1916,"""If I have a feed in a folder named COOKING I would like the IFTTT ingredient entitled ArticleCategories to return COOKING.""",1
+0_1917,"""Currently it returns nothing.""",0
+0_1918,"""Please make an app for blackberry playbook, because there are no apps that support feedly on blackberry app world for playbook.""",1
+0_1919,"""This would make integration with other stuff (eg newsbeuter) possible.""",0
+0_1920,"""This could make the Feedly OPML a canonical source of feeds for other apps that a user wants to use.""",0
+0_1921,"""Reset the RSS subscribe function after someone uninstalls your extension.""",1
+0_1922,"""The current uninstall leaves several settings in your about config and makes other changes which make it impossible to subscribe using Live Bookmarks anymore.""",0
+0_1923,"""I've had to switch back to Feedly just so I can subscribe to new feeds!!!""",0
+0_1925,"""For me, it actually provides a worse experience than the builtin browser, it brings Chrome to the foreground and opens the link I tapped in a new tab.""",0
+0_1926,"""To get back to feedly, I have to back out or go into recent apps.""",0
+0_1927,"""What I want is to be able to skim through my feed items and quickly open N tabs in the background, then go to my browser and read through them at my leisure.""",1
+0_1928,"""Having tap always open a foreground tab is okay, but probably better to be configurable.""",1
+0_1929,"""However, if in article/title view, allow long press to bring up a menu.""",1
+0_1930,"""open in new external browser tab;""",0
+0_1931,"""at least allow configuring the action for long press.""",1
+0_1932,"""A lot of the RSS feeds I read force you to go to the full site to read the full article.""",0
+0_1933,"""Lifehacker is a good example.""",0
+0_1934,"""One thing that would be nice is the ability to be able to hit one button to open all of the unread articles for a category in new browser tabs rather than having to click each one separately.""",1
+0_1935,"""It would be nice to have a similar feature on mobile, except the way it would work would be to add all of the articles to Pocket or an alternative read-it-later app, """"Pocket all"""" or something like that.""""",1
+0_1936,"""If i want to subscribe to tumblr blog, assume /rss at the end of a link I paste, I now have to manually add /rss to links like http://spaceyspacelifeisneat.tumblr.com/ to subscribe""",0
+0_1937,"""The ""Good read"" tagline isn't attached to my twitter posts when I schedule the posts through buffer.""",0
+0_1938,"""Please add this feature.""""",1
+0_1939,"""Make it possible to link an article to your Facebook business page""",1
+0_1940,"""Right now Feedly isn't consistantly running across browser, this needs to be investigated and fixed.""",1
+0_1941,"""I work which adivertisement so i like to seeing new video ideas, but when i try to see VEVO video on the feedly i never can, only youtube videos.""",0
+0_1942,"""I'm constantly missing important content that happens in google+ as I don't check it regularly.""",0
+0_1943,"""The unfortunate thing about this is that if I had an RSS feed, I'd include it in feedly but google+ does not offer this.""",0
+0_1944,"""It would be great if there was a way to see all of the content I'd see in google+ via the API, and present it in feedly.""",1
+0_1945,"""Being able to add a 1 click feed for Facebook (https://www.facebook.com/help/212445198787494/) would also be quite useful.""""",1
+0_1946,"""I have noticed that it is difficult to add new blogs that I want to follow, including my own.""",0
+0_1947,"""When I search for emi ito illustration or the website, www.emiitoillustration.com, nothing comes up.""",0
+0_1948,"""This is the case even when I have subscribed to the blog through feedly through the feedly button on my blog.""",0
+0_1950,"""would be cool if I could view the basecamp progress feed in feedly.""",1
+0_1951,"""I use the saved items while on mobile to flag items for review on PC.""",0
+0_1952,"""It would be nice to have an indicator on the Chrome extension icon to remind me if I have saved items to review.""",1
+0_1953,"""I need Huffduffer integration to send selected audiofiles from within my rss-feeds to this service.""",1
+0_1954,"""Worked perfectly in Google Reader.""",0
+0_1955,"""depends on connections and permits (their are not just one profile related posts).	 """,0
+0_1956,"""It requires an integration with Google+ API, perhaps even cooperate with Google to make this specific data accessible.""""",0
+0_1957,"""IE 9 VERSION ?""",0
+0_1958,"""With IE9 and later in Windows 7 and Windows 8, you can drag a web site URL from the address bar to the taskbar and pin the site to your taskbar for easy access.""",0
+0_1959,"""This makes for quick access to the site.""",0
+0_1960,"""IMO it also helps with the brand of the site as the app is front and center for the user and feels like any other application.""",0
+0_1961,"""Web sites like Tweetdeck, Pandora, Facebook, Bing, etc. all include this functionality.""",0
+0_1962,"""Most even incorporate jump lists into the pinned site icon.""",0
+0_1963,"""When viewing feeds from dribbble.com, I would like to have a 'Like' button that is integrated with the 'Like' mechanisms from their site""",1
+0_1964,"""When browsing a site with RSS and ATOM metadata header, the Chroma and Firefox plugin presents a ""transparent button"" to quickly and easily allow you to add this feed to Feedly.""",0
+0_1965,"""Could the same be added to Safari.""""",1
+0_1966,"""Having a pop-up window open is pretty clunky.""",0
+0_1967,"""Should just be able to click the icon and (assuming the account link is active/signed-in) send to Readability.""",1
+0_1968,"""It would be really helpfull to have a feature of that shortens articles like Summly or Wavii.	""",1
+0_1969,"""Furthermore it'll have to be compatible with any RSS Feed i have in my list.""",0
+0_1970,"""For that kind of feature compared with the already existing and wonderfull feedly i would love to pay, because it makes my reading faster.""""",0
+0_1971,"""Recently the 'visit website' launches the internal browser but it fails to load anything.""",0
+0_1972,"""You can launch Safari from the internal button but then you have to bounce back and forth between apps.""",0
+0_1973,"""This works fine on the iPhone but not on iPad.""",0
+0_1974,"""So I am using URL for recent uploads from a YouTube account, example: https://www.youtube.com/playlist?list=UUISPcad-6svNxgViVr_syvA;""",0
+0_1975,"""The page from the URL loads fine and shows recent uploads but subscribing to that URL in Feedly is missing out some videos, for example, I can't see video: ""Europa Universalis IV Common Sense Multiplayer 21"" on the feed.""",0
+0_1976,"""It was uploaded yesterday thought Feedly shows some videos before it and after it, why that one is missing!?""",0
+0_1977,"""Not sure if that's YouTube only related, spotted it with YT.""",0
+0_1978,"""That's really bad though, we might be missing some random content and noone would know about it!""""",0
+0_1979,"""Please use feedly users rather than google's users""",1
+0_1980,"""I suggest a Feedly to Google Calendar feature.""",1
+0_1981,"""I saw a TV Preview for a Show next week and I want to be reminded regarding this feed entry.""",1
+0_1982,"""It will be great if you will develop a Windows software, for those who would like to read their feed on the computer.	""",1
+0_1983,"""Or at least make the browser extension useful (Firefox add-on has no use...)""""",1
+0_1984,"""I want a one stop shop for all of these aspects of my internet life.""",1
+0_1985,"""It would also mean that I dont have to try and search for the video channels im subscribed to on youtube within feedly.""",0
+0_1986,"""I just click subscribe and they appear in my feedly.""",0
+0_1987,"""Same for tumblr, twitter and facebook.""",0
+0_1988,"""Something similar to flipboard's functionality, except your feed reader is immensely better than theirs.""""",0
+0_1989,"""I'd like to plug Feedly into Mac's RSS screensaver, but believe there is no way to do it.""",1
+0_1990,"""I would like to be able to thumbs up or down videos from my YouTube feeds from within Feedly.""",1
+0_1991,"""Also, allow a YouTube video to continue to play while I scroll through the rest of my feeds.""",1
+0_1992,"""Please add Evernote support to the iPhone for Pro users""",1
+0_1993,"""Why was it necessary for us all to have.""",0
+0_1994,"""Cloud version but no option or explanation at any time that all my feeds have gone.""",0
+0_1995,"""First of all, I love feedly.	""",0
+0_1996,"""I'd like to suggest reverting the change that was made in last version, regarding the safari browser stuff.""",1
+0_1997,"""I use my phone with left hand, and feedly was great, thumb would scroll, swipe, touch to open articles.""",0
+0_1998,"""Once in the article, whether within feedly or in safari I would press the """"back"""" button top left.""",0
+0_1999,"""Now the change has me reaching top right for the """"done"""" button .""",0
+0_2000,""" Disappointing from a ux perspective, cause before it was perfect and seemless; gets worse with bigger phones of course.""",0
+0_2001,"""I use Evernote to store all of my note and picture from web pages.""",0
+0_2002,"""It would be great to have some integration with that app.""",1
+0_2003,"""Feedly v15.0.1 fails to post to Twitter from iOS 5.1.1, needs to be fixed.""",1
+0_2004,"""The share icon can prevent a user to click on something behind even if it's a small icon.""",0
+0_2005,"""And i play some times with javascript and it's influence by my script but in the extension bar it won't bother my script anymore.""",0
+0_2006,"""Same for debugging webpage;""",0
+0_2007,"""And or you can make it a keyboard shortcut's""",1
+0_2008,"""Integration with offline translator/dictionary is highly needed such as goldendict, just add an icon to open the dictionary when pointing to a word in an artical""",1
+0_2009,"""To view the full article, via the ""visit website"" or by clicking the title, freezes the loading of the page within Feedly browser""",0
+0_2010,"""Add UI element a/o shortcut to quickly add reference to default Evernote folder w/t popup dialog or confirmation.""",1
+0_2011,"""Hi, I really enjoy using feedly (Nextgen) on Windows Phone 8, and was excited to see the workflow with Onenote, which i already use for all my other note taking.""",0
+0_2012,"""However, it seems that the selection of where to save any given article to Onenote on Windows Phone 8 always uses the """"default"""" section set in OneNote and not the one specified in the path when activating my onenote account.""",0
+0_2013,"""I am running Windows Phone 8.1 Lumia Denim on a Nokia Lumia 930 with Nextgen Reader 6.2.0.17""""",0
+0_2014,"""API connectivity to all ""Google Apps for Work"".""",0
+0_2015,"""add read later to the desktop extensions.""",0
+0_2016,"""i just wish i could archive and group or send to another read later app from there to organize""",1
+0_2017,"""I've been a fan of feedly but am now losing heart.""",0
+0_2018,"""I've updated my ipad and now can't use feedly with buffer at all.""",0
+0_2019,"""I've tried deleting apps and different configuration but impossible.""",0
+0_2020,"""Why don't you test your blasted products before launching changes.""",1
+0_2021,"""you alienate your users and then impossible to get any sort of service to fix the problem.""",0
+0_2022,"""""To import an OPML file"" still shows a link to http://cloud/feedly.com but the link is redirecting.""",0
+0_2023,"""So prey make it clear that this functionality does not exist or tell us how to import a and OPML list?""""",0
+0_2024,"""When I visit certain ogg-based podcast feeds (such as http://thebugcast.org/ ), the embedded player shows as a video rather than an audio player, and the player controls do not work.""",0
+0_2025,"""In order to listen to the podcast, I have to open the ogg file in a new tab and use the Firefox embedded plater/""""",0
+0_2026,"""Need support to add articles in ""Pocket"" directly.""",1
+0_2027,"""This can be added alongside Twitter, Google+ and other buttons.""""",0
+0_2028,"""Like many others, I want to add some Twitter feeds as RSS feeds.""",1
+0_2029,"""There are several older threads on this issue with some suggestions that no longer seem to work.""",0
+0_2030,"""To Feedly, can you please provide this type of service - perhaps within you Pro account if there are extra overheads.""",1
+0_2031,"""And can you please make the formatting support direct linking from the URLs embedded in the tweets.""",1
+0_2032,"""It would be good to not have to link to Twitter to get a usable URL"""";""",1
+0_2033,""" """"Currently I use a workaround (http://gtweetapp.appspot.com/), but it would be nice to have this feature in feedly""""; """,1
+0_2034,"""I'm wondering what the latest solutions people are using to read Twitter feeds in Feedly.""",0
+0_2035,"""When techbargain.com updated their site, it no longer worked with feedly.""",0
+0_2036,"""I use Google Auth for both Pocket and for Feedly.""",0
+0_2037,"""I can log in to Feedly, that works fine.""",0
+0_2038,"""I chose Pocket as my preferred saving tool.""",0
+0_2039,"""When I try to save to Pocket though I get """"Please configure ..."""".""",0
+0_2040,"""In the Pocket settings I only seem to have the ability to set a Pocket username and password.""",0
+0_2041,"""I can't find any way to configure Pocket to use Google Auth.""",0
+0_2042,"""Is it possible to use Google Auth to save to Pocket from Feedly on Android?""""",0
+0_2043,"""I want to be able to just log into Feedly and not have it log me out if I log out of Google.""",1
+0_2044,"""Bring back 1 tap saving to Pocket in iOS Apps.""",1
+0_2045,"""When I use the define option in iOS in iPad deeply opens a new window instead of showing a pop up.""",0
+0_2046,"""Opening the word definition ins new windows does not make sense specially in an iPad.""",0
+0_2047,"""Safari 7.1 seems to have broken the toolbar.""",0
+0_2048,"""Is that going to be fixed?""",0
+0_2049,"""Hi I go smoothly feedly web version and Android, but Windows 8.1 (desktop - not mobile - ) I do not get I log """,0
+0_2050,"""I tried with Kara and Nextgen Reader Reader; """,0
+0_2051,"""Please, don't open a browser every time I want to share a post to my social networks (Google +, Facebook...).	""",1
+0_2052,"""Flipboard has a awesome way of doing it (but your RSS management is far better !)""",0
+0_2053,"""Please add wiznote support as you support evernote.""",1
+0_2054,"""Hasn't been updating Craiglist feeds for awhile, even though Outlook and igHome are updating those same feeds.""",0
+0_2055,"""The RSS markup of these feeds identifies the author (e.g. ""dc:creator""), use that to set the author attribute for the Evernote note?""",1
+0_2056,"""If author isn't available, than set author to name of the site or blog?""",1
+0_2057,"""When using Feedly on a mobile device, location information becomes available to the app as well.""",0
+0_2058,"""Could Feedly also set these note attributes when exporting to Evernote?""",1
+0_2059,"""Perhaps other additional attributes?""",1
+0_2060,"""Tags could be good and bad depending on how a user uses Evernote.""",0
+0_2061,"""That being said, exporting tags as well could be a master setting someone could toggle on or off.; Basically improving the depth of integration with Evernote.""",1
+0_2062,"""Currently, Feedly Syncs with Google Reader.""",0
+0_2063,"""Since Google Reader is going away on July 1st, I think it would be an awesome if Feedly sync's with TheOldReader, it would be a great partnership for both of you.""",1
+0_2064,"""I just noticed that when i tried to view an RSS feed from blogspot, it automatically prompted Feedly to show the feed.""",0
+0_2065,"""I'm a web developer and I just wanted to copy the URL of the feed.""",0
+0_2066,"""Is there a way to toggle this automatic feature?""",0
+0_2067,"""If not, can you offer it?""""",0
+0_2068,"""Add integration with Toodledo""",1
+0_2069,"""The new Feedly ios9 (iPad App) integration with Safari is fantastic but please allow a simple left to right swipe to take you from an article you have finished reading in Safari, back into Feedly (instead of having to use 'Done' at the top of the Safari Browser.""",1
+0_2070,"""I think my subject says it all.""",0
+0_2071,"""My hypothesis- what people read is important for a prospective employer.""",0
+0_2072,"""A list of my RSS feeds should be available as a public shareable list that I can attach to a cover letter and let the company I interview for create a better picture as a person.""",1
+0_2073,"""Same as an integration for linkedin.""",0
+0_2074,"""Not individual articles, list as a whole.""",0
+0_2075,"""Think group list on linkedin.""""",0
+0_2076,"""Allow to pin things to pinterest""",1
+0_2077,"""If I could add individual users as a feed, then I could see their updates without having to scroll through Facebook's ridiculous ""wall"".""",1
+0_2078,"""The same for Twitter.""",0
+0_2079,"""Just being able to add a Twitter account and view only a single user's tweets would easily make Feedly one of the best Twitter platforms there is.""""",1
+0_2080,"""Please prevent duplicate saved items in Dropbox.""",1
+0_2081,"""For Feedly Pro users, when a PDF is generated for depositing in Dropbox for later reading, that you offer an option for whether bookmarks are auto-generated inside Feedly's PDF.	""",0
+0_2082,"""Adobe Acrobat doesn't allow the user to set an option to perma-hide the bookmarks pane, and I guestimate that 99% of the PDFs Feedly Pro generates only have one bookmark (the article title).""",0
+0_2083,"""It's annoying to have Acrobat auto-open a useless bookmark listing (one entry) in the reading window because it decreases the visible screen real estate devoted to rendering the PDF.""",0
+0_2084,"""This is way more Adobe's UI problem than yours.""""",0
+0_2085,"""Feedly to Google plus causes the Feedly app to crash back to the home screen on Kindle Fire.""",0
+0_2086,"""pointemy domain to feedly ?""",0
+0_2087,"""visitors can see www.domain.com ?""",0
+0_2088,"""When we want to email news or feed records feedly do it via outlook, it is better to send it via gmail or make an option for it.""",1
+0_2089,"""I use RockMelt as browser and feedly won't load, he loads just fine in google chrome, but I would like to be able to use it with RockMel""""",1
+0_2090,"""I would like to be able to send articles to Clipboard.com""",1
+0_2091,"""Right now when you has X news articles and when you read them (by scrolling for ex.) and then click refresh - when no new articles badge not disappear - it remain with X""",0
+0_2092,"""why the need ""Access to data on ALL websites"".	""",0
+0_2093,"""This item can read every page that you visit your bank, your web email, your Facebook page, and so on.""",0
+0_2094,"""Often, this kind of item needs to see all pages so that it can perform a limited task such as looking for RSS feeds that you might want to subscribe to.""",0
+0_2096,"""Two problems: I have to click twice on a YouTube video to be played.""",0
+0_2097,"""After the first click the actual video shows up in a smaller region.""",0
+0_2098,"""For solid users/sharing, often categories are organized by priority/tier or other purpose, not what makes most sense for social sharing and assigning tags to a specific feed.	""",0
+0_2099,"""This drives me crazy and feels like an invasion of privacy.""",0
+0_2100,"""Is there any way to undo this?""""",0
+0_2101,"""Each time I use the chrome app it asks to connect to Google Reader.""",0
+0_2102,"""I press 'connect', allow it, and it doesn't load the feeds, just returns to the same login page.""""",0
+0_2103,"""I just reinstalled Firefox on a new machine and I can't login to Feedly via Google authentication.""",0
+0_2104,"""It works fine with Chrome & IE but when I click the Login link in Firefox nothing happens.""",0
+0_2105,"""include outsidethenest.net, please.""",1
+0_2106,"""At work I received an alert from Feedly that I needed to update to v16 of the plugin.""",0
+0_2107,"""When I get home I see that my home system is running v14., but I can't get to feedly.com regardless of what I do because the plugin knows better than me.""",0
+0_2108,"""Even after I log out of feedly.""",0
+0_2109,"""I have toy disable the extension.""",0
+0_2110,"""Please make it possible to go to feedly.com or make it possible to download an update from within the extension?""",1
+0_2111,"""Hi, I am not sure where i can claim problems.""",0
+0_2112,"""The Feedly App is showing me an error since a couple of days.""",0
+0_2113,"""It is equal if i use my iPad or my iphone (different provider sim cards) , both are showing me the error that no connection is there.""",0
+0_2114,"""After that i downloaded other feedly apps like Ziner, they work without any problem.""",0
+0_2115,"""What can i do?""""",0
+0_2116,"""I wish to connect feedy with social networks (youtube, vimeo, tumblr, instagram,...) to synchronize the news and our favorites.""",1
+0_2117,"""When can we command Feedly through our voice?""",0
+0_2118,"""This will be an excellent advantage compared with other options.""",0
+0_2119,"""Yes, your are right, too similar to """"Her"""", the movie.""",0
+0_2120,"""But I think it's necessary.""",0
+0_2121,"""Come on guys, Twitter is winning the battle for far!!!!!""",0
+0_2122,"""I want Feedly to be bigger!!!!!!!""",0
+0_2123,"""Feedly mini is very nice plug-in for me.""",0
+0_2124,"""but, the feedly mini icon is not shown on the naver blog such as http://panboy.blog.me or http://blog.naver.com/panboy""""",0
+0_2125,"""When you tap the Pocket or Instapaper icon, there isn't much of a visual induction that the article has been saved""",0
+0_2126,"""Also, would be nice to be able to send an article to Pocket from the list view without having to open the article.	""",1
+0_2127,"""Swiping the title would be a good solution.""""",1
+0_2128,"""When I open a feed within the internal browser (and it does load the full webpage), I'd like to share it via email client having it imported as it is (just as a reference, under win8 using another feed reader, feedly-enabled, and opening the mail app it does import the page so I can mail it out as it is (or if you like, as if I sent it to onenote or evernote as simple article).	""",1
+0_2129,"""just as a reference, under win8 using another feed reader, feedly-enabled, and opening the mail app it does import the page so I can mail it out as it is (or if you like, as if I sent it to onenote or evernote as simple article).	""",0
+0_2130,"""I am not sure if this is due to feedly app limitation or something else.""",0
+0_2131,"""But text-only imports, with just a link, as I come up with with gmail app is poor.""""",0
+0_2132,"""I started using a new Chrome app called Hacker Vision.	""",0
+0_2133,"""If flips the screen resolution so most webages have a dark back ground and fonts are light colors.""",0
+0_2134,"""It is supposed to be easier on your eyes.""",0
+0_2135,"""So far I'm liking it, but the colors are sometimes off.; """,0
+0_2136,"""What i have noticed is that the Feedly mini toolbar that pops up on the bottom right of web pages, when i want to share the link via that mini feedly toolbar, the background color and the color of the icons (twitter, buffer, etc.) are all the same color.""",0
+0_2137,"""Any way you can fix this?""",0
+0_2138,"""is this a problem that Hacker Vision needs to address?""",0
+0_2139,"""Please advise.""",0
+0_2140,"""Feedly is really bad at discovering feeds when given only the URL.""",0
+0_2141,"""Google Reader used to be able to do this with pretty much every URL you threw at it, and it doesn't seem to be terribly complicated.""",0
+0_2142,"""Giving this URL to feedly returns no feeds.""",0
+0_2143,"""However, if you manually Google what the standard format for feeds is with Wordpress and try out ?""",0
+0_2144,"""Which seems like something that Feedly might have been able to guess to begin with.""",0
+0_2145,"""I had to turn off the Windows tray app.""",0
+0_2146,"""Chrome would gradually get slower and slower (a new development since Feedly asked to run the always-on tray app).""",0
+0_2147,"""I'm sure it's the app, because exiting it cleared up all the browser response problems.""",0
+0_2148,"""Either fix it or make Feedly work always-on without browser interference.""""",1
+0_2149,"""not much else to say...include an icon for Flipboard""",0
+0_2150,"""Integration with other social media so I can read all the latest tweets, google+ updates and others from with the feedly app.""",0
+0_2151,"""You have a group of friends with send my favorite post writing command.""",0
+0_2152,"""Currently, some of the RSS items are lists of links.""",0
+0_2153,"""Expected behavior when I follow one of the links, find it interesting and click the Pocket icon, is to save the clicked-through article.""",0
+0_2154,"""Instead, it saves the initial RSS item.""",0
+0_2155,"""Take Mike Tyson's channel for example.""",0
+0_2156,"""That string, """"UCdtNjOwfQpgVK0FyOeLyzrg"""", or any channel like that, doesn't work with Feedly.""",0
+0_2157,"""You have to go in and get the RSS via https://www.youtube.com/rss/channel/<string>/feed.rss, please automate this.""",1
+0_2159,"""I created a few ideas in the get satisfaction community (don't remember how I got there) and was very surprised never to get an answer... until I realized you guys worked in user voice...""",0
+0_2160,"""There appears to be a current bug with the android app and the Evernote integration.	""",0

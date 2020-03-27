@@ -3,6 +3,7 @@ import re
 import sys
 import pathlib
 import numpy as np
+import csv
 from csv import reader
 from stanfordcorenlp import StanfordCoreNLP
 # from aion.embeddings.cove import CoVeEmbeddings
@@ -10,9 +11,9 @@ from stanfordcorenlp import StanfordCoreNLP
 # from pytorch_pretrained_bert.tokenization import BertTokenizer
 
 # Ref : https://github.com/Lynten/stanford-corenlp
-prefix = str(pathlib.Path(__file__).parent.parent)
-path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
-nlp = StanfordCoreNLP(path)
+# prefix = str(pathlib.Path(__file__).parent.parent)
+# path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
+# nlp = StanfordCoreNLP(path)
 
 # Ref : 
 # Bert Embedding
@@ -57,7 +58,8 @@ def pre_process_text(text):
     Lowercase, TOkenize (Stanford CoreNLP)
     '''
     text = text.lower()
-    result = nlp.word_tokenize(text)
+    # result = nlp.word_tokenize(text)
+    result = text.split(' ')
     return result
 
 
@@ -81,16 +83,18 @@ def pre_process_text(text):
 
 
 
-def load_data(folder= "Subtask-A", filename="SubtaskA_EvaluationData_labeled.csv"):
+def load_data(folder= "Subtask-A", filename="SubtaskA_EvaluationData_labeled.csv", header=True):
     '''
     Args : folder name, file name
     Ret : return data loaded into list of lists [id, string, labels] 
     '''
     prefix = str(pathlib.Path(__file__).parent.parent)
     path = os.path.join(prefix,"data", folder, filename)
-    f = open(path,'r', encoding="utf-8")
+    f = open(path,'r', encoding="utf-8", newline='')
     data_reader = reader(f, delimiter=",")
     data = [row for row in data_reader]
+    if header:
+        data = data[1:]
     f.close()
     return data
 
@@ -149,13 +153,35 @@ def create_cross_val_train_test(data_batches, id, folds=10):
 
 
 #testing
-# data = load_data()
-# data_folds = create_folds(data)
-# for datum in data_folds:
-#     print(len(datum))
-# print(data_folds[0][0])
-# train, test = create_cross_val_train_test(data_folds,0)
-# print("Length of train and test: ", len(train),len(test))
+data = load_data(filename='V1.4_Training.csv')
+#print(len(data))
+data_folds = create_folds(data)
+#for datum in data_folds:
+    #print(len(datum))
+#print(data_folds[0][0])
+for i in range(10):
+    train, test = create_cross_val_train_test(data_folds,i)
+
+    f = open("train_"+str(i)+".csv", "w", encoding='utf-8', newline="")
+    writer = csv.writer(f)
+    writer.writerows([['id','sentence','label']])
+    writer.writerows(train)
+    print(len(train))
+    f.close()
+    print("Done")
+
+    f = open("test_"+str(i)+".csv", "w", encoding='utf-8', newline="")
+    writer = csv.writer(f)
+    writer.writerows([['id','sentence','label']])
+    writer.writerows(test)
+    print(len(test))
+    f.close()
+    print("Done")
+
+# data = load_data(filename="train_1.csv")
+# print(len(data))
+
+#print("Length of train and test: ", len(train),len(test))
 
 # feats, bert, labels, id_map = pre_process_data_from_dataset(train)
 # print(feats[0])

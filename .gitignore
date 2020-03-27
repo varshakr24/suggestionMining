@@ -26,6 +26,8 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+notebooks/.embeddings
+*.pt
 MANIFEST
 
 # PyInstaller

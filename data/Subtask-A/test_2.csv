@@ -1,0 +1,866 @@
+id,sentence,label
+1571_1,"""Thank you very much, great phone !""",0
+1571_2,""":-) Hello, thank you for this site.""",0
+1571_3,"""The application would receive the decoded information and also, information about the barcode as the___ more""",0
+1580_2,"""will significal improve advanced users experience.""",0
+1580_7,"""http://yves.vg/testcases/ie_mobi/keyup_event.html""",0
+1580_9,"""This is currently not really possible.""",0
+1580_10,"""I have to redirect the user to a web site which will then open the YouTube app which will then play the video.""",0
+1580_11,"""After the video the user has to press back twice to get to my app.""",0
+1581_1,"""That's annoying.""",0
+1581_3,"""Others are having the same problem: http://stackoverflow.com/questions/4170587/how-to-launch-a-youtube-url-on-windows-phone-7 http://stackoverflow.com/questions/4272293/youtube-on-windows-phone-with-mediaelement""",0
+1581_4,"""it so happens that when you type or are playing a game, a slight touch either on the back or search button takes you out of context.""",0
+1583_1,"""Being unable to set up our own set of contacts to test with is incredibly frustrating, especially as the test set doesn't even cover all scenarios (none have photos, for example).""",0
+1583_2,"""Unable to scroll an online video back and forth.""",0
+1584_1,"""we have installed some certificates from sbs exchange-servers.""",0
+1584_2,"""some certificates was wrong.""",0
+1585_1,"""at the current release there are no possibility to see or delete the certificates, which were installed at the phone.""",0
+1585_2,"""we think, that an certificate manager would resolve the problem.""",0
+1587_1,"""I have a gel impact case and it makes it difficult to start and stop video recording.""",0
+1588_1,"""From time to time, our university also likes to submit applications which are in most of the cases not fully grown products but tech demos or prototypes.""",0
+1589_1,"""However, there is no category for publishing apps in such a category and most of the users react unintelligibly and give bad reviews as they expect a fully grown product.""",0
+1594_2,"""I really need this and i can't call every day custommer care support to see my balance, to buy net and etc.""",1
+1595_2,"""When i call those codes, i get answer after 2 minutes and i don't have an option to reply with my choise.""",0
+1595_3,""":(""",0
+1595_4,"""Now it is not possible to accept tcp connection, ie to build an internal web server or tcp socket server.""",0
+1596_1,"""android has it :( ....""",0
+1596_2,"""Right now app titles of more than just a dozen characters or so just get clipped in many places in the phone ui: the marketplace app list, the installed apps list, and inside of pinned tiles.""",0
+1597_1,"""im stressing out a lot when u typing something and this stpid keabord is dissapearing all the time.""",0
+1598_1,"""u guys need to fix that or i will buy nokia 3110 which is way better than this sht!""",1
+1598_2,"""Display HTML that users can interact with (i.e.""",1
+1599_1,"""clicking hyperlinks, mailto: links, or dial phone numbers).""",0
+1600_1,"""Rss hub synced with a new live service (like google reader) and outlook or ie Sync favorites bookmarks between ie mobile, desktop and a new live service""",0
+1600_2,"""The developer portal is for developers.""",0
+1600_3,"""There is no point in trying to fancy it up for us.""",0
+1600_5,"""I have been trying to encourage many of my friends to try making applications.""",0
+1600_6,"""They are fine with the SDK and practically making the application.""",0
+1600_7,"""That's easy.""",0
+1600_8,"""The issue they (and even I) have is trying to put it on the marketplace.""",0
+1600_9,"""The process (particularly for someone under the age of 18) of getting a Dreamspark account (particularly now that you've messed up that website) and an App Hub account is absolutely awful.""",0
+1600_10,"""You're alienating your developers with this stuff and to be honest, it's just unacceptable.""",0
+1600_11,"""You shouldn't be charging $99 for service like this.""",1
+1607_4,"""_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________Ç________________________________________________________________________________________________________________________""",0
+1607_8,"""ProtectedData ______________________________________________________ Triple DES ______________________________________________________________________________________________________ Product ID___________________________________________( Windows7 ______________________________________________________________) ______________________________Microsoft.Smartdevice.Connectivity __________________________________________________________________________________________ ProductID __________________________________________________________________________________________________________________________________ PC ______________________________________________________________________________ ____________ ProtectedData _________________________________________________________ _______________________________________ ProtectedData ______________________________________________________________________ OS ___________________________ ID __________________________________________""",0
+1607_15,"""_______________LAN_____________________________________________________________________________________________________________WiFi____________________________________________________________________Push_______________________________________________________ _______________________________________________________________________________________________________________________________________________________________________________________________""",0
+1607_20,"""contact information.""",0
+1613_2,"""Instead of making a new todo list app, let me extend the native one.""",1
+1616_1,"""_________________________________________ ________________________________________________________________ ______________________________________________________________________________ ____________________________________________________________________________________________________ _________________________________________________1500____________________________________ 2__________________________________________6000____________________________________ ________________________________________________________________________________________________ __________________Xbox360___WindowsPhone___________________________________________________________________________ _____________________________________________________________________________________________________________ http://forums.create.msdn.com/forums/p/47156/282405.aspx ________________________________________________________________ __________________4___________________________________________________________ ___________________________________________________________________________________________________________________1____________________________________________________________ _______________________________________________________________________________________________________________________ ______2___________________________________________________________________________________________________________________________ ______________________________XBLIG____________________________________________________________________________________________________________""",0
+1616_2,"""1. registered javascript witch starts with every page 2. api to add button from this script near address bar 3. api to add menu item into menu example of plugin file: <plugin> <title>Forward button plugin</title> <description>Forward button plugin</description> <button> <icon>base64_encoded_icon</icon> <script><!""",0
+1616_3,"""[CDATA[ history.forward(); ]]></script> </button> <menuItems> <menuItem title=""Forward"" position=""0""> <script><!""",0
+1617_1,"""[CDATA[ history.forward(); ]]></script> </menuItem> </menuItems> <events> <event name=""onload""> <script><!""",0
+1618_1,"""[CDATA[ document.write(""Plugin loaded""); ]]></script> </event> </events> </plugin>""",0
+1625_3,"""in addition, the user should be able to take a scree shot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen, a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are completly green a photograph noise will occur allow with a sudden screen flare to tell the user the screen shot has been taken and saved in the saved images folder the mutitasking area should have every app that you have opened in it.""",1
+1634_3,"""Windows Phone__________________________________________________________________________________________________________Windows Phone_____________________________________________________________________________________________________________________________________________ ______Live ID_______________________________________________________________________________________________________________________________________________________________""",0
+1634_6,"""_______________________________________________________________________________________________________ ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ _______________________________________________________________________________""",0
+1635_8,"""_______________________________________________________________ WP7_____________________________________________________________________________________ ________________________________________________________________________________________________________________________________ _____________________________________________________________________________________________________________________________________________________________""",0
+1635_11,"""_________SkyDrive________________________Lice SDK (API)_______________________________________æ ______OS________________________________________________________ _________OAuth____________________________________________________________________________________ (Live SDK Developer Preview_____________________) SkyDrive_________________________________Live API______________________________________________æ ________________________________________________SDK___________________________________________________ ____________________OS_________________________æ _______________________________________________________________________________________________________æ _______________________________________________________________________________æ _______________________________________""",0
+1639_2,"""This could be implemented via WiFi, of course (since Zune does wireless Sync already), or even Bluetooth___ more""",0
+1643_1,"""________________________________________________________________________OS___________________________________________________ _________________________________________________________API______________________________________________________________________________________________________________________________________________________________""",0
+1643_2,"""quandp fai il copia di una frase,di solito quando si blocca si perde la memorizzazione,invece la proposta sarebbe di farlo memorizzare anche se il telefono viene bloccato.""",0
+1644_1,"""I wasted two hours on this code: <TextBlock Style=""PhoneTextLargeStyle"" Text=""{Binding Name}"" /> The emulator ended up with an unhandled error with a cryptic message.""",0
+1645_6,"""An native app that permit to open files in .rar and .zip formats.""",0
+1645_8,"""magic wand to remember login, getting tired of retyping my emailaddress and password on every login.""",0
+1645_9,"""_______________30_______________________________________æ ___________________________________________________ ______æ ___________________________________________________________________________________________________________________________________________________________________________________ _________10_____________________________________________________________________________""",0
+1645_10,"""I like the functinality of the SplashScreenImage.jpg file, but it's too limited for what I'm trying to do.""",0
+1645_11,"""At a minimum I need to have 2 images that are auto selected based on the phone's current theme.""",1
+1649_1,"""Sort of annoying to have to press attach three times to send three different pics.""",0
+1649_2,"""Checkboxes maybe?""",1
+1650_1,"""Font weight in Button is not working at all.""",0
+1655_1,"""I think of marketplace, voice navigation, maps (possibility to search for closest restaurant etc.""",0
+1655_2,"""), zune pass.""",0
+1656_1,"""There are probably even more...""",0
+1656_2,"""In the beginning of WP7 users had to register a new live-account and set the location to US to get access to the marketplace for example.""",0
+1657_2,"""At the moment you can only migrate to a very limited number of countries.""",0
+1658_4,"""It'll help.""",0
+1658_5,"""Apps need a way to work together.""",1
+1658_6,"""Today apps ar silos.""",0
+1658_9,"""It would be similar to Win8's charms.""",0
+1661_1,"""the public contacts or the calendar.""",0
+1661_2,"""We need High Performance Page Transition Effects support !!""",0
+1661_3,"""As an alternative to giving write-access to calendar (which can be hard to get a go on for security reasons), let us at least open an appointment directly in the calendar app.""",1
+1662_1,"""Would make it possible to make calendar viewers that can behave as a real calendar alternative.""",0
+1662_2,"""Especially if we also can have a ""delete appointment""-chooser (user will need to confirm deletion).""",1
+1663_1,"""Currently,we can CREATE/UPDATE a ShellTile using a ShellTileData,but can not to get ShellTileData from an existing ShellTile.""",0
+1663_2,"""Please release ShellTile.TileData() function in next build.""",1
+1664_1,"""In addition to the existing profiler tool, a network activity profiler should be given so that we can analyse network activities that are happening, potentially helping in troubleshooting cases wheter network activites are becoming bottleneck for app responsiveness.""",1
+1664_2,"""or to identify amount of network transfer.""",0
+1664_3,"""vorrei collegarmi ad internet da pc con il mio windows phone""",0
+1664_4,"""Tango is a nice app BUT it is not handy to allways have it running in the background and to have a separate contact list in the application which is an exact duplicate of the contact list in the people hub.""",0
+1665_1,"""Impractical to say the least.""",0
+1666_1,"""__________________________________________________""",0
+1666_2,"""QRCode should support chinese""",1
+1666_3,"""First,I want to download dll from webservice,So load assembly from stream""",0
+1667_1,"""____________________________GBK____________""",0
+1668_1,"""To be able to make a movie (and share it with the rest of the World via youtube) we need an ability to generate MPEG4/WMV stream/file by utilizing hardware codecs (through FileSink).""",0
+1669_1,"""Also some way to change (enhance) audio/video captured from mic/camera before it will be encoded and saved into file.""",0
+1669_2,"""I think there is much people who havent got credit card, and can't pay for the games.""",0
+1670_1,"""Create more free GOOD games, and everyone have fun.""",1
+1670_2,"""If the SDK could run on OSX I'd be actually able to create apps for WP7 :)""",1
+1670_3,"""browsing on the market place every day we discover new apps, if you want to buy these ones at a later time or just want to have more time to download the app.""",0
+1670_4,"""might be nice to have a nice button: add to favorites.""",1
+1672_1,"""can then redisplay the app in a special section of the market.""",0
+1673_1,"""Many mobile applications are written in java.""",0
+1674_1,"""It would be nice if wp7 supports this.""",1
+1675_1,"""Would be cool to know if app qas opened using voice commands, so if app has its own voice capability it can know to start listening right away.""",1
+1676_1,"""Not much point opening app by voice now, if you then have to pick up phone to operate app.""",0
+1676_2,"""have the possibility to use category of outlook, on wp7 for contact/email/calendar.""",1
+1677_1,"""using category with filter to see for example all professional contact or all professional rendez-vous...""",0
+1677_2,"""ie9 only has two search providers at the moment, with very popular search engines like google missing out.""",0
+1677_3,"""kakaotalk is a downloadable software app for mobile devices that allows its users to send and receive messages including photos, videos, and contact information both on one to one basis and in groups, all for free.""",0
+1677_4,"""To use the app you only need to enter you phone number without registration or logging in.""",0
+1677_5,"""Allow two level off access to low level API.""",1
+1677_6,"""Current mode is focused on Marketplace apps.""",0
+1678_1,"""A development mode with access granted to all API is focused for Business APPs.""",0
+1678_2,"""There is a bug in multicast .beginJoinGroup.""",0
+1679_1,"""After tombstoning if this method is called in onActivated or any ""load"" then thread is blocked.""",0
+1679_2,"""Solution is to call this method in an override of onNavigated method.""",0
+1679_3,"""Plz fix this.""",1
+1679_4,"""There It would be better if we havent have to upgrage software via zune.It is timefull and useless.There should be delta upgrades OTA""",1
+1679_5,"""the photo is reserve use camare""",0
+1679_6,"""Checkboxes to select multiple contacts when sending messages or adding to a group.""",0
+1679_7,"""Giving us back the peak hours on mail sync will make the sync way better than on Iphone and on current WP75""",0
+1679_8,"""_______________________________________________ ITIN ____________ EIN ________________________________________________________________________________________________________________________________________________ _________W-7 ______ SS-4 _____________________________________________________________________Instructions __________________________________________________________________________________________ ___________________________________________________NG ______________________________ MS ____________________________________________________________________________________________________________________________________________________________________________________ _______________________________________ _______________Web _____________________EIN _______________________________________________ITIN _______________________________________ _________________________________________EIN _____________________ITIN _____________________ ___________________________________________________________ ITIN ______________________________ ITIN _________________________________________________________________________________________________________________________________________________________________________""",0
+1679_9,"""Could a Smart dial please be finally applied to the phone app?""",1
+1679_10,"""It's quite frustrating to have to go into people, click of search and have to find contact, then dial.""",0
+1679_11,"""Easy when you dont have lots of contacts, but when you are managing Thousands of contacts, it makes life easy.""",0
+1679_12,"""Please implement.""",1
+1679_13,"""Something like http://livetiles.co.uk/Beta/Default.html but from MS, perhaps a part of http://www.windowsphone.com/marketplace ?""",0
+1680_1,"""Disclaimer: the above link is my own site.""",0
+1681_1,"""___________ __________zune____________ ________________________ ____________ ________________________ ______________Ç______ ____________ __________________________ __________________________________ __________________________________ ___________________________________ ___________________________________________________ ______________________________ ____________________________________ _______î__________ ______________________________________________ ____________ ____________ _________""",0
+1682_1,"""Forwarding an existing message thats what i miss a lot.""",0
+1682_2,"""It would be very helpfull to have an abbility to copy a part of text out of a message.""",1
+1683_1,"""Sometimes i have to share parts of messages with others.""",0
+1683_2,"""shoudn't be tough to implement but would be an beneficial for an user.""",0
+1685_1,"""THX.""",0
+1685_2,"""If I upload an mp4 video recorded with filelink class, I cannot see them in the phone album, other video works..""",0
+1685_3,"""Being able to call a group of friends directly and start a conference without doing it manualy, one contact after another, using the new group feature in mango""",0
+1686_1,"""Hardware accellerated mp4 encoder library, to be able for us to develop professional video conf., broadcaster, streamer, video editing apps ( as ipad2...)""",0
+1686_2,"""______________________________________________________________________________________î__________________________________________________""",0
+1687_1,"""Allow user to send Video, Audio and more pictures in an MMS now only one pic is supported""",1
+1687_2,"""full acess to xbox live on companion to rent movies interact with friends etc....""",0
+1687_3,"""Uf someone i know sends a mass sms or mms message and i am one of the recipients 1) It doesnt fall into that contact's conversation, it is separate, and i can see all the recipients.""",0
+1688_1,"""I dont wanna see all of them and it should fall in that contacts conversation.""",0
+1688_2,"""2) If i reply, then the reply goes to all the recipients.""",0
+1689_1,"""Not good.""",0
+1689_2,"""i dont know these people, and they dont know me.""",0
+1689_3,"""they dont want to see my reply, nor do i want them to.""",0
+1689_4,"""And the same problems apply if i am sending a mass message.""",0
+1689_5,"""Give a UI to manage Manifest file changes, similar to how project properties of changed.""",0
+1689_6,"""Hey Microsoft, talk to Resco, SPB, SBSH and those good companies were making great apps for Windows Mobile.""",0
+1689_7,"""They know to make it !""",0
+1689_8,"""NinJamp for platform Windows Phone""",0
+1689_9,"""The event arguments from the AddressChooserTask only returns the contact address as a string.""",0
+1689_10,"""So if we need a specific part of the address we'd have to do some fairly tricky parsing.""",0
+1689_11,"""It would be nice if we had finer access so we could specifically get, say, the postcode.""",1
+1689_12,"""When entering address details for a contact the address details are split into different fields anyway so one would expect to be able to access them individually from the result an AddressChooserTask as well.""",0
+1690_1,"""_____________________________________________________________________________________________________________________________________________________________________ _________________________________________________________________________________________________________________ ----- ___ChevronWP7______6______coming soon________________________________________________""",0
+1690_2,"""that's all yall need is more hardcore apps.""",0
+1690_3,"""A Mobile Device Management Solution ... for disable and manage of apps and functions on Device like all other plattforms on Market.""",0
+1690_4,"""For example, I search for ""Star Wars"" The IMDb app is suggested.""",0
+1690_5,"""I click on IMDb and it opens.""",0
+1690_6,"""Now I must search again for ""Star Wars"" in IMDb.""",0
+1690_7,"""IMDb should open to the ""Star Wars"" page directly from bing's search results.""",1
+1690_8,"""Currently, serialization and deserialization of the CookieContainer doesn't work.""",0
+1690_9,"""The documentation says to use the CookieContainer if one needs to save off HttpOnly cookies.""",0
+1690_10,"""It seems that saving the CookieContainer isn't possible.""",0
+1690_11,"""""If the server sends HTTPOnly cookies, you should create a System.Net.CookieContainer on the request to hold the cookies, although you will not see or be able to access the cookies that are stored in the container.""""",0
+1690_12,"""Microphone sampling frequency is fixed.""",0
+1691_1,"""So Microphone.SampleRate property just returns this fixed value.""",0
+1691_2,"""For example the HTC Mozart microphone sample frequency is fixed as 16000 Hz.""",0
+1692_1,"""It isn't useful for several intersting application.""",0
+1692_2,"""If I dont like someone elses idea allow my 1-3 votes to takes votes OFF their vote count on a 1:1 vote basis.""",1
+1692_3,"""It would cost 3 of my votes to take 3 off someone elses idea.""",0
+1692_4,"""Let us open up the phone application (here the the user can see callhistory++).""",1
+1693_1,"""Also let us open the call-history page Both are usefull for smart-dialing apps.""",1
+1694_1,"""An app can at least have a button directly to call history so user can see call history (since a direct API for call-history is not given due to security reasons).""",1
+1694_2,"""And a smart dialer can then be a full alternative to the built-in phone app, since the app also can have a quick-button for ""goto the regular phone app"" whenever the user wants to do that.""",0
+1694_3,"""Windows Phone(the phone NOT Zune) to have ""sort by name feature"" and not just date taken""",0
+1695_1,"""For users who only have low quality network, Background File Transfer is not possible at all.""",0
+1696_1,"""File Transfer should pause when a call is made or comes in.""",1
+1696_2,"""I have a voice memo saved on my phone I'd like my buddy to hear.""",0
+1698_1,"""But I can't send them a clip.""",0
+1699_1,"""I make Themes for Nokia, Android and blackBerry and If WP7 will have Themes more personalizable like Symbian with a Software to make these, will be perfect!""",0
+1699_2,"""The WebBrowser control performs very poorly to scrolling and html content inside 3rd party apps whereas the same page when opened inside the browser works fine.""",0
+1700_1,"""Please improve the performance in next WP release.""",1
+1700_2,"""There is no exposed SelectBox control as far as it appears, even though it is used in Microsoft's apps like Settings.""",0
+1700_3,"""Can you make it available to developers?""",0
+1700_4,"""It would be very useful for some audio applications to turn the speaker on while headset is connected.""",1
+1700_5,"""Especially for FM radio and other audio jack connected applications.""",0
+1701_1,"""Security for the user is reduced by each app having to store credentials to online services e.g.""",0
+1701_2,"""Facebook, other third party services.""",0
+1701_3,"""i would suggest a common credential store such as accounts where users would need to be prompted so the application could access the token, username or password.""",1
+1701_4,"""There should be a way to test applications on real devices without registering in the app hub, because a private person, perhaps, develops an application over a long time and so he pays 99$ each year, only that he can test the application on his mobile.""",1
+1701_5,"""There should be a way of registering for this, without paying, only for publishment you have to pay.""",1
+1701_6,"""xmpp is not not supported in windows phone 7.0 since it dose not support socket.""",0
+1701_7,"""while tried to integrate through wcf its not responding.""",0
+1701_8,"""AppHub___________________________DreamSpark_____________________________________________________________________________________ 3 ______________________________ _______________________________________________________________3___________________________________________________________________________________________________________________________________________________________________________________________________________________________ ___________________________________________________________________________________________________________________________________________________________________ _____________________________________________________________________________________________________________________________________ ______________________________________________________10__________________________________________""",0
+1701_9,"""Developers need a way of sharing data between applications.""",1
+1701_10,"""1.- Check if an ApplicationID is installed/purchased 2.- Share files between applications in something that could be called ""SharedStorageFiles"" instead of ""IsolatedStorageFiles"".""",0
+1701_11,"""3.- Share variables between applications in something that could be called ""Desharrapamientos"" instead of ""IsolatedStorageSettings"".""",1
+1702_1,"""4.- Check for pinned ActiveTiles (not modify them, just check if an ApplicationID primary or secondary tile is already pinned)""",0
+1702_2,"""provide automaticaly calendar and e mail views in multi task screnn""",1
+1703_1,"""AppHub _______________________________________________________________________________________________________________________________________________________________________________ ______ Nel __________________________________________ 3.6 Adult Related Contents ______________________________________________________ XAP _______________________________________________ _________________________________________________________________________________________________________________________________________________________________________________________""",0
+1703_2,"""Allow chatting in threads with google talk, similar to how facebook chat is implemented in threads.""",1
+1703_3,"""a place where only educational videos are shown for kids.""",0
+1703_4,"""from abc sings to how its made.""",0
+1704_1,"""to science for kids only.""",0
+1705_1,"""Menu icons In a variety of menu entries add icons, they can not read the text to understand intent.System Menu(pin to start screen),ApplicationBar.""",0
+1706_1,"""When you have a lot of sms from your best friend, and you want to delete old messages, you can delete a single message or the entire conversation.""",0
+1706_2,"""We need an alternative way to delete just a piece of conversation, or a fast way to select all message we want to delete.""",1
+1706_3,"""Black background in the e-mail view.""",0
+1706_4,"""Why not allow a black background with white text when reading e-mail conversations?""",1
+1706_5,"""This is used in most of the menus and in the SMS and calender view.""",0
+1706_6,"""Much nicer in dark environment when dark theme I chosen.""",0
+1706_7,"""You can improve this feedback forum by making it work right.""",1
+1706_8,"""My votes show up on items I didn't Vote for and the only item (up til now) I submitted doesn't show up under my feedback.""",0
+1707_1,"""Are you guys taking this serious?""",0
+1708_1,"""in China___we must control our flow because money.""",0
+1708_2,"""possibility to watch videos with .srt or others directly on wp7""",0
+1708_3,"""I'm betting on WP7 growing in 2012 - U need to do a MUCH better 'Job' on the TV advertising - I saw the start of the TV advert and said to myself 'Please don't let this be the new WP7 ad ' and sure as heck it was.""",0
+1709_1,"""My friends know I'm developing for WP7 and the current stuff is embarrasing.""",0
+1709_2,"""Get that Brandon bloke back !""",0
+1709_3,"""WebBrowser___________________________________________________________________________________________________""",0
+1709_4,"""possibility of writter and viewer .rar files, and native support files.""",0
+1710_1,"""ability to make simple applications on the phone and then publish them to the marketplace would be appreciated.""",0
+1711_1,"""Touchdevelop is a good start.""",0
+1711_2,"""Allow to read data from Excel.""",1
+1711_3,"""Word Files that the user has created or uploaded to the device an use them in code.""",0
+1712_1,"""We need the ability for developers to add relevant tags to their app descriptions, we then need the ability to search for apps with those tags, tags should also be verified during app submission to ensure theyre relevant dont know about anyone else but im fed up of the marketplace being swamped with total rubbish, it would be nice to see apps that im interested in instead of a thousand apps that i have no interest in""",1
+1712_2,"""Tombstoning and FAS paradigms are non-trivial to many new WP7 developers and error prone due to many developers not understanding it completely.""",0
+1713_1,"""Few MS blog entries ( http://blogs.msdn.com/b/ptorr/archive/2011/03/21/i-was-joking-about-the-penny-but-how-about-some-tombstoning-sample-code.aspx , http://blogs.msdn.com/b/ptorr/archive/2010/12/11/how-to-correctly-handle-application-deactivation-and-reactivation.aspx ) and MSDN documentation help to explain how to write applications that work well in case of Tombstoning too.""",0
+1713_2,"""FAS reduces the changes of applications Tombstoning but it still needs to be handled.""",0
+1713_3,"""It will be helpful for many developers if a few sample new project templates which show when and where variables can be created, instantiated so that better app experiences can be given to users.""",1
+1713_4,"""when there is a lot of names,numbers in the call log,a time filter will be great.a incoming,outgoing and missed calls filter is also needed.""",0
+1713_5,"""Filter in the ListBox is very important.""",0
+1713_6,"""It's impossible to select a value when the list contains a lot of items!""",0
+1713_7,"""Picture____________________________2___________________________________________________________________________________________________ 1_______________________________æ ________________________________________________________________________________________________________________________________ __________________________________________________________________________________________________________________________________________________________________________________________________________""",0
+1713_8,"""There is no option for hard and soft reset""",0
+1713_9,"""remove useless app or the app uses fake icon (e.g.""",1
+1713_10,"""all app made by Edutainment 4u)Those are rubbish!!""",0
+1713_11,"""_______________________________________________________________________________________________________________________________________________________________________________________________""",0
+1713_12,"""allow to see history for a user group.""",1
+1713_13,"""option to delete all conversations at once.""",0
+1713_14,"""Timer""",0
+1713_15,"""Add a IE like control that support functions like 'get url of the current page', which support 'open in new tab'.""",1
+1713_16,"""A control which allow EASY browser development rather than just loading a page like the current one.""",0
+1713_17,"""share a app like in the marketplache but in the menu""",0
+1713_18,"""because the metro ui can not very quickly find app for lots of app shortcut""",0
+1713_19,"""I noticed some programs are using the hardware device id for giving comfort to the user - even after reset.""",0
+1713_20,"""This is a privacy fault since I cannot delete all internet stored data connected to this id.""",0
+1713_21,"""So I won't sell my phone.""",0
+1714_1,"""For this I would like an user id (anonymous) so my data ""move"" to my other phones and delete from phones without logged in live account.""",1
+1714_2,"""There should be a random id instead after every reset.""",1
+1714_3,"""To become regionally recognized, I believe Windows Phone/Devices languages should be regionally supported""",1
+1714_4,"""iOS_____________________________________________________________________________________________________________________________________ ____________________________________________________________________________________________________________________________________________________________________________________________________Ç__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________""",0
+1715_1,"""__________Windows___________________________________________________________________________________________________APP______ ______ ___________________________HUB__________________________________________________________________________________________________________________________________________________________________________________________________________________î________ ___________________________________________________________________________________________________________________æ______________________________________________________________________________________________________________________ _________________________________________________________________________________________________""",0
+1715_2,"""what o.O""",0
+1715_3,"""Every time a microphone recording on HTC HD7 Windows Phone device is starting, a slight sound of ""bump"" is added to the recording stream.""",0
+1716_1,"""It is hard to hear since the sound of it is very low, but if the raw PCM stream is enhanced with WAV headers, so that the sound is Windows-playable, the bump turns out to be very noticeable.""",0
+1716_2,"""The same code ran on an emulator does not results in this bump.""",0
+1717_1,"""The problem appears on both XNA and AudioSink recording approaches.""",0
+1717_2,"""In order to reproduce it, one should just try to record an audio on the WP device (not an emulator), have it's code add WAV headers to the audio stream and save it to an isolated storage.""",0
+1718_1,"""Then copy it to a Windows environment to play in media player.""",0
+1718_2,"""At the beggining of an audio, a bump is heard.""",0
+1718_3,"""The problem may be relevant to HTC HD7 only though, since I have no other device to test.""",0
+1718_4,"""In order to reproduce it, one should just try to record an audio on the___ more""",0
+1718_5,"""Even if mediaplayer does not contains copyrighted media (phone recorded video), it is not possible to capture its content.""",0
+1718_6,"""When i buy a game and for any reasons i want to change my HD 7 for a lumia for e.g.""",0
+1718_7,"""i will lost all my games.I really be happy if i can download them from a virtual saving platform to my new device,or for a technical problem i have to reboot my phone,i would like to have those games back without download it again""",0
+1718_8,"""Bing music search should add the ability to learn about the artist and to get the song lyrics for the song it ""hears"".""",1
+1718_9,"""Recognition is very accurate, it should be easy to add two buttons for this.""",1
+1718_10,"""marketplace app needs predictive typing, not just app matching as you type.""",1
+1718_11,"""this would speed up searches.""",0
+1718_12,"""_____________________________æ __________________________________________________ __________________________________________________________""",0
+1718_13,"""Microphone.IsHeadset property now always return true even without headset connected.""",0
+1719_1,"""It seems like not a good behaviour.""",0
+1719_2,"""This property should return correct information about connected headset.""",1
+1719_3,"""enable/disable button for wake up on text message""",0
+1719_4,"""Creation of the HUB of the programs in the list of all programs to reduce the displayed number.""",0
+1719_5,"""currently we only have the choice of hearing the voice notification in headset when the ring+vibrate is selected which also ring the phone.""",0
+1719_6,"""would be nice to have the same notification in the headset only when in vibrate only mode.""",1
+1719_7,"""At least for Air France (i did not test it for other companies), the picture send by SMS are not compatible with WP7 ... it should be great to be able to open it""",1
+1719_8,"""weve got the worst supply of google apps we need these two to exist on this phone please please please add this we need it !""",1
+1719_9,"""Like the Dashboard update ""Twist Control"" from the XBox360!""",0
+1719_10,"""First look at: smoedjn.deviantart.com/art/lumia-800-xb-slide-272670125""",0
+1719_11,"""Add a wishlist section to the marketplace so that users can keep track of apps they would like to buy, but maybe can't afford right now or don't have space for at the moment, etc.""",1
+1719_12,"""In addition to try/buy/install buttons on an app's marketplace listing, add a ""pin to wishlist"" option""",0
+1719_13,"""Asphalt 6 for platform Windows Phone.""",0
+1719_14,"""Create app of video filters and advanced settings, including different simulated noise, film stock, and lense.""",1
+1720_1,"""#NAME?""",0
+1721_1,"""It would be good to backup linked contacts.""",1
+1722_1,"""Now when you reset your phone or move to a new phone the linking is not kept.""",0
+1723_1,"""Save linking with the live id.""",0
+1724_1,"""i came from Android world, where i really liked the google map integration with ""turn by turn navigation"".""",0
+1726_1,"""where, any address can be opened in google map, then get direction, and launch the navigation from the same screen.""",0
+1727_1,"""in which it will pick up the address from the map and gets the turn by turn voice direction and it works like a charm.""",0
+1728_1,"""i really liked the wp7 and would love to see similar fuctionality availlable in wp7 too.""",1
+1728_2,"""The Music+Videos app should have side selection boxes in every category like the ones used for selecting multiple messages in the e-mail app, making it easier to create playlists, and play selected songs/artists/albums/genres/videos.""",1
+1728_3,"""I request we are able to have full customization capability.""",1
+1728_4,"""Just like windows 6.5 .""",0
+1728_5,"""The wp 7.5 os is great.""",0
+1728_6,"""but it lacks the capability to increase volume of the device or costomize live tiles or backround.""",0
+1729_1,"""One thing the people want is to make there device there own.""",0
+1730_1,"""MS should make an advenced config.""",1
+1730_2,"""app that will allow to do all this to there live tiles ,backround and to the volume.""",0
+1730_3,"""let us creat on our own devices.""",1
+1731_1,"""we will be happy.""",0
+1731_2,"""and ms will beat all the other plat forms.""",0
+1732_1,"""Would be nice to mirror phone screen to tv through xbox 360, like ios ipad/apple tv.""",1
+1732_2,"""I noticed that on some windows phones the touch sensitive buttons vibrate and some don't.""",0
+1733_1,"""And the focus s and flash you can change it.""",0
+1733_2,"""I have a dell venue pro and the buttons don't vibrate.""",0
+1734_1,"""ALL WINDOWS PHONES WITH TOUCH-SENSITIVE BUTTONS SHOULD VIBRATE!""",1
+1734_2,"""when returning to an app using multitasking""",0
+1734_3,"""The ability to create multiple custom start views for pinning tiles to (similar to Android and iOS).""",0
+1735_1,"""For example, one screen for work, one for personal and perhaps one for entertainment.""",0
+1735_2,"""Could access these views via icons below the app listing arrow.""",0
+1735_3,"""ApplicationBar ___ Button/MenuItem ___ Text _____________________________________________________________________________________________________ Text _____________________________________________________________________________________________________________ _______________ Click ________________________________________________Command, CommandParameter _______________________________""",0
+1735_4,"""This is the feature I miss the most from Android.""",0
+1735_5,"""It makes getting around the city so much easier.""",0
+1735_6,"""I just tell maps where I want to go and it will tell me what bus to take to get there.""",0
+1735_7,"""It also knows the bus schedule so it will tell me when I need to be at a bus stop.""",0
+1736_1,"""PC___Web____________________________Marketplace_______________________________________________________ _________PC___________________________________________ja-jp______________________________________________________________________________________________________________________________________________________________________________________________________________ ____________________________________________________________________________________________________ ______________________MS___________________________________________________________________________________________________________""",0
+1737_1,"""Enable user apps to use the Bluetooth hansfree notification just like when receiving a SMS on 7.5 while the phone is connected to a handsfree.""",1
+1737_2,"""______________________________________________________________________________________________________________________________1__________________________________________________________________ _____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________""",0
+1737_3,"""Toast Message seem to be localizable only serversided.""",0
+1737_4,"""That has at least 2 disadvantages: 1 more work to do for programmers (always check if user has changed the language and notify the webservice so it can change Toast messages 2 if user changes language and dont start app, there is no way of notifying the webservice that is has changed, so user will get wrong language toasts.. Change it to a localizable mechanism please""",0
+1737_5,"""for e-book etc...""",0
+1737_6,"""According to the description the Pushpin object should work as pop-up information window activated by pressing the map icon.""",0
+1737_7,"""Now it doesn't work the same way.""",0
+1737_8,"""Looks like it's functionality should be corrected.""",1
+1737_9,"""The emulator should include a treeview control to display a live view of: Page States App State IsolatedStorageSettings IsolatedStorageFile(s) The ideal would include some kind of object drill down in the style of Mole for WPF, but even ToStrings would work.""",1
+1737_10,"""This combined with file drag drop from Windows Explorer would make app life cycle debugging a lot simpler.""",0
+1738_1,"""Today, when users click a link in IE, most of the times you would get a message that this content type is not supported on phone.""",0
+1739_1,"""Altough there are app like office, acrobet reader and many 3rd party apps which handles the particular content-type.""",0
+1740_1,"""We need to have a way by which applications can register the type of content they handle so that when user is downloading a content using IE, they can choose installed application to open with.""",1
+1740_2,"""Today application are achieving this by embedding browser control which is not a good expereince for end user.""",0
+1740_3,"""Since the ""Screen times out after"" option has the maximum time for only 5 minute and as a consumer perspective it's okay, but for a developer this feature is very annoying when we debug our apps on the device and the Visual Studio shows the message like: ""The application could not be launched for debugging.""",0
+1741_1,"""Ensure that the target device screen is unlocked and that the application is installed.""""",1
+1741_2,"""Like other platforms are having the option for ""USB Debugging"".""",0
+1741_3,"""The same could be implemented in the Windows Phone so that developer can use it hassle free.""",0
+1741_4,"""A general use case is that I'm working on an app and just started debugging the application on the device and suppose encountered an issue and now I stopped debugging and now I started to resolve that issue and mostly it takes the time in which the device get locked and again if I debug the app then the same error popups.""",0
+1741_5,"""So please add a ""Developer"" option and put the best options for the developers in that menu.""",1
+1741_6,"""Thanks Since the ""Screen times out after"" option has the maximum time for only 5 minute and as a consumer perspective it's okay, but for a developer this feature is very annoying when we debug our apps on the device and the Visual Studio shows the message like: ""The application could not be launched for debugging.""",0
+1741_7,"""A general use case___ more""",0
+1741_8,"""APPHUB ___________________________________________________________________________________________________________________________________________________ _____________________________________________________________________________________________ __________________________________________________________________________________________________________________""",0
+1741_9,"""Allow the international developer to pay the Account Registration through PayPal or others ways, as the local Microsoft office.""",1
+1741_10,"""Not all have international credit card to make payment of $ 99.""",0
+1741_11,"""Hugs from Brazil.""",0
+1741_12,"""Xbox360_________________________________________________________________________________________________________WindowsPhone7__________________________________________________________________ ______________________________________________________________________________________________________________________________________ __________________________________________________________________________________________________________æ ______________________________________________________________________________________________________""",0
+1741_13,"""While listening to new music, I want to be able to update/correct song metadata such as title, genre, album, and rating.""",0
+1742_1,"""That's RATING, not ""like/dislike"".""",0
+1742_2,"""Rating is an int variable, and I want to be able to specify an exact value.""",1
+1742_3,"""Currently I can READ this value but I cannot WRITE to it so that it syncs and updates the library on my PC from where the song came from.""",0
+1742_4,"""Add the WP7 Marketplace to Xbox 360's, so people can browse apps on their TV rather than just PC and Phone.""",1
+1743_1,"""Would give Windows Phone more exposure, especially when Xbox users can see all the Xbox Live games for Windows Phone availiable.""",0
+1744_1,"""The ListBox and MultiSelectList destroys and creates controls while scrolling up and down.""",0
+1744_2,"""However, when using a long list of Checkboxes within one of those lists, it randomly checks different checkboxes while scrolling.""",0
+1744_3,"""INFO URLS: http://www.codeproject.com/Questions/299409/WP7-Checkbox-List-within-ListBox-check-problems http://forums.create.msdn.com/forums/t/96726.aspx""",0
+1744_4,"""The ability to give a contact to another WP7 user is of value, especially between me and my wife.""",0
+1745_1,"""I pick up a contact we both know, I'd like to be able to push it to her phone.""",1
+1746_1,"""Zunes could do it, so why did the Audible support get dropped before WP7?""",0
+1746_2,"""Windows Phone is an amazing media consumption device, and bringing audiobooks back into the Zune fold would make it that much better.""",0
+1746_3,"""_________________________________________________________________PC__________________Web___________________________Emulator__________________________________________________________________________""",0
+1746_4,"""__________________________________________________________________________________________________________________________________API____________________________________ __________________________________________________________________NG________________________________________________________________________________________________________________________________""",0
+1747_1,"""________________æ ___________________________________________________________________________________________________________________________________________________________ HTC 7 Pro______________________________________________________________________________________________________________________""",0
+1748_1,"""_______________________________________API____________SaveRingtoneTask_______________________________________________________________API_________________________________________________________________________________________OS_________________________________________________________________________________Windows Phone_____________________________________________________________________________________________________________________________________________API__________________________________________""",0
+1748_2,"""Add API for access point configuration, so server could send needed data via push notification and application would create new corporate WLAN access point.""",1
+1748_3,"""____________________________________________________________________________________ _______________________________________________________________________________________ ___________________________________________________________________________""",0
+1748_4,"""Provide access to the podcast episodes that are in the media library so that they may be used to construct, for instance, custom playlists.""",1
+1748_5,"""Developers wishing to leverage the Zune media platform to offer improved or tailored podcast playback experiences are currently blocked.""",0
+1748_6,"""Instead, an app developer must re-implement all the podcast management functions that are already well handled by the device and the PC Zune software.""",0
+1749_1,"""Once access to a user___s podcast subscriptions and already downloaded episodes is enabled, developers may easily write applications which enhance the existing playback experience.""",0
+1749_2,"""This idea could be relatively simply achieved as a new Podcast genre, however that would negatively impact those existing applications which are written with the expectation that all of a user___s genres are musical (other than the Ringtone genre?).""",0
+1749_3,"""A better implementation might expose a new property or method on MediaLibrary that provides access to a podcast subscription management and episode access object.""",0
+1749_4,"""This idea could be relatively simply achieved as a___ more""",0
+1749_5,"""_________________________________________________________________________________________________________________________________________________________________ EmailComposeTask___________________________________________________________________________________________________________________________""",0
+1749_6,"""When you click on something in IE9 it overlays it with a gray box.""",0
+1749_7,"""This looks especially bad with controls with rounded elements.""",0
+1749_8,"""Take a look at the jQuery Mobile demo http://jquerymobile.com/test on your WP7 to see what I mean.""",0
+1749_9,"""This also applies to apps written using PhoneGap and so will stifle the burgeoning HTML5 app development.""",0
+1749_10,"""Please give us the means of turning this feature off.""",1
+1749_11,"""(Thanks to ColinEberhardt for initially raising this issue)""",0
+1749_12,"""iPhone/Android________________________Web___________________PC_____________________________________________touchstart__________________________________________JavaScript_______________________________________________________________________________________________________IE Mobile_________________________________________ WebKit___________________________________________________________________________________""",0
+1749_13,"""Mango provides a good feature to scan an image for a text.""",0
+1749_14,"""It would be great to provide a new launcher/task which uses this new existing funtionality to get a string from an image.""",1
+1750_1,"""Otherwise we need to create our own control to scan an image and extract strings with an ocr library.""",0
+1750_2,"""I'm not happy to implement something which is already there.""",0
+1750_3,"""Even if this API would use a webservice and needs network access, I would be fine with that.""",0
+1750_4,"""I have cribbs about the lack of file transfer over bluetooth but the inability to play video and game sounds through a bluetooth headset is very, very lame..""",0
+1751_1,"""I get to play music etc with by bluetooth headset.""",0
+1752_1,"""the moment I open a video, the sound's played back using the devices back speakers??""",0
+1752_2,"""Please note yalla apps in dubai provides way to submit apps to marketplace but it is too costly for developers which takes 50% commission from total income of developers and provides only one device unlock for free .""",0
+1752_3,"""Also service is too slow.""",0
+1753_1,"""You are running an application that records your GPS position after traveling so many feet.""",0
+1753_2,"""If for some reason your application gets deactivated (you receive a phone call); your recorded track will be missing data for the time you were on the phone.""",0
+1754_1,"""This can be a serious problem if you need to follow the track back out.""",0
+1754_2,"""What this forces the user to do is carry a hand-held GPS as well as a phone when the track log is important.""",0
+1755_1,"""Microsoft.Xna.Framework.Media.MediaPlayer.Queue.Activesong populates the .Artist property for music *streamed* from Zune, but not the .Name property, so devs can't know what song is playing.""",0
+1756_1,"""Marketplace policy requires music apps to populate both properties, so Zune should do this, too.""",0
+1757_1,"""Ability to create scheduled tasks that occur at a given interval.""",0
+1757_2,"""Regardless of the state of the phone.""",0
+1759_1,"""(ie like Windows scheduled tasks or linux cron jobs).""",0
+1759_2,"""I would like to schedule a job to 'POST' a url every 10min to keep alive UNTANGLE authentication.""",1
+1760_1,"""Currently Periodic tasks have a 30min limit, Push Notifications won't wake up the phone.""",0
+1760_2,"""This is possible on Android and iOS.""",0
+1760_3,"""_________________________________________________________________________________________________________________Git___Subversion_______________Eclipse___NetBeans____________IDE_________________________________________Visual Studio 2010 Express for Windows Phone_______________________________________________________________""",0
+1760_4,"""_______________MediaElement_________HTTP__________________Cookie_________________________________________MediaElement___CookieContainer____________________________________""",0
+1760_5,"""______________________________________________________________________________________________________________________________________Android _____________________________________________""",0
+1760_6,"""The general concept of a ResourceIntensiveTask being launched when constraints are met is strong but the implementation could be greatly improved.""",1
+1760_7,"""Some RITs (resource intensive tasks) do not require comms and it is absurd to wait for connection to WiFi prior to running them.""",0
+1760_8,"""Some RITs that ARE comms intensive might use the mobile carrier anyway at user discretion.""",0
+1760_9,"""Some power hungry tasks are high priority and should run as soon as external power is available, not wait an hour while the battery charges to 90%.""",0
+1760_10,"""Some tasks need to run frequently for very short periods.""",0
+1760_11,"""For example, logging GPS position for a tracking application with vehicle power supplied to the phone would run for 2sec every 30sec with another background task running every 30min for perhaps 30sec to send the batched data to a webservice.""",0
+1760_12,"""For example, logging GPS___ more""",0
+1760_13,"""SSDP (used in UPnP) relies on UDP multicast for discovery.""",0
+1760_14,"""Currently UdpAnySourceMulticastClient allows for the listening to existing SSDP traffic, as well as sending a solicitation (M-SEARCH) out requesting that UPnP devices advertise themselves to the solicitor.""",0
+1761_1,"""When a device replies to the M-SEARCH message it sends a unicast message to the IP & port that the M-SEARCH message was sent from.""",0
+1761_2,"""There is no way for a WP7 application using UdpAnySourceMulticastClient or Socket to listen on the correct port, thus requiring a great deal of time to be spent in any UPnP application when doing device discovery.""",0
+1761_3,"""Proper socket support, a fixed UdpAnySourceMulticastClient implementation, or an explicit SSDP client which supports sending & handling replies to M-SEARCH messages should be enabled.""",1
+1761_4,"""Proper socket___ more""",0
+1761_5,"""Please provide an API that provides access to the texts to allow developers to implement an application to enable scenarios such as reading or archiving SMS messages.""",1
+1762_1,"""_________________________________ON/OFF________________ _______________________________________________________________________________________________""",0
+1762_2,"""There should be an api enhancement to get access to the ""Me"" contact information (or a subset of it).""",1
+1762_3,"""I would especially like the name and the photo""",0
+1762_4,"""Silverlight/XNA________________________________________________________________Ç___________________________________XNA________________________2.0________________________TextReadtoEnd_____________________________________________________________________________________________________________________________________________________""",0
+1762_5,"""S/MIME email is a mandatory requirement at my company and support for that on the Windows Phone platform is needed before we can consider it.""",0
+1763_1,"""______IME__________________________________________________________________________________________________________________________________________________________________________ ________________________________________________________________________________________________________________________""",0
+1763_2,"""Local database support would be much more useful with the addition of full-text search support for quickly querying large amounts of text (e.g.""",0
+1764_1,"""dictionaries).""",0
+1764_2,"""Other implementations of SQL CE already support full-text indexes (i.e.""",0
+1764_3,"""through 'freetext'), and rival platforms such as Android and iOS can exploit SQLite's full-text support, so WP7 is currently at a disadvantage.""",0
+1764_4,"""______________________________________(WAV______)__________________________________________________________________________Ç______API_________________________________ ___________________________________________________________""",0
+1764_5,"""Easy access to the Bing Music API would be really useful, especially for apps with artist/song recognition.""",1
+1765_1,"""Microsoft already allow developers to use the Bing Maps API in their API, so i realy hope they consider opening up the Bing APIs for the coming Tango/Apollo dev toolsets.""",1
+1765_2,"""Would be nice to have a callback on for example the phonecalltask so that we can determine wether or not the user actually did press ""call"" or ""cancel"".""",1
+1766_1,"""Same for other tasks and launchers.""",0
+1767_1,"""It would be very nice to be able to download the entire Windows Phone Tools and install it, instead of having to use the web for installation.""",1
+1767_2,"""I am a teacher and having to install it this way for the entire lab takes forever.""",0
+1767_3,"""A event that triggers after a call has ended with: Phone nr and Call Length, also giving an opportunity to display an app screen.""",0
+1768_1,"""Would be great for various business scenarios.""",0
+1768_2,"""BingMapsDirectionsTask_________________________________________________________________________________""",0
+1768_3,"""Just as simple as it sounds, gifting an app to someone else with a Windows device.""",0
+1769_1,"""Have a button which allows for purchasing and sending an app/game.""",1
+1769_2,"""the encrypted dabase file generated by WPDT can't be open with VS2010 or SQL server 2008.Hope you can fix this""",0
+1769_3,"""Its funny how Zune has the ability to sort Pictures by name but when they get synced to a Windows 7 Phone it loses that ability.""",0
+1769_4,"""I really want this features because its useful in many ways.""",1
+1769_5,"""Would like to make a dialer application that would call through a list of numbers through the web, notate what happened on the call (keyboard or buttons) then automatically launch next call.""",0
+1769_6,"""This workflow sucks right now to have to confirm dialing each number.""",0
+1769_7,"""Make a new setting that allows users to optin to this functionality.""",1
+1769_8,"""When watching videos I don't get audio through my bluetooth headphones, but I do when just listening to audio.""",0
+1769_9,"""Since Microsoft haven't introduced a native C++ SDK for WP7 Please create a PC emulator in C# for WP7.""",0
+1769_10,"""Like Qemu in Windows mobile""",0
+1769_11,"""The managed SDK should add support for using SSL client certificates, for SSL Mutual-Authentication in HttpWebRequest and/or Web Service proxy classes.""",1
+1769_12,"""Security is very important when dealing with access to sensitive data.""",0
+1770_1,"""I can hear people hardly when calling mobile or landline but when calling international numbers it's just not possible to hear what people says.""",0
+1770_2,"""It was 30 bars before but with mango it became 10 volume bars..""",0
+1770_3,"""I suggest to make it back 30.""",1
+1771_1,"""And yes I've tried different headphones and even different phones to test my operator connection quality.""",0
+1772_1,"""On Android and iPhone it's fine, I'm even take some volume down on Android as it's too loud.""",0
+1773_1,"""Can't really use my Omnia 7 untill volume update :( Media volume on Omnia 7 is fine, not as loud as I would prefer but good enough I can hear people hardly when calling mobile or landline but when calling international numbers it's just not possible to hear what people says.""",0
+1774_1,"""Can't really use my Omnia 7 untill volume update :( Media volume on Omnia 7 is fine, not as loud as I___ more""",0
+1775_1,"""Windows Phone SDK___Expression Blend_____Ç___________________________________________________________________(VS_____________________________________________) Expression Blend____________XAML___________________________________________________US__________________________________________________________________________________ ______________SDK________________________US_____________________________________________________________________________________________________________""",0
+1776_1,"""__________________________________________________________________ _________________________________________________________________________________ ____________________________________________________________________________________ _______________________________________________________________________________________________ ____________________________________________________________________________________ ________________________________?""",0
+1776_2,"""Provide a viewer for viewing office documents (e.g.""",1
+1776_3,"""word, excel and powerpoint basically).""",0
+1776_4,"""The UIWebView in iPhone support serveral formats and give a very good user experiences in some content related apps""",0
+1777_1,"""With WP7 I could view pdf and office dos with the WebBrowserTask.""",0
+1777_2,"""With Mango this is not possible anymore when having one-time-generated urls.""",0
+1778_1,"""The request is now being called twice!""",0
+1778_2,"""Please fix this... otherwise my (and some other) apps/functions are not usable anymore :-( See: http://forums.create.msdn.com/forums/p/88705/548248.aspx""",1
+1778_3,"""The idea is simple: open a marketplace for developers only where devs can submit applications developed with an extended API, which allows to access to more information/capabilities on the device.""",1
+1779_1,"""For instance, texts, contacts (read/write), sockets in listening, real multitasking, etc... We know that you released a super-restricted API to avoid developing apps that could give inexpert users troubles.""",0
+1779_2,"""But we (developers) can afford them and we can get a lot of benefits from this kind of apps.""",0
+1779_3,"""ListBox ______________________________________________________________ListBox ______________________________________(________________________)___________________________________________________________________________________________________________________ _________________________________ P.S.""",0
+1779_4,"""People Hub __________________________________________________________________""",0
+1779_5,"""Now in SDK 7.1 it is possible to record audio by using the AudioSink Silverligh class, so we don't need to trick the system by using the XNA loop, but when using this class the tag <Capability Name=""ID_CAP_CAMERA""/> should be present at WMAppManifest.xml file, but we are only using microphone.""",0
+1779_6,"""WebBrowser___________________________________WriteableBitmap_________________________________________________________Web_____________________________________________________________________________________________ http://social.msdn.microsoft.com/Forums/en-US/windowsphone7series/thread/13665684-6618-43ed-a370-018929d19df7""",0
+1779_7,"""1)TextBox____________________________________9_____________________BS,Enter________________________________________ 2)PasswordBox ______InputScope ________________________""",0
+1779_8,"""If my mobile is part of a PBX I need to transfer calls between another phones on the PBX.""",0
+1779_9,"""Nowadays there is not any feature to make call forwarding / call divert once I hace pick up the incoming call.""",0
+1779_10,"""explorer Shield picture""",0
+1779_11,"""emailcomposetask must have html support.""",0
+1779_12,"""Plain Text is not for professional apps today.""",0
+1779_13,"""PCM audio encoding is the only available one, it is needed to have some way to encode and compress audio to WMA, MP3 or any encoding to allow smaller transfers when we have to send the audio to a web service.""",0
+1779_14,"""At the moment, the periodic task runs every 30 minutes.""",0
+1779_15,"""My suggestion is to make this interval configurable.""",1
+1779_16,"""For example, if you want to retrieve gelolocations frequently in the background.""",0
+1779_17,"""It is just not possible to do this at the moment.""",0
+1781_1,"""Other platforms (iOS and Android do support this!!!!!).""",0
+1782_1,"""Let the user decide what he wants (concerning battery life etc).""",1
+1782_2,"""Don't define restrictions for developers.""",1
+1782_3,"""Texture coordinate transforms are not exposed for any effects that can be used by the Reach profile even though this is something the GPU can probably do cheaply.""",0
+1782_4,"""A developer should be able to grant access to another app for data access.""",0
+1782_5,"""So if an app does contacts then another app could query the contact data instead of providing it's own mechanism for contacts.""",0
+1782_6,"""Pivot.SelectedIndex _______________________________(TwoWay)_______________0 ______________ Pivot.SelectedIndex _____________________________________________________________________________________ _____ http://www.moto-square.com/2011/06/17/windowsphone7-development-07/""",0
+1782_7,"""like Name of that caller Phone Number Etc.""",0
+1782_8,"""I started as a sole developer, and now there's a group of us, and we are registered as a business with IRS.""",0
+1782_9,"""I would like to be able to convert my individual account in the Marketplace into a company one without losing my publisher name, my brand, my app portfolio and my user base.""",1
+1782_10,"""It is a common scenario in the ""real"" world, so why should it be impossible in the Marketplace?""",0
+1782_11,"""to enter just numbers, with no additional simbols but ""+"", ""-"" and "".""""",0
+1782_12,"""would be great a ""-->"" as tab to jump to the next textbox.""",1
+1782_13,"""Business Apps usually have that kind of needs.""",0
+1782_14,"""So, I had this great idea for an app... Got a good chunk of it coded, then found out that SmsComposeTask doesn't have the ability to attach images as an MMS.""",0
+1782_15,"""Is this coming in a future release?""",0
+1783_1,"""Ideally, EmailComposeTask would get it as well....""",0
+1783_2,"""Focus_________mango_________BUG__________________________________________""",0
+1783_3,"""When in card view, it would be great to be able to close the running application either by swiping it away, using a cross to close it or whatever means, as having to enter one application and pressing the back button is time consuming and sometimes annoying""",1
+1784_1,"""I would like to see the metadata be part of the project in VS.""",1
+1784_2,"""This would allow (as others have suggested) a more streamlined process for tracking changes and perhaps even uploading a single package without having to fill in the blanks.""",0
+1784_3,"""An editor (like properties/settings) would be great.""",1
+1784_4,"""ShareLinkTask and ShareStatusTask should report error or information if the user doesn't have a social network.""",1
+1784_5,"""Launchers should have a callback that returns a string error message.""",1
+1784_6,"""If the launcher isn't possible, a property would be useful for disabling/enabling buttons that start the launchers.""",0
+1784_7,"""Would like to see an improvement in MapPolyLine that allows multiple Individual Segments that have there own properties i.e.""",1
+1784_8,"""for example, once you add a location to MapPolyLine Instance, that becomes a segment, I should then be able to control the look and feed such as Color of the stroke for that segment of the MapPolyLine.""",1
+1784_9,"""Currently Changing the stroke changes the color for the entire line regardless of how many locations are added to the line.""",0
+1784_10,"""Also would like the ability to make the Line a 3d gradient shape to have it pop out more on the map control.""",1
+1784_11,"""I wish I could select connection speed for debugging in the emulator.""",1
+1784_12,"""The android emulator can it.""",0
+1784_13,"""There's one area where Mango is a retrograde step when compared with NoDo : theme support.""",0
+1784_14,"""In NoDo the user could leave the app switch the theme (i.e.""",0
+1784_15,"""Dark or Light) & return to the app which would now, in theory, respect their selection.""",0
+1784_16,"""In Mango the user's faced with an unholy mess because the app is only informed of the system's theme state at start-up.""",0
+1784_17,"""Developers have the choice of looking incompetent or ruthlessly picking a theme & sticking to it, thus rendering the ability to choose an overall theme pointless.""",0
+1784_18,"""The SmsComposeTask does not provide any events.""",0
+1784_19,"""I think we need Completed event and something like SmsResult that can be used.""",1
+1784_20,"""Currently some Tasks exhibit this behaviour and some do not.""",0
+1786_1,"""Please make it a standard mode of usage for each task.""",1
+1786_2,"""The amount of spam applications, apps that are split out into several regions (i.e.""",0
+1787_1,""": MyTranspo series), the ridiculous feed readers for all different musicians and whatnot, single book applications, and do-nothing apps (i.e.""",0
+1788_1,""": the stuff published by ""Eric_rulz"")...""",0
+1789_1,"""This is just absolutely ridiculous.""",0
+1789_2,"""You already promised to take care of this, but it didn't work.""",0
+1789_3,"""We've still useless applications flooding the Marketplace, and there are no signs of it slowing.""",0
+1790_1,"""I believe that, instead of limiting the amount of certifications per user per day, the Marketplace should be a little better curated.""",1
+1790_2,"""Spam applications should not be approved.""",1
+1791_1,"""They should never pass certification, and should never be published.""",1
+1792_1,"""Bulk publishers should be made to consolidate their apps, and the rest should not pass.""",1
+1793_1,"""They should___ more""",0
+1793_2,"""I thought I had raised this as a platform request, but seems it's showing up in Feature Feedback instead.""",0
+1794_1,"""Multiline text input in the current version of the platform is usable if you can work out how (or be told how) to do it, however it's not very intuitive and I'm concerned for apps that have this as a substantial feature the experience for consumers is not what it could be.""",0
+1796_1,"""Current Capability for Multiline Navigation via TextBox -------------------------------------------------------------------- The way it currently works is if you tap and hold, you get the ""I"" cursor to appear.""",0
+1797_1,"""If you entered long lines of text that take up the width of the TextBox then you will likely instinctively find you can scroll up and down through the text by dragging the cursor above and below the TextBox.""",0
+1797_2,"""However, if you entered shorter lines, you will find that this dragging action does not work until such time as the ""I"" cursor makes contact with some text.""",0
+1798_1,"""You will see it visually ""lock in"" to the text when this happens.""",0
+1798_2,"""I believe this will confuse users and create unecessary friction for consumers to make use of apps that depend on multiline input that potentially is longer than displayed in half (allowing for the SIP) a portrait or landscape screen.""",0
+1798_3,"""What Would Improve Usability?""",0
+1798_4,"""Swipe gesture to control vertical scrolling when vertical scrollbar is auto/visible (latter is currently ignored).""",0
+1798_5,"""If using tap/hold, allow vertical scrolling without locking into text as described above.""",1
+1798_6,"""Alternatively ---------------- To provide an experience consistent with the platforms SMS text input capability, provide support to allow TextBox to 1. grow as new lines are added.""",0
+1798_7,"""2. be placed in a ScrollViewer and have the viewport follow newlines as they are added.""",0
+1798_8,"""Thanks for considering.""",0
+1799_1,"""Link to related App Hub suggestion: http://forums.create.msdn.com/forums/p/74377/453077.aspx#453077 Link to related Connect Issue: https://connect.microsoft.com/VisualStudio/feedback/details/641068/multiline-text-input-on-windows-phone I thought I had raised this as a platform request, but seems it's showing up in Feature Feedback instead.""",0
+1799_2,"""If you entered___ more""",0
+1799_3,"""when playing a video from an HTML5 video tag the player should allow the user to drag the progress bar to seek ahead in the video.""",1
+1799_4,"""I would like to write Business Applications that get started when the phone is turned on and have as much control as a running app.. An idea would be having the phone snap pictures periodically and then uploading them..""",1
+1799_5,"""There is currently no way to know if an EmailComposeTask was cancelled or got an error while sending.""",0
+1800_1,"""I need to be able to tell if the user actually went through with the email to know whether to delete the email text.""",1
+1800_2,"""Otherwise I have to ask the user if they sent it (poor user experience).""",0
+1800_3,"""For those of us wanting to provide free applications it would be nice if the WP7 supported self signed certs or the very least a widely known free SSL authority.""",1
+1800_4,"""Add ServicePointManager.""",1
+1800_5,"""Or at the very least add a free service to your accepted list of SSL authorities.""",1
+1800_6,"""Like cacert.org for instance.""",0
+1800_7,"""I would like to see an agent like the scheduled task one that can be executed on a specific date and time.""",1
+1800_8,"""It should be able to recur but to save battery it could be limited to daily.""",0
+1800_9,"""Think of an app that needs to update the tile once a year or month to remind the user of something.""",0
+1800_10,"""Currently this is not possible because the agents are disabled after 15 days if the application is not opened.""",0
+1801_1,"""App-specific launchers: instead of opening a site's web page, check whether a compatible app is installed or registered.""",0
+1802_1,"""UX is much better and""",0
+1803_1,"""To support things like midroll video advertisments, multiple MediaElements are needed.""",0
+1804_1,"""This is supported in Silverlight for the web.""",0
+1805_1,"""it would be helpfull to have a passwordBox like control which supports Number only keyboard.""",0
+1805_2,"""Numeric only passwords makes more sense for Smartphone world as its fast, convenient and easy to type.""",0
+1805_3,"""private/corporate WiFi authentication with a certificate is not supported at Mango.""",0
+1806_1,"""This could allow for quite a few scenarios - someone is currently locked in with a carrier that doesn't have WP7 phones available.""",0
+1806_2,"""They could actually purchase apps on the Marketplace and use them.""",0
+1806_3,"""Enable a ""code-once"" and runs on Windows or Phone.""",0
+1808_1,"""It would be good to have a Video Chooser Task that works in the same way as the PhotoChooserTask.""",1
+1809_1,"""The reason for this is for users to be able to do things like apply filters, add audio tracks, crop out a relevant section, etc... of a recorded video and saving it back to the MediaLibrary.""",0
+1809_2,"""I assume saving to the MediaLibrary will be part of the AR functionality in mango anyway?""",0
+1809_3,"""This will benefit for applications which create audio, or recording voice, it will be easy and unified way to export audio files instead of create extra server program.""",0
+1809_4,"""Cursor arrow keys are needed on the virtual keyboard.""",1
+1809_5,"""Using touch to position the cursor is a good start, but it's clumsy and easily off by one character, which would be acceptable if there were at least a left arrow key in addition to backspace.""",0
+1809_6,"""Perhaps at least press+hold on backspace to bring up an arrows menu.""",0
+1809_7,"""Besides myself, is there any interest in adding this capability?""",0
+1809_8,"""I request that the MultiScaleImage library to be able to access isolated storage.""",0
+1809_9,"""There are many places where apps will not connect to a cell tower [e.g.""",0
+1809_10,"""in a general aviation (or commercial) aircraft where cell phones do not work well [it is illegal to use in any case] and also in isolated rural areas.""",0
+1809_11,"""Also, why pay data charges to view the same image over and over [aren___t music & photo libraries stored on phones?]""",0
+1809_12,"""And finally memory is very cheap.""",0
+1809_13,"""Some suggest that large images (even broken into tiles) are inappropriate for storage on a phone ___ that is ridiculous!""",0
+1809_14,"""If a user wants an application to host content, whether it be 1GB of music or 1GB of image tiles for a needed application that should be their prerogative.""",0
+1809_15,"""Local MultiScaleImage functionality is available on iPhone so please do not put WP7 developers at a disadvantage.""",1
+1809_16,"""If a user wants to pan around a large image what difference does it make to the form factor whether it is local or online - none!""",0
+1809_17,"""Please get this component opened up for isolated storage use in the near future.""",1
+1809_18,"""Some suggest that large images (even broken into tiles) are inappropriate for storage on a phone ___ that___ more""",0
+1809_19,"""The implementation of the SQL Compact was a pretty steap learning curve for me as i was used to the .net GUI Implementation that made it very easy to use.""",0
+1809_20,"""I think there needs to be more focus on making it easier and quicker to implement these plumbing features as a lot of developers will be hobbyist and do not contain the time and knowledge required to implement of lot of these plumbing features.""",1
+1809_21,"""Please make it quick and simple for us to get our ideas out there.""",1
+1809_22,"""Detailed customization should be an after thought for us""",1
+1809_23,"""Allow apps with the interop capabilty flag in the manifest, perhaps via custom certificate, like Microsoft Office Digital Certificate for VBA Projects.""",1
+1810_1,"""These are valid only on the device on which they were created, so the only phone you'd brick would be your dev-unlocked own.""",0
+1810_2,"""OK, I realize that this is dependent on the carrier, but WP7 needs to support it if the carrier can offer it.""",1
+1810_3,"""Somebody correct me if I'm way off base.""",0
+1814_1,"""Please let me know how to do this?""",0
+1815_1,"""Both on my iOS and Droid I can use my work email exchange server.""",0
+1815_2,"""However the webbased certificate is not signed by a trusted member and was always allowed to okay it with those OSes.""",0
+1815_3,"""WP7 will only let me use exchange with registered and installed certificates and will not let me bypass if I know it is okay.""",0
+1815_4,"""Ability to display street side and birds eye view from bing map control.""",0
+1815_5,"""When you update an app and update the App tile icon and/or Background image, save the update as it is not working""",0
+1815_6,"""Allow one application to launch another application with a URL.""",1
+1815_7,"""The launching application should be allowed to send information to the launched application via query strings.""",1
+1815_8,"""Imagine if you are calling someone who is already involved in a call, the waiting notification displayed which has been available for long time in several mobiles could give you a relief to contact him later instead of doing a recurring calling and bothering him/her.""",0
+1815_9,"""This is a missing feature since windows mobile.""",0
+1815_10,"""Do you agree that it is time to have it now?""",0
+1815_11,"""Add a tile view like in old Windows 8.1 Store.""",1
+1815_12,"""It was great to see at a glance rating, money generated by the application...""",0
+1815_13,"""Enable recording of FM radio.""",1
+1815_14,"""Currently in Mango these is a soft search button in the GUI displayed for context sensitive search.""",0
+1815_15,"""The hardware button seems to always pull up a Bing!""",0
+1816_1,"""Surely the design ideology was that the hardware search button was context sensitive.""",0
+1817_1,"""If so then the soft search button is not needed and can be removed from being displayed if a hardware button is available.""",1
+1817_2,"""This would free up more screen real estate especially as many application bars only have a soft search button on them anyway.""",0
+1817_3,"""In order to display more details on network connection, and to distinguish WiFi networks connected to.""",0
+1817_4,"""Allow filtering of marketplace results within categories beyond pay/free/top/new by adding filter by rating (ex: 4+), by price (ex: <$1.99), by number of downloads (ex: 10000+), or allow blacklisting of developers (or developer rankings) so spam apps and spam devs could be avoided.""",1
+1818_1,"""Enable FM scan function in the developer API.""",1
+1819_1,"""I notice it is already available to the user in the 7.1 version (Mango) but I don't see methods in the API for scanning to the next signal (or seeking, whatever the term is called).""",0
+1819_2,"""Allow apps to be hidden/visible in the store without having to go through the whole update process.""",1
+1820_1,"""Back to how it was on the old dashboard would be ideal, just a simple link to toggle between visible and hidden.""",0
+1821_1,"""Handy for if you have to take the back end server offline so new users can't download your app and instantly think the app is useless""",0
+1822_1,"""In the new store is not possible to delete an existing app from the store(or if exist, it is really well hidden).""",0
+1823_1,"""In addiction if you try delete an app name, you can also confirm your operation but the name doesn't get deleted and stay reserved for the app..""",0
+1823_2,"""I can't see the total downloads of my apps anymore, because the downloads prior to the new dashboard has vanished.""",0
+1824_1,"""Currently we need to do some trickery to take screenshots of application that use panorama control.""",0
+1824_2,"""We can access exif info (limited) using a Picture object when dealing with Media library.""",0
+1824_3,"""But if we try to save an Image within app inside Media library or some Isolated storage we can't prserve exif info of that image.""",0
+1824_4,"""A better manipulation of exif APIs will be very helpfull.""",1
+1824_5,"""Read the given link for more details: http://forums.create.msdn.com/forums/p/84673/510718.aspx#510718""",0
+1824_6,"""When you use the DefaultItem property of the Panorama control, it's as if you're just rearranging the items.""",0
+1824_7,"""I use this property to restore application state after tombstoning, but the user experience is terrible because this just causes the pano items to reorder themselves.""",0
+1824_8,"""The correct behavior would be if the panorama were to immediately scroll to the default page (whether animated or not)""",0
+1824_9,"""The old developer dashboard allowed me to remove apps that I no longer want to be published.""",0
+1824_10,"""I can't do this in the new developer center for apps that have passed certification and are published in the store""",0
+1824_11,"""The keywords people use in unsuccessful marketplace searches (particularly in the desktop Zune application) would, if ranked by frequency, provide useful information to developers on where to focus their development efforts.""",0
+1824_12,"""This would create more opportunities for developers while also helping to provide customers with the apps they want.""",0
+1824_13,"""Needed to create pro level sequencers, synths and music creation related apps!""",0
+1824_14,"""If I want to update a Live Tile from my own App I can't draw it's background image on the phone, because if I store it to IsolatedStorage i'm not able to get an URI for it which I could provide the StandardTileData-Object with.""",0
+1824_15,"""If there were an ""Extras"" menu option in IE where 3rd party apps could be plugged in, it would be possible to pass perhaps the URL of the currently selected site onto apps that could add value - for instance, by giving the option to subscribe to an RSS or Atom feed where present.""",0
+1824_16,"""When developing with the phone connected via USB, having the screen lock itself is very annoying, and makes app deployment fail.""",0
+1824_17,"""Some WP7 phone (not the AT&T Samsung Focus) have a ""never"" screen timeout.""",0
+1824_18,"""However this is for battery and powered scenarios, and you don't want to be manually switching it back and forth all the time.""",0
+1824_19,"""Some of us are stuck with a phone that locks itself all the time.""",0
+1825_1,"""The screen lock also interrupts or prevents app deployment.""",0
+1826_1,"""This makes Visual Studio fail to start the debugging session.""",0
+1826_2,"""An app deployment should unlock the screen and reset the lock timer to zero.""",1
+1827_1,"""An app deployment should unlock the screen and reset the___ more""",0
+1827_2,"""We need a beta store for windows 10 apps for selected internal testers only.""",1
+1828_1,"""With the windows phone store it was possible to have a beta version of the app.With windows apps, it was not (and nobody ever got why!).""",0
+1828_2,"""Copy from Android and add beta and alpha store too!""",1
+1829_1,"""Do not complain if developers prefer other platforms: you don't make us life easy at all!!""",0
+1830_1,"""Currently you can assign to ApplicationBarIconButton an icon present on your project as 'content'.""",0
+1831_1,"""This basically means you have to determine your icons at design time.""",0
+1831_2,"""By providing the ability to assign an icon placed on the IsolatedStorage, the developer will be free to create button icons at runtime, dynamically download them from other places etc.""",0
+1831_3,"""There is no such option to delete the beta app from dashboard.""",0
+1832_1,"""Even there should be a option to delete the MPNS certificate .""",1
+1832_2,"""I don't believe that there is not ADO.NET!""",0
+1834_1,"""No SQL queries to run.""",0
+1835_1,"""Must redo all applications from Windows Mobile/MonoTouch/MonoDroid/WPF for WP7.""",0
+1835_2,"""I have the same core code running on the above platforms but to do it on WP7.1 I will have to rewrite!""",0
+1836_1,"""Unacceptable.""",0
+1837_1,"""After application migration to the new dashboard, use the original product ID to bind High German map failure""",0
+1838_1,"""Adding new test users without new submission.""",0
+1838_2,"""Posibility to add new test users in real-time mode.""",1
+1838_3,"""It will be more quickly and easier.""",0
+1839_1,"""Give ability to create games that have access for xbox live achievements.""",1
+1839_2,"""It doesn't have to be full access.""",0
+1840_1,"""Still only partners can have a ""Xbox live"" mark on their game icon, but having a one place for achievements, leader boards and friends would be great (WP7 Live?)""",0
+1840_2,"""Some people have had other developers submit apps to the marketplace on their behalf for many reason.""",0
+1841_1,"""They may have been in a country that is not supported for example.""",0
+1841_2,"""More then one developer may have worked on the app and are now splitting.""",0
+1841_3,"""Some people may sell their apps to others.""",0
+1841_4,"""In all these cases it breaks the update cycle for existing users because the new owner would have to create a new app instead of updating the existing one.""",0
+1841_5,"""When I create a paid app with a trial option, many users blow right by it because it doesn't show up in the ""free"" category even though a light version of the app is free (via the trial).""",0
+1841_6,"""Some people are resorting to the super-inefficient Apple app store method of releasing 2 versions of the app... one that shows up in the ""free"" category and another that runs as a paid app.""",0
+1841_7,"""The ""trial"" is a fantastic concept, but it is hobbled by this oversight""",0
+1841_8,"""Add ADO.NET to the Silverlight .Net framework so you can use DataSets when working with XML and Relational Data via C# in Windows Phone 7.""",1
+1841_9,"""Right now there is no way to sync anything but pictures generated on the phone to the user's PC.""",0
+1841_10,"""If I create a word processor style application or something of the sort, I have to start integrating with this service or that service on the ""cloud"" to get it off the user's device.""",0
+1841_11,"""Users are sensitive to data usage because it costs them money.""",0
+1841_12,"""None of my customers understand why they cant just connect the phone to thier PCs and the files are automatically sync'ed to a folder dedicated for this.""",0
+1841_13,"""It is especially wierd since they can sync pictures and music.""",0
+1841_14,"""It is especially wierd since they can sync pictures___ more""",0
+1841_15,"""I need to write to a bitmap which is very painful (imagine a vnc client for example) on windows phone right now, so please support the Copy- and WritePixels methods and some others.""",1
+1841_16,"""I would like to have one overview with all reviews for all apps.""",1
+1841_17,"""At the moment you have to open the reviews for every app, one at the time.""",0
+1841_18,"""If you have many apps like me (about 40) it takes a lot of time.""",0
+1841_19,"""Maybe you can add an 'All Apps' option to the 'Page filter' of the reviews.""",1
+1841_20,"""Dear Team Support, I was uploading games in windows phone store, but from last Friday there seems to be some kind of bug in your windows phone store.""",0
+1841_21,"""I have created one new app and reserved it's name on that called fightofthelenegs, but when I try to create app packages, it is not showing in the package list in visual studio!!""",0
+1842_1,"""I am unable to understand the reason!!""",0
+1842_2,"""Please do help me on this so that I can upload another new game in the store itself.""",0
+1842_3,"""I am using Visuall Studio 2013.""",0
+1843_2,"""Updating an app listing that supports multiple languages is one of the most painful experiences when developing for Windows.""",0
+1843_3,"""Why can we not just have a ""store manifest"" that includes all localized descriptions, screenshots, etc.""",1
+1843_4,"""which will be detected when we upload the app via the dashboard.""",0
+1843_5,"""It would allow us to skip all that crazy input in 32 different languages, just to (for example) swap out one screenshot.""",0
+1844_1,"""Alternatively: provide an API for the submission process so we can at least somewhat alleviate the pain ourselves.""",1
+1844_2,"""It would be a great way to better integrate applications if there was a sports & news hub.""",0
+1845_1,"""I imagine the default setup could simply default to news and sports from MSN (or one of MS' other affiliates) then allow RSS feeds to be added.""",1
+1845_2,"""Enhance that further by allowing 3rd party application tie-ins, like ESPN's app or news from a BBC or CNN application.""",1
+1846_1,"""MS' could even add features like they have in Media Center for Sports such as a ticker feed and Fantasy player tracking.""",1
+1846_2,"""Support Windows Server 2008 R2""",0
+1847_1,"""Controls displaying the SIP when focused should provide a method to close the SIP to ensure data binding is applied.""",1
+1847_2,"""Currently if the user clicks the ""save"" button right after using the SIP, the data entered is not persisted to the object bound to the control.""",0
+1848_1,"""Is it possible to put something like Microsoft.WindowsMobile.status on the development of your Windows phone 7.1?""",0
+1849_1,"""Purpose: Events related to: When one phone call starts and ends.""",0
+1849_2,"""also something for SMS.""",0
+1849_3,"""This is for perform any action on background!""",0
+1849_4,"""Allow developers to use an in-built API to compress videos captured from the camera, using either H264, or MPEG-4.""",1
+1849_5,"""Sometimes it's usefull to explore and tranfer back files generated in app that's running on phone/emulator back to the developer PC, without additional coding.""",0
+1849_6,"""Remove the 10 recipient cap on App generated SMS messages.""",1
+1849_7,"""Obviously this is in place to ensure people do not spend lots of money if they don't have unlimited bundles.""",0
+1849_8,"""However a simple message box saying ""This message is going to be sent to 36 people, are you sure you want to send"" would be sufficient.""",0
+1849_9,"""This System for featuresuggestion is good, but I miss the feedback to the feedback.""",0
+1849_10,"""At the moment only one idea is marked as planed.""",0
+1849_11,"""Even some of the ideas will ship in the next Update they haven't marked as planed or startet.""",0
+1849_12,"""Which would give the people that use this Platform give a positive feedback and get there Votes back without manualy search for votes they no longer need because it will be provided in the next Update""",0
+1850_1,"""The company for I works loose a project because one of the client's requirements is change the Windows Wallpaper, ringtones and other features that are no disponible in Windows Phone 7.""",0
+1850_2,"""The project will be developed in Andriod.""",0
+1850_3,"""Please allow us to maintain all app packages, store assets, descriptions, screenshots, and metadata in a Git repository and simply push to a Git remote to upload.""",1
+1850_4,"""Currently it is VERY TEDIOUS and takes HOURS to submit an app update, especially when you have multiple app packages, and lots of languages.""",0
+1850_5,"""You have to manually use the website to change descriptions, switch languages, lots of copy and paste, remove each screenshot, put a new screenshot.""",0
+1850_6,"""It literally takes hours, and it drives you crazy.""",0
+1850_7,"""Instead we could get everything ready locally and do a push and upload it all quickly.""",0
+1851_1,"""Currently apps are executed in sandboxes and there's no way to apps can work together.""",0
+1852_1,"""one app to look up information in the internet opens up another app that can scan barcodes..""",0
+1852_2,"""The same is true for applications and the OS itself.""",0
+1853_1,"""Some kind of handlers on context menus of certain objects would be great.""",1
+1853_2,"""the context menu of images could list tasks provided by apps dealing with images.""",0
+1853_3,"""In more detailed/extremely simplified: What about having an app that rotates an image, an app that uploads images into the web and an app that is capable to send an image to the nearest printer.""",0
+1854_1,"""In more detailed/extremely simplified: What about having an app that rotates an image, an app that uploads images into the web and an app that is capable to send___ more""",0
+1854_2,"""i dont want use UAC, is a security risk.""",0
+1854_3,"""but i want have metro apps""",0
+1854_4,"""Application developers currently (pre-Mango) have no facilities to access the c contents of an incoming SMS message.""",0
+1855_1,"""It would be great if applications could register for such a capability thus enabling scenarios such as SMS challenge authentication.""",1
+1856_1,"""Add Ability to set referrer and other custom headers when using HttpWebRequest""",1
+1856_2,"""My company likes WP7, but the nonexistence of visual voice-mail is stopping a switch from the iPhone.""",0
+1856_3,"""Is there a way to access voice-mail metadata?""",0
+1856_4,"""Distribute more application bar icons in SDK (at least each one used by built-in applications); provide forum/marketplace for other artwork, including control templates & styles.""",1
+1856_5,"""Increase webbrowser control function""",1
+1856_6,"""Google has playbooks and apple has ibooks for better reading of eBooks and there are many third party applications which make easy reading of ebooks but none of theme have inbuilt dictionary and they lack in many features in terms of user experience.""",0
+1857_1,"""It will be nice if window phone or all Microsoft devices have onebooks application for reading eBooks and magazines etc..""",1
+1857_2,"""I understand the max size limitation to control.""",0
+1858_1,"""And there are some approach to work around on most of the controls.""",0
+1858_2,"""However, for some control, e.g.""",0
+1858_3,"""TextBox, it's a big problem.""",0
+1858_4,"""Socket APIs and duplex WCF communication""",0
+1858_5,"""Currently it's not possoble to make connections behind proxy servers that require authentication.""",0
+1859_1,"""This very much limits business type apps that can use resources or run apps while connected to a work network.""",0
+1859_2,"""It's only currently possible via the web browser.""",0
+1859_3,"""support chinese""",1
+1860_1,"""Allow developers to alter/edit an applications metadata, including description, images/graphics, pricing and keywords etc... once the app is published without resubmitting.""",1
+1861_1,"""This would make bug fixes to spelling and screeshots simple & would save Microsoft from having to test submissions for Metadata only.""",0
+1861_2,"""Maybe sending a zip.""",0
+1861_3,"""System supported application error reporting service, that would report back to developers application crashes and details.""",0
+1861_4,"""I wish I could simulate multitouch on the emulator (ie: Pinch and zoom) with 2 mice.""",1
+1861_5,"""Just like the picture extras ... it'd be great if apps like twitter and facebook could register to be on the list of applications that a user can ""share"" a piece of text with in addition to email and sms.""",1
+1861_6,"""This enables a number of cross app communication scenarios and lets the user choose how he wants to share that info""",0
+1861_7,"""This enables caching of and usage of offline maps""",0
+1861_8,"""Until Windows [Phone] 8.1 this part was too painful and took a lot of time and work.""",0
+1864_1,"""Hope there are some automated tool for taking localised screenshots.""",0
+1864_2,"""Then, I navigate to another page, press the button and it take N screenshots again, one for each language.""",0
+1864_3,"""In the upload website, a way to remove all screenshots and a way to upload all assets for all languages at once.""",0
+1864_4,"""Provide a pre-certification tool that runs all the tests the Marketplace certification tool runs.""",1
+1864_5,"""So developpers can have more confidence it will pass the tests and fix the issues before submitting to the marketplace.""",0
+1864_6,"""Time saver for Developers and Microsoft.""",0
+1864_7,"""The phone currently plays a large selection of media formats (MP4, M4V, 3GP etc) that aren't supported in the emulator.""",0
+1864_8,"""This makes apps that use these formats extremely hard to debug.""",0
+1864_9,"""Would be awesome if you could fix this :)""",0
+1864_10,"""Just like the picture/music extras to be able to integrate in a persons/phone numbers(unkown caller)) So to add phone services to easy search for numbers or To be able to start a ""contact/message"" app from the contact card.""",0
+1864_11,"""Allow applications to register messaging endpoints on device [e.g.""",1
+1864_12,"""register as a launcher/chooser] to ease on-device inter-application communication""",0
+1864_13,"""When I see the Palm pre's multitask switch, I know there is something MS can do better.""",0
+1864_14,"""Hopefully with fluently switch and creative gesture and UI.""",0
+1864_15,"""Now we can just use pivot and panorama,but we can not handle their sensitive degree,sometimes I feel it's so high,and I want to edit it but no way to do this.""",0
+1864_16,"""Currently only Store apps can be submitted to the Store.""",0
+1864_17,"""Please allow me to submit existing Windows Desktop software to the Store.""",1
+1866_1,"""With all the new screen sizes and resolutions, testing in the emulator is certainly one way to try them out, but it'd aid in even more rapid development to be able to see them on the design surface like we already have for WVGA, WXGA, and 720p sizes.""",0
+1867_1,"""We're still missing the 1080p and 6"" sizes""",0
+1868_1,"""Currently if we logged in twitter/fb or any other social networking sites throug their APIs, we cant logout.""",0
+1868_2,"""It is because the web browser keeps the cookies.""",0
+1868_3,"""So he cant login into his another account.""",0
+1868_4,"""Currently (Windows Phone 8.1) if you store your credentials in the PasswordVault, they aren't deleted on app uninstall, so if you install the app again the last stored credentials are available.""",0
+1869_1,"""I think the credentials needs to be deleted with the app uninstall.""",0
+1870_1,"""Creating a Modern Windows app can require creating a lot of project files, one one per platform type (Windows Phone 8.0, Windows Phone 8.1, Windows 8.0, and Windows 8.1), with each project generating its own, unique output.""",0
+1870_2,"""Even Universal App projects create multiple projects, one for Windows 8.1, another for Windows Phone 8.1 (neither of which support the previous, 8.0 versions of Windows, to note!)""",0
+1870_3,"""On iOS, it's possible to target many versions of the OS (6.0, 6.1, 7.0, 7.1, 8.0, etc.)""",0
+1870_4,"""with a single project file.""",0
+1871_1,"""When the app gets built, it generates a single package that can be distributed to any version of the OS (within developer-set version limitations).""",0
+1871_2,"""When a new version of the OS comes out, it's possible to upgrade the app's project, and still have it's output support older versions of the OS.""",0
+1872_1,"""(Windows 8.0 projects, when updated to Windows 8.1 projects, lose their ability to support Windows 8.0!)""",0
+1872_2,"""Being able to target multiple versions of Windows with a single project, one that, preferably, built a single app package, would be useful.""",0
+1872_3,"""Furthermore, upgrading that project to target the latest version of Windows, shouldn't cause support for the previous version (of the OS) to be lost!""",0
+1873_1,"""iOS developers get this feature, so should Windows developers.""",0
+1874_1,"""When the app gets built, it generates a single package that can be___ more""",0
+0_0,"""There has been some discussion on the blog post http://blogs.msdn.com/b/dotnet/archive/2015/07/30/universal-windows-apps-in-net.aspx?PageIndex=2#comments for supporting F# in the .""",0
+0_1,"""Net native toolchain for UWP.""",0
+0_2,"""I had posted this on the VS uservoice site https://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/7542181-add-f-support-for-net-native but it looks like that was the wrong place to do that.""",0
+0_3,"""I hope the votes that request got will be considered for this.""",0
+0_4,"""A lot of people are moving to F# PCLs for library code and to be able to use those PCLs in the UWP and get native compilation via .""",0
+0_5,"""Net native tools would be great.""",1
+0_6,"""There is a very annoying bug in the Windows 10 Store that hides apps form listing.
+
+
+
+
+
+""",0
+0_7,"""Please vote so that this issue get addressed.""",0
+0_8,"""The Problem: The apps are accessible with the Store link: e.g. https://www.microsoft.com/store/apps/9WZDNCRFJ323""",0
+0_9,""" But if you try to search for it, e.g. Announcements for Windows, the app is not listed.""""",0
+0_10,"""The same applies when you list all apps from the publisher/developer.""",0
+0_11,"""In the Dashboard, the submission is configured like this: Distribution = Your app can be found by customers browsing or searching the Store.""",0
+0_12,"""Microsoft Support just answer this: I reviewed your account and show that the app is published correctly.""",0
+0_13,"""I see that your apps can still be accessed through deep link and current users of the app will still be able to receive updates.""",0
+0_14,"""We understand your concerns about your app experience with the search results.""",0
+0_15,"""Your app is published and can be found here: https://www.microsoft.com/en-us/store/apps/announcements-for-windows/9wzdncrfj323.""",0
+0_16,"""We recommend that you share this deeplink via social media or your website for promoting your app to the public.""",1
+0_17,"""There is a very annoying bug in the Windows 10 Store that hides apps form listing.""",0
+0_18,"""Microsoft is not solving this issue.""",0
+0_20,"""The Problem: The apps are accessible with the Store link: e.g. https://www.microsoft.com/store/apps/9WZDNCRFJ323 But if you try to search for it, e.g. Announcements for Windows, the app is not listed.""",0
+0_23,"""Microsoft Support just answer this: I reviewed_____ more""""",0
+0_24,"""I've encountered an issue in Background Audio behavior dependent on app's name.
+""",0
+0_25,"""Once it happens in normal usage, you won't be able to reinitialize the player at all without restarting the phone.""",0
+0_26,"""Once we change the name, then everything works all right.""",1
+0_27,"""The problem is probably when the app tryies to access BackgroundMediaPlayer.Current in IBackgrounTask.Run method - it fires the background task once again, what shouldn't happen.""",0
+0_28,"""I've tested this on newest W10 build, both on emulator and device.""",0
+0_29,"""I've encountered an issue in Background Audio behavior dependent on app's name.""",0
+0_30,"""I've managed to reproduce it using the official MSDN sample and as it's hard to test/debug, I've published a video with the problem: https://youtu.be/_W9S7g-JCQQ If the name of the app is little longer and/or with space inside, then after the OS cancels the background player (not used for some time), it's not possible to reinitialize it by pressing UVC button - the IBacgroundTask.Run method is called twice and without UVC button pressed event.""",0
+0_31,"""Once it happens in normal usage, you won't be able to reinitialize the player at_____ more""""",0
+0_32,"""Some apps can work intensively in background, for example it maybe video converting, online financial data processing and more.
+
+""",0
+0_33,"""Wrong text display when write an English(LTR) word inside an Persian(Farsi) or Arabic(RTL) text(See Picture) when APP language et to English( """,0
+0_34,"""Windows phone store should show total number of app downloads (All Markets) as well as ratings and reviews of All Markets instead of showing rates.
+
+So, Please make store on phone show total app downloads all over the world as well as total rating and reviews of all regions.""""",1
+0_35,"""Windows phone store should show total number of app downloads (All Markets) as well as ratings and reviews of All Markets instead of showing rates and reviews based on region because it doesn't give a broad view and if by chance in any country there are no reviews on your app and someone want to download your app he might not just because he can't find it first of all (Cuz no rating) second he/she will think app doesn't have any reviews so it is not so good.""",1
+0_36,"""It might happen that app can have so many reviews on other_____ more""""",0
+0_37,"""It's great that the Dev Center now allows multiple users to access the same account, and I can submit app packages as a user with the developer role: https://msdn.microsoft.com/library/windows/apps/mt489008.aspx.
+
+However, it would be even better if it allowed users with the developer role to create app packages in Visual Studio.""""",0
+0_38,"""At the moment, it is impractical for me as a developer to keep asking my boss for his Microsoft account just to create app packages.""""",0
+0_39,"""If I search something the first app in the list should be the one with the best user rating and most frequent updates, even if the app is not the official one.
+""",1
+0_40,"""The main problem is that the new users don't know about third party clients/apps so, in my opinion, this could improve a lot the user experience, especially for the new users.""",1
+0_41,"""http://s4.postimg.org/x5iou28u5/store.png If I search something the first app in the list should be the one with the best user rating and most frequent updates, even if the app is not the official one.""",1
+0_42,"""For example If I search Instagram the result should be: User's favourite app/Recomended app): 6tag Official app: Instragram BETA and then al the others.""",1
+0_43,"""A lot of official apps are almost completely abandoned (like Istragram Beta), but some unofficial clients are really amazing.""",0
+0_44,"""The main problem is that the new users don't know about third party clients/apps so, in my opinion, this could improve a lot the user_____ more""""",0
+0_45,"""XmlnsDefinitionAttribute is an absolutely great attribute for Control Library developers.
+""",0
+0_46,"""If you use a 3rd party control library or you're a control library vendor, you should vote for this.""",1
+0_47,"""It'll save you a lot of typing, looking for controls and types etc.""",0
