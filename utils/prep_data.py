@@ -6,14 +6,20 @@ import numpy as np
 import csv
 from csv import reader
 from stanfordcorenlp import StanfordCoreNLP
+from transformers import AutoTokenizer
 # from aion.embeddings.cove import CoVeEmbeddings
 # from aion.embeddings.glove import GloVeEmbeddings
 # from pytorch_pretrained_bert.tokenization import BertTokenizer
 
 # Ref : https://github.com/Lynten/stanford-corenlp
-# prefix = str(pathlib.Path(__file__).parent.parent)
-# path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
-# nlp = StanfordCoreNLP(path)
+prefix = str(pathlib.Path(__file__).parent.parent)
+path  = os.path.join(prefix, "pkgs", "stanford-corenlp-full-2016-10-31")
+nlp = StanfordCoreNLP(path)
+
+# Bert TOkenizer
+tokenizer = AutoTokenizer.from_pretrained('bert-large-uncased', do_lower_case=True)
+def tokenizerfnc(str):
+    return tokenizer.encode(str)
 
 # Ref : 
 # Bert Embedding
@@ -58,8 +64,8 @@ def pre_process_text(text):
     Lowercase, TOkenize (Stanford CoreNLP)
     '''
     text = text.lower()
-    # result = nlp.word_tokenize(text)
-    result = text.split(' ')
+    result = nlp.word_tokenize(text)
+    # result = text.split(' ')
     return result
 
 
@@ -95,6 +101,12 @@ def load_data(folder= "Subtask-A", filename="SubtaskA_EvaluationData_labeled.csv
     data = [row for row in data_reader]
     if header:
         data = data[1:]
+    #tokenizerfnc
+    # lens = [len(pre_process_text(datum[1])) for datum in data]
+    lens = [len(tokenizerfnc(datum[1])) for datum in data]
+    lens.sort()
+    print(lens)
+    #print("Max Length", max_len, data[max_len_idx][1])
     f.close()
     return data
 
@@ -154,29 +166,29 @@ def create_cross_val_train_test(data_batches, id, folds=10):
 
 #testing
 data = load_data(filename='V1.4_Training.csv')
-#print(len(data))
-data_folds = create_folds(data)
-#for datum in data_folds:
-    #print(len(datum))
-#print(data_folds[0][0])
-for i in range(10):
-    train, test = create_cross_val_train_test(data_folds,i)
+# #print(len(data))
+# data_folds = create_folds(data)
+# #for datum in data_folds:
+#     #print(len(datum))
+# #print(data_folds[0][0])
+# for i in range(10):
+#     train, test = create_cross_val_train_test(data_folds,i)
 
-    f = open("train_"+str(i)+".csv", "w", encoding='utf-8', newline="")
-    writer = csv.writer(f)
-    writer.writerows([['id','sentence','label']])
-    writer.writerows(train)
-    print(len(train))
-    f.close()
-    print("Done")
+#     f = open("train_"+str(i)+".csv", "w", encoding='utf-8', newline="")
+#     writer = csv.writer(f)
+#     writer.writerows([['id','sentence','label']])
+#     writer.writerows(train)
+#     print(len(train))
+#     f.close()
+#     print("Done")
 
-    f = open("test_"+str(i)+".csv", "w", encoding='utf-8', newline="")
-    writer = csv.writer(f)
-    writer.writerows([['id','sentence','label']])
-    writer.writerows(test)
-    print(len(test))
-    f.close()
-    print("Done")
+#     f = open("test_"+str(i)+".csv", "w", encoding='utf-8', newline="")
+#     writer = csv.writer(f)
+#     writer.writerows([['id','sentence','label']])
+#     writer.writerows(test)
+#     print(len(test))
+#     f.close()
+#     print("Done")
 
 # data = load_data(filename="train_1.csv")
 # print(len(data))
