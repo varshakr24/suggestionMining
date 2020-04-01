@@ -1,0 +1,1317 @@
+id,sentence,label
+1528,I can't register dev account because of living in Republic of Moldova.,0
+7,"""When adding a StatusFilter for Available Xbox is never shown.""",0
+808,I am attempting to use lsof to find an open port for an application but rather it returns sock: can't identify protocol.,0
+0_1929,"""However, if in article/title view, allow long press to bring up a menu.""",1
+1018,"""I'd like students to be able to install Scratch and Sketchup for example.""",1
+2355,"""You should trust the application to let it manage the correct state changes on its own without introducing artificial limitations and sacrificing performance.""",1
+0_80,"""We also have no entries listed for Windows 10 emulators (running or not) in the 'devices' output.""",0
+0_1921,"""Reset the RSS subscribe function after someone uninstalls your extension.""",1
+1520,"""I've tried forcing the control (in this case a TextBox) to lose focus programmatically in the Primary buttonevent handler but this does not help.""",0
+8490,Allow XAML winRT apps to change the lock screen background.,1
+731_6,"""I think this is a bug, because I think if the WriteableBitmap decides to update the PixelWidth and PixelHeight property, it should also update the PixelBuffer, or the data is inconsistent.""",1
+3303,"""In Windows 10 (Messages for example) there is a very nice control for entering/selecting contacts to send an email or text message etc to.""",0
+8909,Above could save hours spent on reading wrong answers,0
+1678_1,"""A development mode with access granted to all API is focused for Business APPs.""",0
+791_1,"""Change the Cellular+sim back to auto switch to wifi as preferred network the new manual data connection management is very annoying and result in hi data usage on the cellular network.""",1
+896_6,"""Unfortunately this is only a very small part of the NFC capabilities.""",0
+6881,Allow users of paint to select parts of images on an image they're drawing or editing diagonally other than only horizontally/vertically.,1
+948_1,"""Some of my users will still receive the old version of my app (after weeks).""",0
+1032_13,"""This is very problematic since if you need to do any heavy image processing you're slowing the UI and negatively affecting the user experience.""",0
+1027_1,"""Please allow to change country !""",1
+424,I reproduced this on Mobile Emulator 10.0.14393.0 WXGA 4.5 inch 1GB and on a Lumia 640 running 10.0.15063.1088.,0
+707_1,"""Some times its hard to navigate few times to same location.""",0
+98,"""Allow license assignment for an application to be tied to Azure AD group similar to how licenses in Office 365 can be managed.""",1
+1483_2,"""Pls fix it ASAP!""",1
+632,"""the problem exists but a bit another kind of.""",0
+913_1,"""Why Microsoft doesn't close this vacuum spaces, this things it really needs.""",1
+1689_11,"""It would be nice if we had finer access so we could specifically get, say, the postcode.""",1
+0_1638,"""for example if you want to have a feed with a particular tracked tag from tumblr, Feedly could create a feed.	""",0
+978_12,"""Please, to have competitive advantage, i would like you to provide an expedite package for app certification for developers who wants their apps to be published fast.""",1
+4143,"""We are working on the Converted version of the app to enable such capabilities and to distribute our desktop app via the Windows Store but we have to distribute it for previous versions of Windows as well and so we can't afford having two completely different versions of the product for the time being.""",0
+2659,"""Currently I developinng an application based on Xamarin.Forms and it is not possible on UWP to access files in the local folder.""",0
+0_1642,"""When you click the icon of a Chrome web app this should bring an existing, open window or tab to the front or in case of a window minimize it into the Chrome Launcher or maximize it from there.""",0
+877,"""I want the screen setting to be an option where I can set my preferance as a default.""",1
+0_1308,"""I can import this feed in Wordpress or Joomla so when I find an interesting article in Google Reader, I simply """"star"""" it with automatic pubblication in my blog.""",0
+1690_7,"""IMDb should open to the ""Star Wars"" page directly from bing's search results.""",1
+0_1313,"""want to still be able to subscribe to Twitter feeds without having to create Twitter account""",1
+0_1321,"""Would be so much nicer if I just clicked the Instapaper button in feedly and that was that.""""",1
+0_824,"""MediaElement should properly work with 5.1 audio tracks.""",1
+0_567,"""Please make windows 10 mobile in later builds more responsive just like 8.1.
+
+On devices such as the Microsoft Lumia 640 the multi tasking bit, where you try to close the tab its not as smooth, its a bit laggy.""""",1
+2436,Whenever i drag control from one treeview to another treeview it throws exception.,0
+1663_2,"""Please release ShellTile.TileData() function in next build.""",1
+3263,"""This led to a runtime crash that took a long time to figure out.""",0
+560,WinRT is littered with Async getters that greatly impede porting code and add unnecessary complexity for many cases.,0
+896_11,"""The app store currently only shows consumers app ratings and reviews in the country that you live in.""",0
+0_1378,"""Like, your Facebook News Feed could be a feed on Feedly.""",0
+9159,Let me be able to see the reviews that are added or app crashes so that my attention towards them grows infinitely large.,1
+905_1,"""The software should allow JavaScript to be used through internet explorer.""",1
+3010,"""Create a control for Continue in different device Like Continue Reading etc.""",1
+0_590,"""Please put this project on high priority so that classic apps can get on to the store.""",1
+7173,The dev team should be able to access info through the dashboard.,1
+8074,Please implement the HttpListener class so that we can run REST based controls (similar to Xbox Smartglass) for our own apps?,1
+777,"""It's happening on multiple different virtualizers (Parallels VirtualBox ...).""",0
+0_641,"""After 20+ yrs with Microsoft we developers continue to get screwed.
+
+First, OneDrive reduction for your office 365 subscribers, now you don't support mock frameworks ... really ??""""",0
+3196,"""Provide semantic animations like fadeIn fadeout Crossfade etc.""",1
+0_154,"""So I think you should_____ more""""",0
+0_1600,"""There are my tags I use daily.""",0
+7987,I think that having and IAP price point of $0.49 could be wildly attractive to end users and get more purchases for developers.,1
+1841_21,"""I have created one new app and reserved it's name on that called fightofthelenegs, but when I try to create app packages, it is not showing in the package list in visual studio!!""",0
+942_1,"""Just add a small text blurb like ""If you are experiencing problems with this application, please consider sending feedback instead"" along with a link to launch an email to the support email address.""",1
+3432,"""There is no problem when accessing by computer name.""",0
+3789,"""If would like to offer some guides to the user in our own application it could be interesting to have some interesting to be able to show a Popup that give user some indication in the app in a precise scenario (like when discovering a page the first time or when a new feature has been delivered).""",1
+988_4,"""Add Twitter datasource, then add user names to feed it through.""",1
+1741_12,"""Xbox360_________________________________________________________________________________________________________WindowsPhone7__________________________________________________________________ ______________________________________________________________________________________________________________________________________ __________________________________________________________________________________________________________æ ______________________________________________________________________________________________________""",0
+837,I just figured out what was the problem and I can work with it without any problem but I want to post it to see if it can be fixed for another user.,0
+946_7,"""The CSS selector "">"" is ignored in the WebBrowser component of WindowsPhone 8.""",0
+0_553,"""Could you put in an update to reduce boot time by 2 seconds.
+
+And make the start screen interactions smoother?
+
+Such as swiping from start, to the list of all apps And could you reduce the time it takes for a windows app to open by 1 second e.g messaging, phone etc.""""",1
+847_8,"""Please provide a PhotoCropTask that takes an Image(Byte[]) and provides the same crop tool.""",1
+9320,If we use diferent datatemplates why not make every panel virtualizable?,1
+1022,"""But it would be good for MS to approach in reverse based on school feedback""",1
+2462,"""Can we please improve the situation by adding missing API""",1
+1265_3,"""It's especially frustrating while developing native html based apps.""",0
+898_5,"""Update the WPDEV feedback app.""",1
+791_8,"""The file is not removed from storage.""",0
+3277,"""When notifications are removed from one device they should be removed from all devices by default.""",1
+853_2,"""So it could stick with the same 4 row limit but could allow for wrapping so if there were 7 items, the applicationbar would expand to allow for the 2nd row of icons.""",0
+790_4,"""Support the Windows.Media.Editing API on Windows 8.""",1
+0_745,"""Creates possibilities to create new types of apps.""",0
+3633,"""It makes especially sense when you release a control for hierarchical data like the TreeView.""",0
+1889,"""When I make store listings for several languages I would like to be able to just right click on a listing then copy it and edit not .be troubled with details on .cvs and excell.""",1
+2641,"""Functionality similar to people app.""",0
+160,"""I hope that Microsoft pay attention to this and do something because I would like to see them making its way in the mobile department.""",1
+9233,I would also be nice to be able to retain some kind of unique key the app could store or some other way the app can have a way to query 'to-do' items that the app created.,1
+1265_1,"""Is there any way to select (a) location source(s) to use, like on other platforms?""",0
+927_3,"""I want to have access to all single bytes within picture, so I can do with those bytes whatever I want.""",1
+2262,"""And virtualization could be optimized as well by using container cache per group.""",1
+1038,"""Include gestures that could allow users minimize apps for example with three fingers.""",1
+1685_1,"""THX.""",0
+961,In order to download the Windows Driver Kit I must first install Visual Studio 2017.,0
+0_792,"""Tab version have a small number of users, I need to upload new universal package to the phone version app.""",0
+0_1651,"""Please allow some way for RSS services to get access to that data, especially since Feedly is so big.""",1
+3562,"""Current steps are outlined here:""",0
+0_717,"""As a developer we should be able to create subusers who has no access to sales data, kind of release manager role we can assign to them.
+
+Currently there is no such provision and all of employees who are coding and publishing apps, easily know the revenue earned.""""",1
+2107,I've looked into using a SoftwareBitmapSource instead but this is a lot slower and uses more memory and I'm not 100% sure whether its Dispose method works (doesn't affect memory shown in VS debugger but did seem to have an effect when testing using a mobile emulator).,0
+2519,2. you select a new item in the listView,0
+0_64,"""Problem is there____s no way to easily manipulate this within a XAML app - I would hope that an SVG-renderer element would use similar hardware acceleration that the HTML5 renderers use - I would not expect to use javascript/css classes to manipulate SVG from a XAML app but bonus points if XAML styles could be plugged in - Manual conversion to XAML is an extra step in the workflow and leads to duplication of assets.""",1
+954_4,"""So please provide this extra info in the Contact data returned with a search.""",1
+0_1790,"""I love Feedly, it's a really well-programmed app.""",0
+766_2,"""I would like to have one to be able to do HQ software rendering using Direct2D.""",1
+972_6,"""Provide an option to keep a ""Keep-alive"" connection in background so that we can create IM""",1
+1019_3,"""Mobile banking app for SunTrust bank.""",0
+0_1727,"""Feedly could re-invent the way we consume articles in the same way how Amazons Kindle Unlimited did with the book market.""",1
+3619,"""* allow for no wrapping""",0
+928_2,"""This is also a capability that other mobile platforms have, and I think it is___ more""",0
+978_1,"""Not all developers care about all emulator images that are displayed in the VS list.""",0
+995_15,"""Include support for pen input like on the surface pro and surface pro 2 for both WP8 and RT""",1
+1371,"""When I run this I expect to get no suggestions in the software keyboard when writing anything in the text box.""",0
+2483,BUG: Setting PreferredLaunchWindowingMode before PreferredLaunchViewSize is set results in undefined behavior,0
+5701,"""It might make sense to have another method alongside RequestVerificationAsync that allows consent verification via PIN or password but there needs to be a way to request biometric-only consent verification.""",1
+714_1,"""Adding the following four lines to a report, that probably has been sent out thousands of times, would have saved myself more than an hour of searching for an efficient solution and reading: ---------------------- This might help with Dark/Light theme problems: - - (Visibility)Application.Current.Resources[""PhoneDarkThemeVisibility""]; or similar - (Brush)Application.Current.Resources[""PhoneBackgroundBrush""]; ---------------------- and maybe additional links to documentation It would be much less frustrating for Windows/Windows Phone developers to have hints sent with the certification failed reports, which make it easier to tackle obvious issues that arise because of the restrictions of Windows/ Windows Phone.""",0
+1457,"""This limitation is a contribution to a diminished user experience (and developer experience) when compared to these other platforms.""",0
+3870,"""(I already have a database file encrypted by SQL Cipher and I just have to read the records)""",0
+1850_5,"""You have to manually use the website to change descriptions, switch languages, lots of copy and paste, remove each screenshot, put a new screenshot.""",0
+867,"""How about an option to automatically delete the automatic checkpoint when the machine starts?""",1
+3,"""Please support multi-segment path for this method or at least return a message giving more details.""",1
+963,"""That just turns my memory leak issue into a hard-drive bloat issue.""",0
+1712,"""Here is the full error record:""",0
+747_1,"""is installed successfully.""",0
+1865,"""New control to add multiples tags with close button and auto suggestion functionality.""",1
+1016,"""There doesnt seem to be any website for this.""",0
+1692_4,"""Let us open up the phone application (here the the user can see callhistory++).""",1
+2877,"""trigger animation based on scroll position or percentage while we scroll/pan in UWP (C#) like many web ui component as superscrollrama.js""",1
+6934,Please document how transitions work and expose the necessary API for us to create our own drop in replacements for the limited set of transitions supplied by the existing APIs.,1
+4141,"""from an accessory device (like a smartwatch) possible.""",0
+1794_1,"""Multiline text input in the current version of the platform is usable if you can work out how (or be told how) to do it, however it's not very intuitive and I'm concerned for apps that have this as a substantial feature the experience for consumers is not what it could be.""",0
+2652,"""Download.GetPercentage to get the download compleated percentage so that it can be used for creating ProgessBar""",1
+0_1505,"""I keep reading that feedly has tumblr integration, but can't find it anywhere.""",0
+8612,To set a difference a swipe to the right should launch 'settings' menu as a swipe to the left launches the 'apps list'.,1
+573,"""No sample code yet available in SDK.""",0
+3349,"""Please add the ability to access the rendering pipeline to the MapControl class.""",1
+6750,And it's good if it will be work on Windows 7 too.,1
+0_2073,"""Same as an integration for linkedin.""",0
+1769_7,"""Make a new setting that allows users to optin to this functionality.""",1
+792_2,"""Hey, Please Please make the classes in above framework like SongCollection, Playlists etc immutable and unabstract.""",1
+753_1,"""Lockscreen: -Should be able to chose a tiny black outline around lettering so you can see what's written properly when you have a Clear/White lock screen.""",1
+3827,"""Even more since this operation results in tiles flickering (because of redraw) I have to use 3 tile sources switching between them.""",0
+0_630,"""1""",0
+687_15,"""Also the scroll viewer should have options to disable overscrolling effect.""",0
+1809_12,"""And finally memory is very cheap.""",0
+835_11,"""If the phone is stolen, and it is password locked, it's still possible to take photos (if enabled).""",0
+0_1637,"""My feature request is rather straightforward, add a similar shortcut for Save to Pocket.""",1
+0_740,"""Pros of 3d graphics support: 1.""",0
+694_2,"""Please remove the cert process for these and allow them to be added *instantly*""",1
+1575,"""That's why I'm suggesting a specialized textbox for numbers.""",1
+1319_16,"""So when i click the search button i open the internet explorer.""",0
+3147,"""This is really a must for apps that target businesses or wish/must to support older devices that will not get the latest versions.""",0
+1977,The above is made a lot worse on computers where indexing file content is disabled (right click on the drive in Explorer select properties and see check box at the bottom) which used to be recommended for SSD drives.,0
+0_2119,"""Yes, your are right, too similar to """"Her"""", the movie.""",0
+1815_10,"""Do you agree that it is time to have it now?""",0
+680_4,"""It would be great if you would add a RemoteId to the calendars.""",1
+3340,"""Thanks for fixing an issue.""",0
+0_1610,"""Since the attribute isn't changed in Reader, I concluded that the problem is with Feedly, not the RSS feed itself.""""",0
+1624,"""At least receiving ScriptNotify events should be possible on http and without adding ApplicationContentUriRules in Manifest so that we could atleast have a way to do it on our own.""",1
+0_723,"""Suggestion: Introduce a system with """"trusted"""" developers who can release apps as quick and easy as it is now.""",1
+6383,"""Seeing as SplitView is a control used to divide content between and pane and content area it would make sense for SplitView to allow a PanePlacement.Top and PanePlacement.Bottom in addition to its current Left and Right parameters.""",1
+3959,"""The look and content of the items should of course be customizable.""",1
+1459_5,"""Using the Google app, I find some nearby, but I guess the Google app doesn't have my exact location.""",0
+0_1860,"""Bit.ly's bookmark function, combined with it's URL shortener and usage information would be really useful when sharing from feedly!""""",1
+1749_14,"""It would be great to provide a new launcher/task which uses this new existing funtionality to get a string from an image.""",1
+0_1706,"""My favorite web page which id http://lodz.naszemiasto.pl/rss/artykuly/1.xml is not acceptable by your app.""",0
+1203,"""At the very least publishing on Xbox should be an opt in function when publishing - not an opt out one.""",1
+359,"""Getting version and changelog info in Microsoft Store on WIndows 10 is way to hard.""",0
+1285_2,"""Allow close the task on long press right Button in Phone.""",0
+1548,"""In MediaComposition add transitions between two clips on timeline e.g.""",1
+9440, - You can publish an update with the removed ru language but this update will not fully replace the old version and you will in truble.,0
+4780,"""We'd be much happier if we could just avoid defining these macros entirely to avoid any possible issues.""",1
+746_2,"""I would like Microsoft to open up this framework to all developers.""",1
+763_4,"""Add xap support for some apps like explorer and opera""",1
+2740,"""A better option would be to add a new ROLE option for the accounts to indicate which accounts can raise support issues.""",1
+0_1907,"""Keep the awesome work up guys!""",0
+0_1961,"""Web sites like Tweetdeck, Pandora, Facebook, Bing, etc. all include this functionality.""",0
+1446,"""But unfortunately it is not possible to create a MediaStreamSample from D3D Surface.""",0
+1769_5,"""Would like to make a dialer application that would call through a list of numbers through the web, notate what happened on the call (keyboard or buttons) then automatically launch next call.""",0
+0_990,"""The benefit of this idea would be that I often find that having opened an application, I would like to have it easily available to use again.""",0
+6920,The Emulator should support SensorSDK,1
+1860_1,"""Allow developers to alter/edit an applications metadata, including description, images/graphics, pricing and keywords etc... once the app is published without resubmitting.""",1
+0_1722,"""feedly keeps a certain percentage of the donation as an administration fee.""",1
+6724,Please allow us to maintain all app packages store assets descriptions screenshots and metadata in a Git repository and simply push to a Git remote to upload.,1
+796_5,"""If the app EVER had an IAP, it is not eligible for transfer.""",0
+1832_1,"""Even there should be a option to delete the MPNS certificate .""",1
+30,"""Furthermore Age Ratings in Dev Center Dashboard can be set per app according to the content in the app.""",1
+3152,"""It would be nice to be able to assign a (compiled) binding to properties through the VisualState Setters of XamlBehaviors.""",1
+967_9,"""Is it possible to support in the future?""",0
+879_3,"""Just looking at the list of reserved file types - seems like all file types known to man are reserved.""",0
+1135,"""Get public tweets without user's authentication""",1
+691_7,"""Developers need create/edit document from Windows Store Apps.""",1
+0_1720,"""Bloggers/Authors who want to claim their money do this by registering their rss-feed and bank- or paypal-account at feedly.""",1
+1598_1,"""u guys need to fix that or i will buy nokia 3110 which is way better than this sht!""",1
+962,"""I am not going to download multiple GBs of **** that I will never use to fix a memory leak.""",0
+4036,"""In short you could add something like this in your manifest-file:""",1
+4515,"""There would need to be some things that would probably need to be specified for that to work such as specifying a Username textbox.""",1
+672_3,"""Please allow windows phone 8.1 file/folder picker to have access to onedrive and store the location in futureaccesslist.""",1
+1043_1,"""It is ok that some things will be awailable on Windows 8/9 devices which are not available on Windows Phone 8 / 9 and vice versa.""",0
+1205_3,"""Otherwise AR scenarios are hard to develop without a range of devices.""",0
+2937,"""After seven months the issue still has not been addressed.""",0
+0_1745,"""I *should* be able to use feedly in luakit.""",1
+1664_1,"""In addition to the existing profiler tool, a network activity profiler should be given so that we can analyse network activities that are happening, potentially helping in troubleshooting cases wheter network activites are becoming bottleneck for app responsiveness.""",1
+1776_3,"""word, excel and powerpoint basically).""",0
+576,See console cpp/winrt sample code here:,0
+0_2160,"""There appears to be a current bug with the android app and the Evernote integration.	""",0
+680,Android and iOS have popular apps that do this.,0
+0_242,"""Markup Extensions are found in the following Xaml Systems: - WPF - Silverlight 5 - Xamarin.Forms (notably NOT a Microsoft technology, but recognizes their power nonetheless) This feature is to ask for Xaml serialization featureset parity with WPF/System.""",0
+0_860,"""It's been over four years since that post from Shawn Oster, it's time to get this into the platform.""",0
+0_1490,"""Allow Android app to provide an option to open within the application or open in a browser.""",1
+3313,"""Please create ActualStartLocation in FileOpenPicker so that we can open the file selection dialog into the exact folder we want.""",1
+0_1473,"""Such a login process should not be allowed.""",1
+3842,"""(Compare the UI usage with Google Chrome for example.)""",1
+0_572,"""Please Microsoft improve the performance again with windows 10 mobile.""",1
+835_14,"""The thief could take a picture of him/herself (then it can be given to police) and/or give idea of his/her location.""",0
+1440_3,"""Security is a concern and in this case that means access to data or performing undesired operations.""",0
+868_1,"""If they want to compete with Android and iPhone, a good direction navigation system app is must on windows phone.""",1
+0_802,"""Please allow API access for 3rd party developers to set ringer volume/mute/vibrate.
+
+Business case: Home and enterprise users would most likely pay for an application that will control behavior of ringer volume and notifications based on geographic location.
+
+There is a market for this type of application, allowing a 3rd party to develop it would: 1.""""",1
+706_1,"""You should be able to start an app like the flashlight app directly from the notification center.""",1
+1820,Repeatedly calling MediaPlayer.StepForwardOneFrame() `MediaPlayer.StepBackOneFrame() should switch between two frames but video is moving slightly back.,0
+4790,"""Allowing subpixel font rendering would make them look on par with desktop apps.""",1
+1728_6,"""but it lacks the capability to increase volume of the device or costomize live tiles or backround.""",0
+3219,"""Before Creators update this worked fine and the vast majority if not all were displayed.""",0
+1730_3,"""let us creat on our own devices.""",1
+519,For WindowsML and MachineLearning.NET applications we need to monitor processor usage specificly by AI processes in task manager.,0
+659,For 1803 I like that the backbutton is now built-in to the NavigationView control.,0
+0_1555,"""Please consider speaking to the people of Beyond Pod to integrate with their app.""""",1
+3507,"""Textbox that indicates Validation Results (This Filed is Required...)""",0
+796_3,"""HOWEVER, apps with in-app purchases are not eligible to be transferred.""",0
+5889,"""I would expect the store to be capable of searching the partial words also or may be give an advance search option where people can tell where the word should be searched.""",1
+3872,"""But SQLCipher is not - it supports only commercial edition ($899) and I can't afford the expense.""",0
+2597,"""The CommandBar in the Page.TopAppBar has a dark MenuFlyoutPresenter Background brush.""",0
+497,"""Ã¨ Microsoft should give us the possibility to download created app packages for failed certification processes for further debugging.""",1
+1765_1,"""Microsoft already allow developers to use the Bing Maps API in their API, so i realy hope they consider opening up the Bing APIs for the coming Tango/Apollo dev toolsets.""",1
+2883,"""My suggestion/idea is to reduce the development time & effort needed for ASP.NET web application.""",1
+1890,"""also would like to see when exactly a listing was updated.""",1
+0_314,"""Android has an excellent tutorial for learning the basics and creating an app, even if you're not a Java expert.""",0
+855,"""Add an option to let user do so.""",1
+0_1727,"""Feedly could re-invent the way we consume articles in the same way how Amazons Kindle Unlimited did with the book market.""",1
+1550,RotatorTile's behavior is like an automated FlipView.,0
+4589,"""I want to thank Lancelot for taking the time to communicate quickly with me.""",0
+2355,"""You should trust the application to let it manage the correct state changes on its own without introducing artificial limitations and sacrificing performance.""",1
+1079,"""it wont let me cconnect it just sais turn on""",0
+7994,Provide computer vision APIs that would allow developers to get access to functions such as motion tracking facial/gesture/voice recognition egomotion structures from motion and object identification etc.,1
+0_1944,"""It would be great if there was a way to see all of the content I'd see in google+ via the API, and present it in feedly.""",1
+1239,"""Built in RtpMIDI would be nice too but at least this would be achievable without a kernel mode driver if we had virtual MIDI ports.""",1
+1058,"""Now this is a mess.""",0
+6910,Allow changing country and publisher name after registration on the Store,1
+1260_2,"""There is currently no indication that an application is being featured, it would be nice to receive a email prior to it being featured to indicate what dates / countries it will be featured in.""",0
+0_1354,"""Promote Feedly by having that version of NewsRob being re- branded with Feedly logo.""",1
+188,"""My proposed solution is to add a RowDoubleTapped event directly to the UWP DataGrid class itself.""",1
+927_2,"""This would provide much powerful photo apps for real time shutting and photo editing.""",0
+4259,"""This is especially limiting when browsing DLCs for games without any screenshots.""",0
+453,We have an UWP app targeting Windows 10 fall creators update which was published successfully to the sore previously.,0
+3998,"""Currently store access from windows is either enabled or disabled this really needs to be more granular""",1
+0_2114,"""After that i downloaded other feedly apps like Ziner, they work without any problem.""",0
+0_1448,"""Pushbullet is an amazing sharing app.	""",0
+1746_4,"""__________________________________________________________________________________________________________________________________API____________________________________ __________________________________________________________________NG________________________________________________________________________________________________________________________________""",0
+2637,"""Please add HeaderedContentControl to the community toolkit.""",1
+0_525,"""The date drop down in the Windows Dev Center needs to have custom date so the developers can see the total download of their application of any interval they enter.""",1
+0_2080,"""Please prevent duplicate saved items in Dropbox.""",1
+3615,"""* Implicit DataTemplates (not really an issue of the Pivot but would be great to have these.)""",1
+706_2,"""Please add recent places to SuggestedStartLocation in FileOpenPicker API.""",1
+0_2077,"""If I could add individual users as a feed, then I could see their updates without having to scroll through Facebook's ridiculous ""wall"".""",1
+0_791,"""I've two apps with same name, one is in phone and the other one is in desktop.
+
+Now, I created a universal app.""""",0
+1873,"""Provide funtionality similar to CurrentAppSimulator class found in Windows.ApplicationModel.Store namespace.""",1
+0_1618,"""something like AntennaPod (https://play.google.com/store/apps/details?id=de.danoeh.antennapod) would be very nice""",1
+0_770,"""It would be nice, to have BindingExpression.UpdateTarget() function like in WPF.""",1
+524,"""Would be nice if you could set the height of a TextBox using number of Lines.""",1
+2615,I have done troubleshooting with Windows developer support who knew about the issue and recommended using another browser like IE.,0
+112,"""It would be great to be able to get the current appointment and the next appointment a user has.""",1
+876,"""My Customer (I'm an Office 365 Consultant) are struggling with the adoption of this new way of working because of simple things like this that annoy and takes 2-10 minutes per person per working spot.""",0
+2351,And the calls to OMSetRenderTargets are really useless because the same depth texture is used just with a different view and because both SP and TM do legal operations they don't write to the depth buffer and read in the shader at the same time.,0
+902_1,"""If there is a way to change the Data Template for the list and details of a contact that would be great.""",0
+0_668,"""https://dev.windows.com/Account/Management If you have any question, please contact support.""",1
+663,Unfortunately most of it is undocumented and does not seem to be stabilized (2018 Spring Update for instance changed IApplicationView's CLSID so apps using it stopped working).,0
+0_1861,"""Please allow Chrome feedly (and other browsers' feedly) to customize favourite saving tool, so that I can save to pocket with one click (and please also cut the settings on the pocket's end for ""adding a new item"").""",1
+1238,"""The Surface touch screen has tons of possibilities as a MIDI controller but this currently requires installing a 3rd party driver which is not a great end user experience.""",1
+0_1953,"""I need Huffduffer integration to send selected audiofiles from within my rss-feeds to this service.""",1
+0_169,"""I can only scan qrcode , access link to download it.""""",0
+3666,"""Optional show an user input dialog requesting access to the file or folder and let the user decide.""",1
+1147,Now let's say next day the app is opened again.,0
+9123,All uesr want to find fast their contact when they must call so it's very good to insert the fast search on phone dialer it's good that the user can choose the better method to search like name or/and surname or/and Address etc...,1
+3630,"""I'm using the TreeView of your official samples on https://github.com/Microsoft/Windows-universal-samples/tree/dev/Samples/XamlTreeView.""",0
+2586,The image control only supports BGRA8 encoding and the Win2d Control’s supported type is also determined by BitmapPixelFormat.,0
+4251,"""Provide libraries to help me get started with Project Rome and building a cross-device experience for my application""",1
+979,"""Suggestion: If the returned StorageFile class could not provide the actual entry of the choices selected by the user maybe the FileSavePicker could do it with a read-only property or method after the user confirmed the file.""",1
+1101,"""I'm using lates windows 10 edition (build 1709)""",0
+1551_1,"""add a search button inside each SMS conversation, to find a specific thing you said.""",1
+8748,I think there should be a casual genre section as a lot of apps don't fall into any specific section already listed.,1
+0_1663,"""When showing news as just title lines, in Chrome it'll show 1 title per line, so to say, and the 1st line of the article is revealed after the title or upon clicking on it.""",0
+0_896,"""Because this is SSO for phone, the token is filled in and the app continues like the user had entered their credentials correctly.""",0
+3069,"""Windows 10 latest updates (May 2017)""",0
+1824_4,"""A better manipulation of exif APIs will be very helpfull.""",1
+1503,"""But it would be nice to choose what elements get discarded first in case there's isn't enough space on the tile.""",1
+2857,"""To give you some context why this matters to us our app is a video streaming app with both VoD and live TV content.""",0
+0_648,"""Ex: a point with a location near the top right corner of the map and inside the map will have an offset of 319,0 if the location is slightly on the right, the returned point will be 481,0 instead of 321,0 (you have to divide it by a factor of 1.5 on my Lumia 635).""",0
+0_876,"""In short, if low bandwidth MMOs could be made which scaled in revenue and bandwidth according to how many of the apps are purchased/in use.""",0
+1308_1,"""Hi, As we know, there is a lot of limitations is WP8 OS due the high security in the OS itself which is very good, but some time we need to allow some apps to do extra works, apps which we trust i.e: hotmail app, facebook app, skype app ....""",0
+0_516,"""At least you can give Students an option (on DreamSparks) to install Hyper-V on their regular OS.""""",1
+0_2,"""I had posted this on the VS uservoice site https://visualstudio.uservoice.com/forums/121579-visual-studio/suggestions/7542181-add-f-support-for-net-native but it looks like that was the wrong place to do that.""",0
+1049,"""Hope this issue lands in the priority list of Microsoft.""",0
+1872_1,"""(Windows 8.0 projects, when updated to Windows 8.1 projects, lose their ability to support Windows 8.0!)""",0
+939,"""However I would still appreciate being able to see a text message notification I have received on my iPhone from Cortana.""",1
+692_3,"""Allowing to prefetch an ad allow the developer to optimise his ad strategy.""",0
+0_1880,"""I would love to be able to save directly to Pocket like I can on the android app.""",1
+2045,"""Could this not also be provided in the UWP toolkit for inclusion in UWP apps?""",1
+0_55,"""Currently you have to provide a Splash Screen to get your app to pass the certification kit, which should really be a developer's choice like before.
+""",1
+2412,I add a CustomAudioEffect which is EQ (I've also tried using official UWP sample's EchoEffect) to MediaPlayer.,0
+1679_4,"""There It would be better if we havent have to upgrage software via zune.It is timefull and useless.There should be delta upgrades OTA""",1
+0_916,"""With SMIL support you can do in minutes things that would require days to do otherwise.""",0
+0_426,"""Examples include: - a (assemble) doesn't supporting 64-bit!""",0
+917_8,"""Why cant Windows Phone do this?""",0
+0_647,"""If the point is outside, we have to divide the result by RawPixelsPerViewPixel.""",0
+1808,"""There should be a Machine Learning SDK smilar to Apple CoreML""",1
+9310,Having said these I propose such feature of prompting to do a language pack installation to be on the Windows Phone OS level when user switches language.,1
+0_1647,"""Currently if there's a link to an app in the Google Play store it opens in the Feedly browser instead of using the Play app which is frustrating.""",0
+0_1574,"""Feedly allows folder order to be rearranged instead of appearing in alphabetical order.""",0
+0_434,"""Obviously Microsoft will be the lead, and changes such as extensions supporting parsing of new versions of internal OS structures will come from Microsoft, but open-sourcing WinDbg will allow the community fix bugs like the one in .""",0
+1839_1,"""Give ability to create games that have access for xbox live achievements.""",1
+7709,I suggest some APIs for the app to attach some actions or commands to the item that the user can invoke straight from the… more,1
+912_5,"""Why this common and ridiculous traditional FAcebook style?""",0
+1809_20,"""I think there needs to be more focus on making it easier and quicker to implement these plumbing features as a lot of developers will be hobbyist and do not contain the time and knowledge required to implement of lot of these plumbing features.""",1
+2635,Any help will be greatly appreciated....,0
+6293,"""Another even better option instead of adding the edit extensibility would be adding an ""open withÉ"" option in the built-in photos app.""",1
+7588,Currently need to generate a bitmap image which not works well for list etc,0
+3620,"""For a classic desktop application we need a TabControl.""",1
+1958,"""Having access to the Visibility of the System Back button is good but there are some scenario's where I think it would make sense to have a Disabled state for this button which could be toggled by Dev's in certain scenarios.""",1
+6635,"""The old format of showing up to 8 screen shots side by side would give a user a better feel for the app as a whole.""",1
+1009_1,"""Allow the phone to be used as a mini presentation device.""",1
+978_2,"""An developer should have an option or tool to manage that list, and select which ones are displayed.""",1
+1268_1,"""Allow the use of desktop keyboard to interact with WP8 emulator similar to the current mouse functionality.""",1
+0_1363,"""As an alternative to that, you could also create a 1x1 widget mimicking the app icon with unread counter.""",1
+1702_2,"""provide automaticaly calendar and e mail views in multi task screnn""",1
+0_1502,"""Make a Chrome packaged app for Feedly please.""",1
+896_15,"""I understand there may be some issues with language etc.""",0
+6981,It would be great to use Bower to install scripts once into the shared project rather than installing two copies of the same script into the Windows project and the Windows Phone project.,1
+4309,"""Therefore it would be nice to have an option like XsltSettings.EnableDocumentFunction Property in .NET apps.""",1
+1330_22,"""If I am lucky I can do it before my character dies, even then though the player is just moving in a straight line to nowhere by the time I actually take the screenshot.""",0
+0_1458,"""i.e. do that google reader/feedly does for RSS, but with twitter.... or facebook... or pinterest""",1
+1812,"""I really need to be able to programmatically restart my app.""",1
+4274,"""It would be useful to have either backgroundNetwork new capability or atleast extend backgroundMediaPlayback capability and if playback is active (which can possibly be using network communication) and app is not suspended keep network communication active.""",1
+0_1791,"""Nevertheless there's one thing that annoys me""",0
+0_46,"""If you use a 3rd party control library or you're a control library vendor, you should vote for this.""",1
+889_4,"""Application that will silence ringer between set hours but allow exceptions by contact, and silence ringer during scheduled meetings from my linked calendars (Outlook,com, Google.com, Yahoo.com, etc""",0
+1498_2,"""Change orientation of the device.""",1
+9359,Include a PixelHeight and PixelWidth as optional parameters so an aspect ratio can be included.,1
+0_2030,"""To Feedly, can you please provide this type of service - perhaps within you Pro account if there are extra overheads.""",1
+673_2,"""Otherwise, it's not a real universal app.""",0
+0_2079,"""Just being able to add a Twitter account and view only a single user's tweets would easily make Feedly one of the best Twitter platforms there is.""""",1
+4040,"""In my case I would also be happy if it was possible to add verbs on all file types but this is something I could live without :).""",1
+834_13,"""all other messages""",0
+1327,This would be comparable to the message mode of Windows named pipes making AF_UNIX sockets a more complete replacement.,0
+3687,"""A control similar to the FlowDocumentReader/ FlowDocumentScrollViewer would be really awesome!""",1
+1449_15,"""Then we can use the Smartphone as remote control four our devices.""",0
+0_1003,"""Developers should be focusing more on App as opposed to implement the standard navigation pattern and spend effort on styling.""""",1
+874_3,"""In some places it is a problem that children are playing with their phones while in a class.""",0
+1191,"""It is understandable that when UWP app is run normally it can only access a limited set of COM objects; however if the UWP is packaged to desktop bridge it makes sense to allow it to access additional COM objects exposed by that desktop bridge using the technical described in the blog above.""",0
+1287_8,"""I would like the option to schedule my mail synchronization.""",1
+3700,"""Something has changed in the Microsoft Store Services SDK framework or in the Microsoft Advertising SDK for XAML library that is updated automatically to the Xbox since February 9th 2017.""",0
+0_2041,"""I can't find any way to configure Pocket to use Google Auth.""",0
+6584,"""And our customers would LOVE to be able to install these apps without having to install Firefox or Chrome first.""",1
+3729,"""Allow other formats than PCM and float for a FrameOutputNode created with CreateFrameOutputNode of class AudioGraph.""",1
+1032_3,"""Providing the same scrolling in the Silverlight/WinRT textbox would definitely improve the user experience.""",0
+0_151,"""Do you think it can work this way?""",0
+3341,"""But I noticed that it still happens no sound issue in another situation.""",0
+9033,Similarly this idea could be thought through for integration of One Note with other Native applications like Camera Messaging etc,1
+7708,1) It is cool that the Facebook app can show my news feed in the people hub but it's annoying the fact I have to go to the Facebook app to do something.,0
+665_8,"""Provide a workaround for removing the ""ru"" language from the language history (I have no need for ""ru"" culture just for ""ru-ru"", but there is no way to remove ""ru"" from the language history if you ever posted your app with ""ru"" language support) 2.""",1
+1285,Right now it's possible to define apps for websites using app URI handlers.,0
+2358,"""-I don't need to call OMSetRenderTargets for each draw call where I want to change D3D11_DSV_READ_ONLY_DEPTH.""",0
+1232_1,"""You have to take screenshots in one language, change it to another, wait until emulator reloads and so on.""",0
+1981,If the indexer is really broken (for some reason this started happening on my PC so is not uncommon) then it will fail to pick up any neighboring files at all (confirmed by using the default Photos app to open a photo in a folder with lots of photos and it only showed one photo).,0
+1675,Say you throw up a message box a la Do you want to save the changes Yes/No/Cancel if you were to click Cancel there's no way to prevent the NavigationView to follow through with it visually.,0
+4365,"""It is in an app called Drudge Live (https://www.microsoft.com/store/apps/9wzdncrdm04m) and in the app the swipe-open capability is only enabled on phones.""",0
+1580_2,"""will significal improve advanced users experience.""",0
+1452,"""In such a configuration we could enter for example default binding modes for specific dependency properties like for example TwoWay for TextBox.TextProperty.""",1
+847_8,"""Please provide a PhotoCropTask that takes an Image(Byte[]) and provides the same crop tool.""",1
+4209,"""Subscribers of the BackRequested event should be notified in stack order instead of queue order.""",1
+0_350,"""The previous 5 app are: - old - not updated - with less reviews - low rating How bizview can not be first in all regions?""",0
+1257_2,"""It would be nice to schedule a reminder to repeat at ""X"" hours""",1
+0_1499,"""It is really annoying to remember every interesting site until I can use a desktop computer.""",0
+0_53,"""With the advent of //build 2015, the vision and direction of Microsoft seems to be open source and cross platform.
+
+""",0
+0_475,"""Just input PCM and output PCM would be enough.""",0
+1344_1,"""Therefore, it would be great if devs could put apps in the marketplace offering two___ more""",1
+850_3,""").""",0
+0_1605,"""I would love to have direct integration so that I can easily send articles to SoundGecko from within the Feedly app.""",1
+1261_1,"""I think that there should be a nice feature were you can be able to slide the status bar down and view all the push notifications that you got but you didn't view, just like android and IOS, but the best part is that it fixes many problems like when people wanted a short cut to turn WiFi on and off and data on and off so that would be a nice feature to have 2.""",1
+0_827,"""I have a ton of sites saved in my IE Favorites....it would be great to have a search box for the favorites rather than scrolling around.""",1
+3068,"""Nvidia GeForce 650m GT latest videos drivers (April/May 2017)""",0
+0_1433,"""Deploy the latest version of Feedly so that I can update the app on my Kindle Fire""",1
+793_5,"""I think it should have been thought more to be like BB10 Hub.""",1
+0_1698,"""Please let me sign in with an ID and password I chose (not my google account)""",1
+0_1377,"""Integrate Facebook, Twitter, YouTube and other social accounts into Feedly so I can read the timeline, posts and other in Feedly.	""",1
+8244,Everything is fine up until that point but if you want to serialize that class so that you can store it and load it directly instead of traversing the filesystem and opening up each file to read its ID3 tags every time you open the app (which can be a lot of unnecessary work especially for larger libraries) (or so you can send which book to play to an audio background task) you really don't have many options.,0
+0_525,"""The date drop down in the Windows Dev Center needs to have custom date so the developers can see the total download of their application of any interval they enter.""",1
+1010_7,"""Currently, after 30 days of expiration, we can't renew with our original accounts.""",0
+1777_2,"""With Mango this is not possible anymore when having one-time-generated urls.""",0
+827_3,"""The GetGeopositionAsync method will work maybe 15 times in a row and then simply stop working and never return... despite having a timeout parameter!??""",0
+1679_4,"""There It would be better if we havent have to upgrage software via zune.It is timefull and useless.There should be delta upgrades OTA""",1
+187,"""Previously it was possible to add an EventSetter to the DataGridRows' style (As mentioned here: https://stackoverflow.com/questions/22790181/wpf-datagrid-row-double-click-event-programmatically) but since EventSetter is now not apart of UWP I am left without this functionality.0""",0
+1082,The page above also recommends me to set up the MS Edge.,0
+0_892,"""For example I am currently not able to edit any of my IAP descriptions translated to 14 languages because they exceed the 200 characters limit.""",0
+1858_3,"""TextBox, it's a big problem.""",0
+3109,"""I would like to try this out -- making my app an experience shared across multiple close proximity devices but it would be very helpful to see some code samples.""",1
+2633,"""I do not know what else to do.""",0
+3707,"""Other platforms allow for customization to be downloaded and dynamically loaded in to the app domain.""",0
+7819,I also suggest that voice to text be allowed to write this,1
+0_1354,"""Promote Feedly by having that version of NewsRob being re- branded with Feedly logo.""",1
+553,This returns the full URL of a t.co shortened URL in a tweet:,0
+1287_20,"""Once again, these problems DO NOT happen on WP7.5 so I'd like to see if these are known issues on WP8 OS and hope to see the fix soon.""",0
+0_1856,"""I currently use Pocket as my """"read later"""" app, but was hoping to move to Evernote.""""",0
+375,Any idea if this will be fixed in a cummulative update?,0
+877,"""I want the screen setting to be an option where I can set my preferance as a default.""",1
+734,Currently you cannot create an Emitter unless you are using 48K Wave audio.,0
+1287_17,"""I had to re-open video and change the Position property again and sometimes this problem is disappeared.""",0
+1014,I am considering future options for puchasing devices.,0
+814_9,"""I found something (which I think of as serious security bug).""",0
+0_504,"""Change the Store search engine algorithm back, to as it was.
+
+To make it possible to actually find an app by its title.
+
+I have made an app, when I search for it, 10 apps pops up, and my app isn't any of them.""""",1
+0_1982,"""It will be great if you will develop a Windows software, for those who would like to read their feed on the computer.	""",1
+1280_1,"""Allow Zune music + video tile in windows phone 7 to fetch metadata and display artist images and artist names in India too ... settings>applications >lock+wallpaper >show artist image when playing music under lock screen ....""",1
+980_12,"""all apps go to freeze position so a user cannot use the mobile if any app is used for downloading.""",0
+191,"""Currently to interact with a DataGrid's rows you must specify a SelectionChanged event.""",0
+840_1,"""It would be nice to be able to load XAML from string without freezing UI - it could easily take over 200ms to load a short bit of XAML.""",1
+1857_2,"""I understand the max size limitation to control.""",0
+914,if I choose device I get a generic error (vie tried every suggestion I can find online) if I choose remote machine I am prompted for a pin so I go into the for devs page on my device and I hit pair and I get a 6 digit pin.,0
+865_2,"""the podcast app in windows phone 8.1- if I stop a podcast and start another, the bookmark for the previous podcast goes away and I have to search to find where I left off on the first podcast.""",0
+1676_2,"""have the possibility to use category of outlook, on wp7 for contact/email/calendar.""",1
+947_3,"""Our MDM solution allows users to do this for iOS and Anroid, would be nice if we could do it for WP8 too.""",1
+946_13,"""Can Microsoft take Advertising support seriously, and provide world wide Ad promotion and delivery.""",1
+1015_1,"""Developers need to be able to use their MS account to sign into the VS2012 phone emulator.""",1
+0_420,"""You should give people more freedom and more APIs to create new browsers.""",1
+0_311,"""Update image control to support animated gifs.""",1
+0_965,"""Not everybody wants a toy and moving tiles around by touch.
+
+Some want a tool that satisfies their need, not create problems.""""",0
+3267,"""The 'MethodName' property of the KnownTypeAttribute on type 'ObjectModel.Entities.BaseThing' is not currently supported.""",0
+1514_2,"""more and more people telephone over voip but there are many different provider.""",0
+3643,"""Example (trying to add folder from dragDrop Filetarget to FutureAccessList):""",0
+0_1823,"""BeeLine Reader (full disclosure: I'm the founder) has browser plugins that apply eye-guiding color gradients to make reading faster and easier.""",0
+2442,"""The current support for Bluetooth LE in Win10 Creators Update does not allow publishing of an Eddystone beacon ( https://developers.google.com/beacons/eddystone ) because the api reserves the use of many data section types.""",0
+0_1918,"""Please make an app for blackberry playbook, because there are no apps that support feedly on blackberry app world for playbook.""",1
+0_806,"""Use Cases: Allow 3rd party access to ringer settings.""",1
+686_2,"""I purchased the windows phone because of the smooth integration but now we are slowly moving towards apps and no OS integration.""",0
+2661,I'm looking to use ECDH key agreement in an universal windows app but I can't find a way to do so.,0
+1237_3,"""so we need aupport for such feature in XAML Code like in SilverLight 5""",1
+8665,I hope you like the idea i bet many people would like to have spinning earthwind blowingriver streamingwaterfallsetc on their lockscreen.,1
+3026,"""I would like my apps be automatically supported on any new processor architectures.""",1
+0_891,"""This was a braking change since the old Windows Phone Store did not have this kind of limitation.""",0
+8613,Plesae implement Windows.ApplicationModel.SuspendingDeferral as IDisposable (probably already declared in ISuspendingDeferral) and call method Complete() from within IDisposable.Dispose() to simplify its usage:,1
+800,"""if custom tiles are being displayed get the watermark(s) associated with them).""",1
+2124,I hear a lot about “clean uninstall” but we noticed a few months ago appx leaves some stuff behind.,0
+5183,"""Camera should work when app is minimized.""",1
+803_5,"""Copy any number of the internet / documents and try and put it into calculator app.""",0
+0_827,"""I have a ton of sites saved in my IE Favorites....it would be great to have a search box for the favorites rather than scrolling around.""",1
+0_1752,"""Please create and host a flare unit and provide the URL for bloggers to easily add this option for their readers who use Feedly.""",1
+1707,VERBOSE: Begin Convert-Files...,0
+9437,It should be an option to remove the ru language code from my app 'language History'.,1
+681_11,"""But - if you have generated a custom tile and/or you don't want the tile to flip, then you cannot use the lockscreen text feature.""",0
+798,"""a CustomMapTileDataSource with the bing maps layer disabled using MapStyle=None MapTileSource Layer=BackgroundReplacement) you still get the (C) Microsoft Corporation watermark which is now flat out wrong.""",0
+0_572,"""Please Microsoft improve the performance again with windows 10 mobile.""",1
+0_1864,"""I currently use gRead widget to see my unread count on Google Reader.""",0
+4495,"""I also want to create folders to store things in.""",0
+1776_2,"""Provide a viewer for viewing office documents (e.g.""",1
+1696_2,"""I have a voice memo saved on my phone I'd like my buddy to hear.""",0
+978_10,"""Make it possible to optionally declare a function OnClick() for live tiles, such that this code is executed when the live tiles is presed without leaving the home screen.""",1
+2766,""" The problem I found is that it currently shows a UI dialog asking for current loged in user credentials confirmation.""",0
+676_4,"""everytime it works, with wp 8.1 dev preview it doesn__t.""",0
+2890,"""The downloaded application should not be taking much space on user machine and it should not require installation and it should not require user to double click open but it should open as the user types the url in the search box in task-bar.""",1
+0_188,"""It looks as if this value doesn't change at all... See here for details on this issue: https://social.msdn.microsoft.com/Forums/en-US/wpdevelop/thread/b8b66a85-cc5f-4de0-9eff-51df099ca495/#b8b66a85-cc5f-4de0-9eff-51df099ca495 Thanks and best regards, Patrick Hello, According to the C# programming documentation (https://msdn.microsoft.com/en-us/library/windows/apps/windows.devices.power.batteryreport.fullchargecapacityinmilliwatthours.aspx) the battery report (fullChargeCapacityInMilliwattHours) should return the """"fully-charged energy capacity of the battery, in milliwatt-hours (mWh)"""".""",0
+896_10,"""If so then this issue should concern you as a developer.""",0
+1420_1,"""simple.""",0
+931_1,"""It would be really good to add parallel linq in windows phone and portable class libraries for collection processing unification and efficiency.""",1
+0_1433,"""Deploy the latest version of Feedly so that I can update the app on my Kindle Fire""",1
+2010,"""Would be a lot more intuitive useful and less distractive then the current overlay.""",1
+755,"""I think we can support this by adding a simple constructor that takes in the same parameters as Initialize.""",1
+7274,Please include my country Yemen in pay out and advertisement too.,1
+2309,"""So for the CalendarView.SelectedDatesChanged event the following signature works:""",0
+575,"""Tested in both c++ and c#.""",0
+8830,It should be an option to remove the ru language code from my app 'language History' or an option to completly replace: Fully replace the prevoius(es) xap(s).,1
+2762,It detects finguers.,0
+0_1879,"""Apply the awesome mobile app feature to the web interface!""",1
+2442,The current support for Bluetooth LE in Win10 Creators Update does not allow publishing of an Eddystone beacon ( https://developers.google.com/beacons/eddystone ) because the api reserves the use of many data section types.,0
+9312,Having said these i thought a feature for prompting user installing language pack done on phone OS level would be good.,1
+1868_3,"""So he cant login into his another account.""",0
+0_174,"""None of Powerpoint or Illustrator files are supported by Sketch and vice-versa, so we need Sketch files to start our design work.""",0
+762_1,"""So here is my scenario and you can clearly see why this API change would help to improve the code flow: var clientCert; ensureCertficatesAsync = function() { logger.trace(""Checking client certificate""); if (clientCert) { logger.info(""Using already loaded client certificate""); return WinJS.Promise.as(clientCert); } var certQuery = new Certificates.CertificateQuery(); certQuery.friendlyName = ""Client Cert""; return Certificates.CertificateStores.findAllAsync(certQuery).then(function(certs) { if (!certs.length) { return___ more""",0
+1238_3,"""Provide API to easy save settings of an app online (and restore after unnstall or reset/change phone), using a Microsoft account (http://wpdev.uservoice.com/forums/110705-dev-platform/suggestions/3781612-microsoft-account-login) and online service (skydrive/azure ?)""",1
+1159,"""App immediately displays yesterday's news stories and works in background to load new stories (or user pulls to refresh).""",0
+680_2,"""Please bring back the simplicity and efficiency of Windows Phone!""",1
+0_999,"""Would be nice to make split view behave the way Surface home screen behaves OOB.""",1
+2500,"""Behind the portal the user could control which microphones the Lumia would use to circumvent the bug affecting the Lumias 930 Brazilians.""",0
+1738_1,"""Today, when users click a link in IE, most of the times you would get a message that this content type is not supported on phone.""",0
+0_1522,"""Please reduce required permission for chrome extension.""",1
+0_838,"""It would be nice if I could add simple switch in settings to let user turn ON/OFF notifications (which is done by deleting existing ones).""",1
+1080,The following page https://www.visualstudio.com/vs/preview/ does not work in IE.,0
+884_6,"""Would be good if some of these tools could be developed by the support of cellular data in the network api""",1
+1828_2,"""Copy from Android and add beta and alpha store too!""",1
+3121,"""They take right position then after manual shifting of map but initially 20-30% of them are misplaced after being added to MapElements collection.""",0
+0_1850,"""I would like the Feedly Chrome app to act just like the Google Reader one, shows how many feeds I have and I can click on them individually.""",1
+7837,Enable Cortana on WP8.1,1
+0_515,"""In India lot of students buy Notebooks with Windows 8.1 SL (Not pro).
+
+But for developing and testing Windows Phone apps we need Windows Pro version with Hyper-V.
+
+Thats why lot of students chose to develop for android, because of no special requirement.""""",0
+701,"""Now that Windows 10 has LTE support RCS Messaging API should be introduced so we can take advantage of this messaging protocol in our UWP apps...""",1
+2611,However being able to tie this data with revenue data is limited as transaction data can only be downloaded by CSV through the Payout Summary page.,0
+1977,"""The above is made a lot worse on computers where indexing file content is disabled (right click on the drive in Explorer select properties and see check box at the bottom) which used to be recommended for SSD drives.""",0
+0_732,"""Also, I've heard that MS just warns those devs, but even lets them keep obvious fake max ratings.""",0
+0_228,"""There would be no reason to ever learn another language/platform paradigm.""",0
+1708_2,"""possibility to watch videos with .srt or others directly on wp7""",0
+756_2,"""But I'm missing that list animations seen on Settings or Messaging apps when opening or closing them.""",0
+1405,"""I have a disk imaging (which I have already converted) application that writes bytes directly to disk (USB and SD cards).""",0
+1247_2,"""Add a Boolean to the CameraCaptureTask to optionally add the picture taken to the Camera Roll.""",1
+0_974,"""Some want a tool that satisfies their need, not create problems.""",0
+0_994,"""This also applies to icons.""",0
+0_750,"""I feel like why to add built-in drawing functionality at all as 3d is not built-in.""",0
+8606,Pleas allow in the WMappmanifest a selection box to force legacy resume mode so my WP81 app can function just as it did in WP8.,1
+744,"""I would like to ask Microsoft Developers to fix this issue and provide couple extra degrees of freedom going through the RDC.""",1
+8750,For example timer and alarm apps.,0
+2175,"""I am removing the safe area by calling SetDesiredBounds and I am experiencing framed transport controls then even when using as control somewhere within the page.""",0
+4018,""" When the user pressed the access key of a button to navigate out the tooltips of command bar buttons stay where they are.""",0
+8936,There should be a property on the WebView that controls the fullscreen behavior such that it is possible to fill the entire viewable area of the display with the video and its controls.,1
+2757,Presently the only way to do this is through the print UI (requires user interaction),0
+1212_1,"""For example, my app is currently fairly well reviewed (4.5 stars).""",0
+0_2007,"""And or you can make it a keyboard shortcut's""",1
+2987,"""I believe that everyone in XAML lovers we want a robust and complete standard and that facilitates the life of the developer so I propose to include these controls as a standard of XAML specification.""",1
+731_1,"""Extend the MediaElement to support YouTube videos, so simple.""",1
+0_1395,"""However, sometimes I'd prefer to send an article to InstaPaper, Readability or Pocket AND STILL have it saved in Feedly.""",0
+8397,Include an API to add remove deactivate tracking protection lists (TPL) to further drive down data usage enable selective protection against rogue sites tracking and just having a sense of control.,1
+2939,"""Add support to allow WCF services to be consumed that have custom username/password authentication on the binding.""",1
+0_1579,"""I rarely use Google Plus, but there are few very interesting people using it who's post I'd like to read.	""",0
+0_1802,"""My suggestion is to honour the preferred browser, if chosen, when using more generic based web sharing services.""""",1
+1509,"""When declaring a custom Template for ContentDialog the template root must contain a Border with x:Name=Container otherwise the ShowAsync method will throw a System.AccessViolationException.""",1
+0_1680,"""If article body contains """"My Name"""", star it and send to instapaper.""",1
+856_1,"""Hi, I think it's useful if both windows phone 8.x and windows 8.x will have a similar way to access filesystem content and implement ALL the APIs here: http://msdn.microsoft.com/en-us/library/windows/apps/hh465199.aspx http://msdn.microsoft.com/en-us/library/windows/apps/hh464978.aspx http://msdn.microsoft.com/en-us/library/windows/apps/windows.storage.knownfolders.aspx http://msdn.microsoft.com/en-us/library/windows/apps/jj218966.aspx In particular, having only the possibility of accessing media files through the XNA API doesn't deliver a UX on par with other platforms.""",0
+1165,"""In my opinion developers should not have to do this to prevent multiple unintended events from a control.""",1
+766_3,"""To quote from Windows Phone web site https:/dev.windowsphone.com/en-US/OEM/docs/Welcome/Windows_Phone_8.1 ___Windows Phone 8.1 introduces the ability to write certain drivers as user-mode drivers by using UMDF 2.0.""",0
+1746_2,"""Windows Phone is an amazing media consumption device, and bringing audiobooks back into the Zune fold would make it that much better.""",0
+91,"""Currently it is unavailable in Israel and can't compliment my already installed Office and OneDrive apps""",0
+1273_17,"""This is the most important feature lacking in___ more""",0
+4874,"""I belive it's critical to make the minimize maximize and close buttons customizable for building a refined UI.""",1
+1240_2,"""These page templates should be updated to use the medium-sized, semibold font by default for the title text.""",1
+1524,"""If you are using x:Bind to bind that control's value to a property in the ContentDialog code-behind page then when you press the primary button the property doesn't get updated.""",0
+0_1621,"""Not everybody uses the Gmail app as default... some others use CloudMagic, Mailbox, Inbox, K-9 and such_""",0
+1844_1,"""Alternatively: provide an API for the submission process so we can at least somewhat alleviate the pain ourselves.""",1
+941_6,"""I would like to see a simple change to the ""Rate and Review page"" near the bottom.""",1
+2230,"""if the <DataTemplate x:DataType=models:LocalStatus> references POCO class that is in a seperate project the XAML will not compile.""",0
+4720,"""Extremely need password protected zipping and unzipping for universal app.""",1
+3429,"""It would be great if something similar to DependencyObject.SetCurrentValue method from WPF would be introduced in the future so that a DependencyProperty can be set to a new value without missing an one-way binding.""",1
+1815_5,"""When you update an app and update the App tile icon and/or Background image, save the update as it is not working""",0
+1713_3,"""It will be helpful for many developers if a few sample new project templates which show when and where variables can be created, instantiated so that better app experiences can be given to users.""",1
+0_859,"""This feature was planned for WP7 but was removed for RTM**.""",0
+1351_1,"""Step to reproduce: 1.)""",0
+6437,"""I suggest these new maximum lengths: title 500 characters description 10000 characters (same as for app description).""",1
+1032_7,"""You should be able to select, from a drop-down menu or text box, how much memory is required for your app to run, or select what devices to test for.""",1
+2724,This makes the collection much faster to work with when making large changes.,0
+909_4,"""Change the sound for typing ______""",0
+986,M$ even tries to pay customers to use Bing & Edge.,0
+931,I currently use Cortana each day on Windows 10 Android and iPhone.,0
+1811,"""Could you add this to the list of UWP APIs supported in Desktop Bridge?""",1
+850_2,"""Frequency=4 for every 4 days, Frequency=2 for every 2 weeks, etc.""",0
+1407_7,"""No need to open the app.""",0
+8194,Make necessary conditions so that developers choose proper (representing application )high quality images as application symbols in store matching modern ui,1
+370,"""It would be great if I could have two WebView each having a different user profile.""",1
+3289,"""It's just the same like with mobile.""",0
+757_1,"""Thanks and keep up the good work with Windows Phone!""",0
+7891,Create an infinite loop that breakes the connection in a random time.,1
+724,"""Now my idea: All controls could have a default property for localization.""",1
+7839,Press the search key and enter Cortana's notebook by pressing the icon in the upper left corner of the screen.,0
+67,"""Providing separate x and y factors would enable it to be used on objects without fixed aspect ratios.""",1
+1035_2,"""Add the ability to connect to WindowsShare/Samba servers.""",1
+1779_3,"""ListBox ______________________________________________________________ListBox ______________________________________(________________________)___________________________________________________________________________________________________________________ _________________________________ P.S.""",0
+8174,We need more control over the device so childrens activities can be regulated.,1
+0_1939,"""Make it possible to link an article to your Facebook business page""",1
+1718_13,"""Microphone.IsHeadset property now always return true even without headset connected.""",0
+503,"""Maybe it will help someone.""",0
+693_1,"""Provide access to CPU & GPU data in C#""",1
+689,"""Android and iOS have popular apps that do this.""",0
+860_2,"""So we need improvement TimeTrigger class with AlarmApplicationManager accuracy.""",1
+842_1,"""As popular platform like Apple IOS already did this for its devs.""",0
+945_6,"""And adding new text function: add text from reading QR-code.""",1
+1008_4,"""Please implement file upload API for Internet Explorer, so we can upload PDFs, Docs (from office hub), Images and Videos.""",1
+1696_1,"""File Transfer should pause when a call is made or comes in.""",1
+0_1908,"""At some point can we get Google Keep integration to go along side Pocket?""",1
+216,"""Get back the Offiline Symbols download""",1
+967_20,"""We would like to create an app to monitor the time users spend in other the apps, enabling enterprise customers to optimize a user's day by analyzing time on applications.""",0
+792_2,"""Hey, Please Please make the classes in above framework like SongCollection, Playlists etc immutable and unabstract.""",1
+1290,UWP combobox is not showing the selected value under certain resolutions.,0
+1996,"""Allow WinAppDriver to switch context from native to webview.""",1
+6460,"""If you have any question please contact support.""",0
+8387,We need real Background Download Broker so we can have torrent or custom Download scenarios (some of them may not apply to specific form factor),1
+683_3,"""Birthday) are always set to low values (like 05/05/0004), but if I try to navigate the contacts through Outlook.com or Contacts/People app I can see the right values.""",0
+1734_1,"""ALL WINDOWS PHONES WITH TOUCH-SENSITIVE BUTTONS SHOULD VIBRATE!""",1
+5636,"""This suggestion is for the Windows Blog and is asking to improve its current commenting system by replacing it with Disqus: https://disqus.com/""",1
+0_596,"""This means ISVs will have to deal and support non-business users.""",0
+470,They build a package which fails without details and I can not download the build package for debugging.,0
+2589,When we get the pure image data without image file head info we don‘t want to chang the pure data.,0
+2994,"""This means the task can not execute for the full 15 minute window.""",0
+1645_8,"""magic wand to remember login, getting tired of retyping my emailaddress and password on every login.""",0
+3407,"""It would be great if the Roaming Folder Quota was larger than 100KB (1 MB at least) this would prevent us from having to depend on a network/paid service to have great cross-device customer experiences.""",1
+1792,"""Warning C6386""",0
+673,use new csproj format* for uwp apps.,0
+3898,"""This data should be accessible from secure key storage immediately after app install and keys should be installed into secure key storage as part of app installation process.""",1
+1358_1,"""As a recent purchaser of a Windows Phone: I love the platform, and it has huge potential to grow in competition with Android and Apple.""",0
+1277_9,"""Please make sure that any data accessible from the Contact Details page is made available to the Contact class.""",1
+703_7,"""If the user uninstalls and installs again later, the developer has no idea.""",0
+880_1,"""I want to implement certificate pinning for additional security in my app and therefore I need an API to read the values of individual x.509 certificates.""",1
+1487_1,"""It is not possible to select the port to receive messages.""",0
+3442,"""it would be great to be able to bind / invoke scripts inside a WebView from a ViewModel (like binding a URL to a Property).""",1
+0_2076,"""Allow to pin things to pinterest""",1
+730_2,"""when users click on APP they should directly see UI no lags.""",1
+0_1981,"""I saw a TV Preview for a Show next week and I want to be reminded regarding this feed entry.""",1
+690,Raspberry Pi and Arduino have countless MIDI projects on… more,0
+6724,Please allow us to maintain all app packages store assets descriptions screenshots and metadata in a Git repository and simply push to a Git remote to upload.,1
+1795,Buffer overrun while writing to 'newACL': the writable size is 'aclSize' bytes but '8' bytes might be written.,0
+1253_1,"""For example, allowing the user to view the time it would take to reach full charge on USB vs induction.""",1
+2221,2) Clock app to control the brightness of display at night time,0
+753_2,"""-Should be able to put transparent (saved in PGN) lockscreens like WP7.5 Notification Center: -Should be able to control the screen when notification center is half open.""",1
+2425,"""Apple has such a form and on the few occasions that I've needed to use it they've generally completed a review in a few hours.""",0
+0_609,"""Ever since you changed the rating algorithm the are apps that can't be found.
+
+This happens on the Windows Phone and Windows store, apps that prior to your changes were making decent downloads are now to 0.""""",0
+3022,"""The Street and StreetNumber property of the MapLocationFinder.FindLocationsAsync() results have no value.""",0
+1817_1,"""If so then the soft search button is not needed and can be removed from being displayed if a hardware button is available.""",1
+1358_7,"""I'm developing an app containing data that a user might want to keep in view for a while, without worrying about accidentally pressing any of the hardware buttons, thereby exiting the current view.""",0
+0_2072,"""A list of my RSS feeds should be available as a public shareable list that I can attach to a cover letter and let the company I interview for create a better picture as a person.""",1
+1489_2,"""This would also be very nice so that you could add a 'create playlist' feature into the music+video hub.""",1
+1718_9,"""Recognition is very accurate, it should be easy to add two buttons for this.""",1
+8935,Currently (as of 8.1) when there is an embedded video in a WebView and the user presses the fullscreen button the video expands to only the extents of the WebView; which isn't fullscreen if the WebView is surrounded by other controls.,0
+0_537,"""I have a problem with a windows phone app, and I have wrote to the support.""",0
+2275,"""There are no keyword searches.""",0
+1366_7,"""the phone language and settings are UK english.""",0
+1690_1,"""_____________________________________________________________________________________________________________________________________________________________________ _________________________________________________________________________________________________________________ ----- ___ChevronWP7______6______coming soon________________________________________________""",0
+0_1508,"""If it is indeed possible, maybe a short how-to in the help section is in order?""",1
+919_11,"""Please provide us a way via the Dev Center to force the expiration of the beta app for all, or for certain users.""",1
+2250,"""It would be better if it was as fast as the WebClient class used in a desktop application""",1
+0_668,"""https://dev.windows.com/Account/Management If you have any question, please contact support.""",1
+1273_13,"""Look at how much Week Calendar from Utilitap have improved iOS for several years before they made a better iCalendar app.""",0
+8199,It would be good if we can at least optionally reduce the speed of the emulator to better reproduce real world devices.,1
+731_8,"""Windows developers need APIs to control TV tuners and display of other digital media on the same screen at the same time""",1
+0_1530,"""make App/Extension/Plugin for all browsers with one click to add feed from any website""",1
+8439,We need the PivotViewer control for WPF and WinRT please.,1
+0_512,"""Well, the 10 apps showing when I search for the title, has NOTHING to do with the word I searched for, and the search word is the exact title of my app, and yet it doesn't show (not at_____ more""""",0
+4254,"""I would like to be able to have screenshots for each and every action for a WinAppDriver like I had with CodedUI via UITestActionLog.html see https://msdn.microsoft.com/en-us/library/jj159363.aspx for what I am looking for.""",1
+1008_1,"""I can not develop, because I can not transfer more than three applications for AppHub.""",0
+0_543,"""Please make developing Augmented Reality (Geo and Marker) apps for all UW Platforms easy and UNIVERSAL with a good framework.""",1
+1507_2,"""Please give that back.""",1
+731_3,"""Unleash the developers power, the Store is going to win!""",0
+1679_10,"""It's quite frustrating to have to go into people, click of search and have to find contact, then dial.""",0
+4539,"""New HTTP Server and HttpListener APIs should be added that surface the failures and request queue state.""",1
+0_1634,"""Reblog support would be nice too but mostly just like at least!""",1
+1028_1,"""Allow background images under the tiles""",1
+777_1,"""But in windows every time we hav to open contact and search name.. Ex.""",0
+1147,"""Now let's say next day the app is opened again.""",0
+1304_8,"""Allow us to query device information from a 100% native C++ application so we are not forced to use C#.""",1
+4581,"""Any media (Audio/MIDI/Video) generator/consumer (be it an app or an hardware device) should be treated as a freely connectable node instead of an hardwired starting/ending point like today.""",1
+372,"""A command like ms-settings:utilities would be very useful.""",1
+803_4,"""Needs copy & paste functions to import export figures in and out of the calculator.""",1
+0_1620,"""It would be super useful if you are able to choose your own default email app.""",1
+0_1619,"""Maybe you could send them an API or something so they can add the option to sync with Feedly once GReader disappears.""",1
+1297_5,"""Hello Sir/Ma'am.""",0
+0_594,"""I sincerely hope it makes a difference (Didn't know where else to give this suggestion as there is no live.com uservoice)""",0
+8902,When submitting an app the store submission process should prompt you to link to documentation for any URI schemes your app includes in the manifest file or mark them as private URIs if you don't want to document them.,1
+0_2005,"""And i play some times with javascript and it's influence by my script but in the extension bar it won't bother my script anymore.""",0
+1850_6,"""It literally takes hours, and it drives you crazy.""",0
+1549_11,"""So with that, I really do appreciate the fact the Marketplace and developer API's allow for demo mode, and I sincerely hope that the underhanded practices mentioned won't slip through in the future.""",1
+4147,"""Because on international keyboards if Right Alt is pressed then Left Control is also pressed?""",0
+2156,Looks good?,0
+6970,Perhaps more developers would build for Windows if they can build their own tools for personal use without so many restrictions.,1
+9225,1) Allow more code to be shared across platforms and,1
+973_2,"""Any up___dates on the nested virtualization?""",0
+750_1,"""The user can then do some function within the selected app (e.g.""",0
+2766, The problem I found is that it currently shows a UI dialog asking for current loged in user credentials confirmation.,0
+843_9,"""http://forums.wpcentral.com/windows-phone-apps/235446-wi-fi-analyzer-possible-wp8.html""",0
+0_915,"""Many professional animation packages can import, edit and save directly in SMIL.""",0
+1002,"""TrySetWallpaperImageAsync only supports a primary display rather than allowing the wallpaper to be set for any attached displays.""",1
+4965,"""There should be a way to define them at once.""",0
+1215_2,"""I want to be able to refund a purchase that a customer made - both in-app products and paid downloads.""",1
+4527,"""I have lots of apps that are just now showing that theyâ¦ more""",0
+6538,"""Also would like to place triggers at oom levels but that is a seperate issue.""",1
+4291,"""The current Windows Audio driver design only allows you to use 24 channels simulatenously.""",0
+1870,"""Please add AllAccountsReadWrite to UserDataAccountStoreAccessType in order to allow to creates calendars on remote calendar providers""",1
+2755,"""User should be able to write style for all the ViewState like Focused Selected UnSelected Normal etc.""",1
+4318,"""Adding this may encourage more developers to port their apps to Windows from iOS and make things more familiar.""",1
+1216_1,"""I need a way to remove files from my WP8 device which have been ""disliked"".""",1
+1307,"""It should have been 2018-02-07 16:06 (or later)""",0
+881_4,"""So what I suggest is give flexible background service for development and notify user while installing the app about the background services that will be running and battery consumption it might cause.And then user can decide to install the app or not.""",1
+753_1,"""Lockscreen: -Should be able to chose a tiny black outline around lettering so you can see what's written properly when you have a Clear/White lock screen.""",1
+676_10,"""I did a report on in app purchases today and noticed that every line item shows an app version of 1.0.0 - which most certainly is not the case.""",0
+619,A few words about problem context:,0
+0_249,"""Much effort was made in WPF Xaml Serialization to decouple it from the presentation assemblies and moved into its own assemblies, System.Xaml, and System.Windows.Markup.""",0
+998_3,"""why not supporting dominated Windows 7?""",0
+1440,"""Can you add the 3D Viewer object that is used by Paint 3D and Mixed Reality Viewer?""",1
+3327,"""Please add an option to get rid of the fade-in animation for opacity.""",1
+0_1387,"""Right now, I can have several Google apps open in separate tabs in Thunderbird.""",0
+967_10,"""I'd suggest to include all Transactions in the Report.""",1
+1761_5,"""Please provide an API that provides access to the texts to allow developers to implement an application to enable scenarios such as reading or archiving SMS messages.""",1
+0_1375,"""I just got the new chromecast - and one of my first thoughts was that it would be cool to send movies from my feeds straight to the TV.""",1
+926_12,"""It opens ad then close.""",0
+1582,"""Allow entering decimal values""",1
+7556,Allow a frame by frame capture from MediaCapture so that developers can more easily create streaming protocols without having to relay on the ugly and poorly documented Media Foundation API for trivial tasks.,1
+0_1597,"""It would be cool if there was a feedly gadget for netvibes.""",1
+793_13,"""When you connect an iPhone to a mac you can view the webview from Safari by going to Develop->Debug.""",0
+0_1739,"""I prefer to see original content most of the time) so along with mark as read / save links there could be URL link which will drive to the original site.""",1
+0_2112,"""The Feedly App is showing me an error since a couple of days.""",0
+0_2088,"""When we want to email news or feed records feedly do it via outlook, it is better to send it via gmail or make an option for it.""",1
+680_4,"""It would be great if you would add a RemoteId to the calendars.""",1
+2813,"""Could you add support of Xamarin.Forms to the Project Rome SDK?""",1
+967_12,"""Currently an evaluation which Downloads were billed at which Price is not possible.""",0
+967_4,"""Please introduce API's for this""",1
+0_1909,"""That is if they have an API for it.""",0
+0_1866,"""Essentially, I'd like to see the ability to add ""All"" to an external application, such as Desktop Ticker by Mike Batt """,1
+0_1407,"""I find it easier to keep up with my subscriptions in Feedly than in YouTube!""",0
+340,"""Nav View should be more integrated to the application so that the app is consistent.""",1
+0_570,"""Please could you organise them and put them into categories e.g Snapchat with social media etc.""",1
+1685,"""There are situations where you might want to interrupt navigating away from a page when using NavigationView.""",1
+2381,At least we're not totally in the dark in a limbo where we don't know if the issue is just a transient one or a serious one and we have to way days.,0
+0_680,"""This needs to be fixed.""""",1
+0_1648,"""This is just one example of many so it seems to be a problem with opening in the browser only.""",0
+6919,Unfortunately this means the app is a none-starter because the files can be several gigabytes in size so it kills the user experience everytime they try to open a file.,0
+1035_3,"""Please, add SAP (Sim Access Protocol) Bluetooth protocol.""",1
+853_1,"""It would be cool to allow the ApplicationBar to have more icons available.""",1
+1666_2,"""QRCode should support chinese""",1
+969_9,"""Add the ability to see lyrics of music files in the music application for running music""",1
+1807,What does the Desktop Bridge do differently?,0
+1212_4,"""Another option is to do this with the featured apps in the marketplace.""",1
+1297_7,"""I mean we can access system files, registry etc, Like we can do with our PC.""",0
+0_1729,"""This function might change the independent news market in a similar way as Amazons Kindle unlimited did to the book market and might attract both readers and authors to sign up for a feedly account.""",0
+0_341,"""While most organizations will allow in-store apps, it's still going to be very inconvenient to deploy apps through the app store for many reasons.""",0
+0_1688,"""(Pages created with Wordpress allow this.)""""",0
+750_2,"""add a filter, crop, etc), and then the opened app can pass that edited file back to my app.""",1
+4723,"""Add a UserNotificationChangedTriggerDetails to UserNotificationChangedTrigger background task with at least:""",1
+1737_1,"""Enable user apps to use the Bluetooth hansfree notification just like when receiving a SMS on 7.5 while the phone is connected to a handsfree.""",1
+3534,"""It would also be good for tracking the causes of uninstall spikes etc""",1
+0_1944,"""It would be great if there was a way to see all of the content I'd see in google+ via the API, and present it in feedly.""",1
+7996,Also the scroll viewer should have options to disable overscrolling effect.,1
+3782,"""Following data would be great:""",0
+1146,These are displayed if the user scrolls down (Incremental Loading Collection Helpers are great addition).,0
+852_2,"""Potential scenarios: - Developer doesn't have SLAT on their machine and wants to run the VM on a SLAT capable machine/server - Developer is running their dev environment in a virtual environment (e.g., local Hyper-V, remote Hyper-V, Parallels) and wants to run the emulator in another child VM on the same physical host they are running on (since she can't run a VM inside of a VM) - The ability to run a dev environment fully remote A developer should be able to run an emulator instance outside of the developer's environment, and be able to connect/deploy/debug into that remote VM.""",0
+6728,Instead we could get everything ready locally and do a push and upload it all quickly.,1
+4669,"""Add this for Side-loaded or enterprise distributed apps on Desktop devices""",1
+1807,"""What does the Desktop Bridge do differently?""",0
+780,Transferring large amounts of data (10kB) takes way to long when transferred via BLE using native windows functionality as the min connection interval seems to be quite large.,0
+810_1,"""It's some idea, please VOTE !!!""",0
+4639,"""Why dont we support AdjacentToTopDisplayEdge and AdjacentToBottomDisplayEdge too ?""",1
+0_364,""";)""""",0
+1359_3,"""I really really loved the Now Playing Screen on the Zune HD (Like the current Zune Software) with information and stuff moving over the artist background, which panned.""",0
+3349,"""Please add the ability to access the rendering pipeline to the MapControl class.""",1
+1183,"""Adding Visibility property on Expander and making the header Invisible will make the panel looks like it is sliding into the view.""",1
+146,"""It appears that garbage data (from the stack I assume) is being used for the value `curInlineLength`.""",0
+1358_4,"""If Windows Phones are to compete they have to acknowledge the big selling apps, or they risk losing market share rather than gaining it.""",0
+3566,"""Since I developed an application which could massively profit from those APIs as they allow volume control etc I wanted to use them.""",0
+8808,It would be greater if we could disable the close function while doing important tasks like writing to the storage or similar.,1
+0_2055,"""The RSS markup of these feeds identifies the author (e.g. ""dc:creator""), use that to set the author attribute for the Evernote note?""",1
+0_1711,"""Feedly has a user friendly interface with a pretty reliable search function and share options to several other applications.""",0
+5502,"""At least please provide app price conversion list between USD and local currency.""",1
+1436,"""MarkdownTextClock should provide LinkCommand alongside LinkClicked event""",1
+9159,Let me be able to see the reviews that are added or app crashes so that my attention towards them grows infinitely large.,1
+803_4,"""Needs copy & paste functions to import export figures in and out of the calculator.""",1
+109,"""Please make the (Fluent) design toolkits available for Affinity Designer.""",1
+909_13,"""Build support for bullets and numbering into the Paragraph class with properties something like this NumberStart int, -1 = inherit from previous run NumberStyle enum {None, Bullet, Arabic, Letter, Roman} NumberFlags enum flags {UpperCase, DottedLevels} NumberLevel int Make NumberStyle default to None and all this is non-breaking.""",1
+3288,"""Aside from my personal dilemma of a missing device it would definitely make sense to be able testing code in an emulator first instead of having lots of hardware around all the time.""",1
+5100,"""It would be nice to have a command-line tool to submit apps to the store.""",1
+917_9,"""It should be able to do this!""",0
+1623,"""Currently it is impossible to implement context menus save files and implement other functions general web browsers have.""",0
+1358,Uservoice already have it.,0
+812_9,"""Microsoft has to understand that refusing adequate support to developers will strike back as thousands of customers, who are using that same publisher's applications will be left without further updates and improvements.""",0
+1038_4,"""Aplicativos em portugu__s e bloqueio de chamadas""",0
+889_1,"""To get the latest version....""",0
+8111,Give the power to the developer to decide if a page is allowed to use the ScriptNotify event or not!,1
+279,"""I contacted support and they can't delete them either (SRX1418420784ID)""",0
+0_1819,"""Some libsyn feeds don't link to the libsyn item but rather the audio file directly.""",0
+721,"""The problem is that all these controls have different properties for the text content:""",0
+1230_1,"""Now on Windows Phone 8 when we have 3 resolutions taking screenshots may take a lot of time.""",0
+8755,It would be nice if more recent reviews would have more weight in the total score of the app.,1
+0_2072,"""A list of my RSS feeds should be available as a public shareable list that I can attach to a cover letter and let the company I interview for create a better picture as a person.""",1
+1704,"""I'm currently trying to convert an application that contains some of the CoreUtils utilities (most notably [.exe and ].exe).""",0
+859_2,"""Ideally I would like to see a graph with both #of purchases and purchase price plotted against time, this would allow me to quickly see a change in rate of purchase___ more""",1
+8929,There need to be a business app settings launcher native in the API.,1
+1784_19,"""I think we need Completed event and something like SmsResult that can be used.""",1
+422,I'm guessing this is a bug because it doesn't produce an understandable exception.,0
+2760,"""It would be nice if there were an option somewhere where you could reboot your system straight into the BIOS menu.""",1
+875,"""Each time I sit down the display setting for the external screen is to clone but I want it to be extended.""",0
+114,"""now it's readonly""",0
+9481,I would like to have a reminder system (API) that allows me to know if the phone is near a phone from a friend (location based).,1
+812_6,"""Azure support system is a very good example how this should work.""",0
+5231,"""It should be possible to create Visual Studio Centennial Project in WinForms WPF Win32 MFC etc which should also allow mixing of UWP Code (Like XAML UI) with full interop between native and UWP Platform.""",1
+1323,"""Following the comments on the blog post for AF_UNIX it would be nice to see SOCK_SEQPACKET and/or SOCK_DGRAM support.""",1
+0_194,"""Need capture all the http request or resource request, such as : http request in js, css, image resouces file_____ http request includes get or post request(url and body) While android and ios can do it.
+""",0
+4128,"""I use IMFSourceReader on UWP and noticed following bug with FLAC decoding: it will not change position if SetCurrentPosition will be called right after initialization.""",0
+2390,MapControl crashing whole App with the following stacktrace:,0
+0_1318,"""I couldn't find any option in Feedly Extension to turn this off, So I've turned background apps off in Chrome, but would rather this be an option in Feedly""""",1
+3795,"""Make scroll viewers and lists support gestures to scroll to bottom or to top at once.""",1
+1580_7,"""http://yves.vg/testcases/ie_mobi/keyup_event.html""",0
+747_2,"""But when I'm trying to install the app I'm getting an error.""",0
+325,"""Press button Show selected view as standalone and app is chrashing.""",0
+4770,"""We need a way to have a system wide overlay notification.""",1
+0_1766,"""Add a drop down menu of the sources with number of unread items in (), list the latest unread articles in a scrollable manner and add a ""mark all as read"" button and the link to the feedly reader.""",1
+4960,"""It would be great if MediaControl supported webm format!""",1
+8504,Be responsible and give more & specific details why an app failed rather than pointing a policies which talks about several things.,1
+1587,Format numbers with commas on thousands (i.e.,0
+383,For user the sensors are the different places and ways to touch in space having XYZ coordinates like:,0
+6859,A Bonus would be to be able to set a link for all users (incl. .Net API preferred at least Win32 API,1
+0_1405,"""Perhaps a similar situation could be made with feedly.""""",1
+4090,"""Net standard should be used by UWP and not limited by it.""",1
+1629,"""Switch the default to LF style line endings in the whole operating system!""",1
+1271_1,"""I understand the reasoning for not allowing the user to have access to the Mailboxes in the phone, but there should be an API to enumerate through accounts and get their statistics, like the number of unread emails, number of important emails, and the total e-mail count.""",1
+0_1986,"""I just click subscribe and they appear in my feedly.""",0
+1435_5,"""Users are reporting a 1-2 day___ more""",0
+889_7,"""This is an issue when the application returns to the foreground and ActivatedEventArgsIsApplicationInstancePreserved == true, because all application memory should be intact.""",0
+1498_5,"""____________________________________________________________________________î_________________________________________________________wp___""",0
+995_16,"""We want candy crush to Windows 7.8 and Windows 8 plz Make this app""",1
+698_2,"""I believe that other kinds of automatic measures could be taken, but I only remember these 4 because I ported a very simple app.""",0
+1515_3,"""If an app can not be found with its ideal keyword (becuase over a hundred apps already have used that search term) then new apps cannot be found with their ideal search terms.""",0
+381,"""For example an IsSelected property could be added to a TreeViewNode or a function like selectNode(TreeViewNode) to the TreeView.""",1
+966_3,"""There is no user interaction here, so we would like to be able to set the expiry to never for our background tasks in this scenario.""",1
+9055,I would like to have an option for each SkyDrive folder to make them available offline.,1
+2210,"""We could also be able to start tracking packages directly too.""",1
+2782,"""Add shadow option to XAML UI Elements.""",1
+1261_2,"""I strongly think that more background color's should be there, like instead of just black and white, have blue, red, green and stuff like that and more accent colors 3.""",1
+847_9,"""Include a PixelHeight and PixelWidth as optional parameters so an aspect ratio can be included.""",1
+812_4,"""Windows Phone Support team can simply refuse further communication and everything stops there.""",0
+1088,"""It would be extremely helpful if we could create a custom dictionary/word list/constraint as we can already with Speech recognition as it was possible in the old Microsoft.Ink API:""",1
+967_15,"""The cover of the live tiles will be like a bottle of chemistry sort of.""",0
+0_1625,"""I cannot tell if this is a problem with Edge or with Feedly.""""",0
+1050,"""For now we have no option but to re-build the app to a non-Microsoft environment.""",0
+3560,"""Without APIs you are losing customers to Android/iOS as many people would love to have apps which can control their volume system theme etc.""",0
+969_7,"""I'd like to know what rank my app is in each country and category in the app store.""",1
+2612,"""Accessing this information through an API would be useful for creating automated KPI reports.""",1
+0_137,"""The issue gets complicated when the users owned the app via a free promo and Support may not be willing to restore the purchase using this method.""",0
+1841_15,"""I need to write to a bitmap which is very painful (imagine a vnc client for example) on windows phone right now, so please support the Copy- and WritePixels methods and some others.""",1
+1426,"""Based on this it also could notify the user at first app-start like it is done with the camera access.""",1
+0_761,"""Use DirextX interop.""",0
+7730,I think the credentials needs to be deleted with the app uninstall.,1
+793_5,"""I think it should have been thought more to be like BB10 Hub.""",1
+1004_2,"""Not sure if this is the right category, or even the correct site to post.""",0
+2243,The proposal is to add something like:  // Something happened update your UI or run your business logic,1
+311,"""Upon a person next logging into the device it would be nice to be able to have the app restart automatically too.""",1
+0_1456,"""yes, i want feedly to replicate google reader... but I want it to do more.""",1
+6081,"""If Microsoft really wants to get into the IOT they should really support version 4.2 with IPv6 communication over Bluetooth""",1
+0_2126,"""Also, would be nice to be able to send an article to Pocket from the list view without having to open the article.	""",1
+3719,"""There are genuine use cases when we need to keep an app running when close button is pressed.""",0
+3255,"""the Kinect) and seeing if it supports things like ExposureControl.""",0
+1669_2,"""I think there is much people who havent got credit card, and can't pay for the games.""",0
+0_1344,"""IE8 is too old and probably too many hacks to support it.""",0
+0_2058,"""Could Feedly also set these note attributes when exporting to Evernote?""",1
+0_1474,"""Login should go through the Google account stored on the Android device.""",1
+0_2014,"""API connectivity to all ""Google Apps for Work"".""",0
+3193,"""Please bring all languages to Cortana for IoT because are needed to create devices for interacting people from around the world.""",1
+8721,But why not allow it to be used locally by sideloading or through the emulators?,1
+1819_2,"""Allow apps to be hidden/visible in the store without having to go through the whole update process.""",1
+884_13,"""Please provide a API to get the signal strength of a particular Bluetooth device, so that we can estimate the distance between Windows Phone and the device.""",1
+0_1801,"""However if I then click on sharing and google plus, it opens in safari.""",0
+0_1854,"""When I save an article to Evernote, the resulting note is the text and images, but not what the webpage looks like.	""",0
+1504_2,"""So that we can perform some other function within our app on the basis of notification type means call,don't call, end call.""",0
+2111,Compact overlay window is always shown at the right-top corner.,0
+0_1902,"""Due to the way your article popup is positioned, its """"close"""" button sits directly above the side pane.""",0
+311,"""Upon a person next logging into the device it would be nice to be able to have the app restart automatically too.""",1
+1258,"""99% of the applications they install aren't (and won't be!)""",0
+0_1759,"""Because feedly's swipe action moves to the next feed, its not possible to view the slideshow.""",0
+0_2023,"""So prey make it clear that this functionality does not exist or tell us how to import a and OPML list?""""",0
+1713_8,"""There is no option for hard and soft reset""",0
+8962,Just remove the timeouts completely or at least increase all timeouts by a factor of at least 5 - its not a big deal to implement.,1
+791_5,"""i would like to be able to tell the system to always open with skype.""",1
+673_1,"""Also, please allow onedrive folder to be stored locally like winrt.""",1
+738,"""In webb for HoloLens Running apps section should have a column that tell the user account under which a app/process is running""",1
+1087,For some languages - Chinese for example - ink recognition results tend to have lots of errors.,0
+1377_1,"""Moreover, recently GeoTrust claimed us to cancel US registration (current one) and re-register as Russia.""",0
+0_374,"""I have some great ideas and working on this since some weeks, and when I tried to implement scheduling I was surprised to see that this is not available on Windows.""",0
+977_2,"""this feature is very annoying as it keeps changing my words for me and i don't want that.""",0
+0_666,"""Please modify like this. """"",1
+1784_3,"""An editor (like properties/settings) would be great.""",1
+1514_14,"""I love being able to share short text messages quickly by ShareStatusTask.""",0
+1017,"""I'd like a user voice where we can request certain software be added to the windows store.""",1
+1861_8,"""Until Windows [Phone] 8.1 this part was too painful and took a lot of time and work.""",0
+5492,"""Something that would really give the MapControl a leg up over ESRI would be the ability to create a ShapeFile object and pass it as a parameter to something like: MapElement.CreateElementsFromShapefile(shapefile) and get a list of MapElements that could be added to the map.""",1
+1359_2,"""Not really sure where to put this, so i'm going to ask here.""",0
+9279,The app should have more advanced options for scheduling when and how often it will run in the background perhaps by setting a different interval for different days of the week or times of the day or by specifying the time until it will run again each time it runs.,1
+1440,"""Can you add the 3D Viewer object that is used by Paint 3D and Mixed Reality Viewer?""",1
+9092,Having users enroll their phone using the same mdm client no matter the vendor is a nice idea.,1
+0_1519,"""It should warn me.""",1
+8796,It would be also cool to allow for more than one application bar per page so you could specify one at the top left bottom or right.,1
+0_1752,"""Please create and host a flare unit and provide the URL for bloggers to easily add this option for their readers who use Feedly.""",1
+3393,"""We have a MediaPlayer that works with OneDrive MKV streams in previous versions but not in Creators Update.""",0
+746_2,"""I would like Microsoft to open up this framework to all developers.""",1
+3598,"""A toolbar stacks items from left-to-right and it would be great to have such a toolbar in UWP like we have it today in WPF and several other desktop programming models""",1
+1444_1,"""____________PictureHub_______________Music+Videos____________________________________________________________________________________________________________Video______________________________________________________________________________________________________""",0
+0_65,"""A designer may keep tweaking the source image and must keep generating that XAML.""",0
+1284_1,"""It would be very helpful the same functionality also in the Windows Phone emulator.""",1
+0_1858,"""Also, if it's possible to override save for later to pocket.""""",1
+1138,"""Compile the app and the Xaml compiler throws the exception.""",1
+4212,"""The only work around I found for the sample app was to unsubscribe from the event in the shell when the frame has navigated and then subscribe to the event again in theâ¦ more""",0
+1809_8,"""I request that the MultiScaleImage library to be able to access isolated storage.""",0
+740,I am looking after a solution already over a decade for 3D mouses working over Windows Remote Desktop Connection.,0
+2364,"""You will don't have to do these checks if this artificial requirement is removed from DX11 API.""",1
+703_4,"""From there, everything is taken care of for me.""",0
+0_265,"""Should I just assume that spamming multiple apps is ok and do the same in order to compete?""",0
+4569,"""Windows should allow users to freely redirect media (Audio MIDI even Video someday I guess) from/to the Hardware(audio interface webcam etc) and/or Applications (even considering The Desktop as a video+audio media generator).""",1
+8885,It would be extremely helpful if the reminder/alarm API supported creating a reminder for specific days of the week.,1
+0_673,"""_ more""""",0
+399,But when user tapping 'x' button on Sets window ( https://i.imgur.com/WZiITQ6.png ) the event not raised correctly.,0
+814_6,"""Please develop a new type based on string(i.e.""",1
+2804,"""This makes for problems with things like:""",0
+0_1657,"""You reader is nearly unusable with tools that allow mouseless browsing (vimperator, pentadactyl), please replace all links you emulated with divs (eg menu on the left) with real hrefs, so these are found by such tools.""",1
+1274_2,"""It has a new feature to add a route that will be displayed under street names.""",0
+0_259,"""These lists are are broken, so there is no actual way to find games you are looking for by category as most are only showing a handful of games per category.""""",0
+2113,"""We need backward compatibility for XAML just like Android for example we can just use NavigationView without any conditional check at all.""",1
+1216_2,"""Since apps aren't allowed to modify files on sd cards I wanted to write a desktop sync app that would examine the device for any files that have been ""disliked"" and then remove them.""",0
+1057,"""The wireless card worked well till windows 7.""",0
+954_2,"""Please provide full access to the ContactStore, eg, updating, deleting etc.""",1
+906_3,"""Skype contacts are cluttering up my people app and the only way I have found to delete them is to delete them on my desktop and then reset my phone to factory defaults.""",0
+0_91,"""In my view, and I can see from the forums and user voice channel that I am not alone in this, the Store search provides a poor customer experience by not catering effectively for use case two.""",0
+1817_1,"""If so then the soft search button is not needed and can be removed from being displayed if a hardware button is available.""",1
+1774_1,"""Can't really use my Omnia 7 untill volume update :( Media volume on Omnia 7 is fine, not as loud as I___ more""",0
+947_5,"""I have website that run media on wp8 without need to coversion, however the only media data source available is YouTube, we need customization to add URL of websites.""",1
+911_9,"""Why don't you use the WinPho style?""",1
+966_4,"""The only workaround just now is to keep track of when tasks were set up and send the user a toast to get them to click and activate the app.""",0
+0_1461,"""Feedly client doesn't support Android 2.1 so I was forced to use alternative Android apps.""",0
+4824,"""To do so it is crucial we can remove the Close button or complete TitleBar from the TabTip keyboard.""",1
+1469_4,"""That is irritating actually.""",0
+1827_2,"""We need a beta store for windows 10 apps for selected internal testers only.""",1
+4076,"""We like a number of the benefits the store offers but it seems without a way to build an list of our clients independent of Microsoft (or anyone but us for that matter) is KEY.""",0
+562,When I've already created a dedicated thread anyway off the main UI for processing I don't need nor want WinRT API's spawn even more threads.,0
+0_2109,"""I have toy disable the extension.""",0
+4049,"""We have a uwp in the store and a desktop companion app.""",0
+1518,"""When you invoke the primary or secondary buttons in a ContentDialog you are not losing focus in the control that was last being edited.""",0
+26,"""Pornographic and sexually explicit needs to be well defined.""",1
+2348,""" set depth writes enabled or disabled set other state changes make the draw call""",1
+840,""" - resize the windows explorer window to something like 300px to 300px""",1
+3824,"""The MapControl is quite limited in operations with custom tiles.""",0
+3632,"""So I suggest that you bring the HierarchicalDataTemplate to UWP.""",1
+1129,"""But in my case i want to print receipt and don't want to show the receipt in the screen and just pass the bitmap image of receipt to POS Printer.""",0
+3338,"""I saw new post and I confirmed that the problem was fixed following URL.""",0
+799_3,"""Put back all games in games folder""",1
+0_888,"""I suggest these new maximum lengths: title 500 characters, description 10000 characters (same as for app description).""",1
+2030,"""When I traced down some new crashes I found that Socket.ConnectAsync is trying to call this function and failing because it doesn't exist.""",0
+0_826,"""A property should be available to bypass 5.1 audio to receivers.""",1
+0_1778,"""Unfortunately, Feedly's OPML support is artificially limited to Google Reader's exact OPML format, but there's no reason we can't expand it to handle NewsBlur's OPML download format for importing into Feedly.""""",1
+867,"""How about an option to automatically delete the automatic checkpoint when the machine starts?""",1
+1032_1,"""The Silverlight textbox doesn't support this kind of scrolling, and forces the user to long tap on it until the caret appears, then move his finger to the sides of the textbox.""",0
+844_1,"""a German review should only be shown in Germany (and maybe in Switzerland and Austria).""",0
+2924,"""However now I'm stuck using DXGI_FORMAT_R8G8B8A8_SNORM""",0
+9437,It should be an option to remove the ru language code from my app 'language History'.,1
+0_472,"""Please add the support of Audio Effects (e.g. Equalizer etc.) to the BackgroundMediaPlayer API.""",1
+0_1608,"""See attached.""",0
+2026,"""Please make sure the P/Invoke either points to a Windows API allowed in UWP applications or a native DLL that is part of the package.""",1
+1013_4,"""Why only have static country of registration there.""",0
+1779_12,"""Plain Text is not for professional apps today.""",0
+2468,"""The closet option is to launch it FullScreen but that obscures the task bar.""",1
+498,"""I hope this helps!""",0
+1701_11,"""3.- Share variables between applications in something that could be called ""Desharrapamientos"" instead of ""IsolatedStorageSettings"".""",1
+4099,"""WinRT information: The maximum number (1000) of items in the access list has been reached.""",0
+1875,An idea could be extending Desktop App Converter tool in order to manage VSTO add-in.,1
+0_1853,"""Integrate Twitter cards on article preview page, so that when viewing an article that has an embedded twitter card with all its information, it shows the card instead of plain text.""",1
+947_4,"""Add customized website other than YouTube for media on windows phone studio app website.""",1
+8778,It would be helpful to be able to launch the calendar for a specific day i.e I tell the user you have x appointments today - Would you like to review them ?,1
+2413,"""Although it seems CustomAudioEffect is running on Worker thread not UI thread it seems media playback would also be impact when UI loading a bit heavier.""",0
+1737_1,"""Enable user apps to use the Bluetooth hansfree notification just like when receiving a SMS on 7.5 while the phone is connected to a handsfree.""",1
+1045,"""In debug mode it all works fine.""",0
+977,Issue: I developed a Desktop application saving files with different formats with the same file extension (using SaveFileDialog and FilterIndex) and currently UWP would not allow me to convert the application from Desktop without adding additional menu options or dialogs so the user can chose what he/she wants.,0
+1083,The MS Edge is incompatible with my LTSB system.,0
+1032_7,"""You should be able to select, from a drop-down menu or text box, how much memory is required for your app to run, or select what devices to test for.""",1
+8426,It would be great for a permanently running app to have an API which notifies it when an update is available to notify when an update is forced to permit the app to check for an update easily and also to permit the app execute the update.,1
+790_5,"""Currently it is supported on Windows Phone only.""",0
+1296_3,"""Today I can't instantiate a Mappolygon in an ItemControl from XAML.""",0
+1462_3,"""Is that in the upcoming roadmap?""",0
+847_2,"""Setting time for a new reminder in the calendar app is not possible.""",0
+4991,"""While this could be also a fix for Roslyn System.Runtime.CSharp.Analyzers the generated Bindings are not the owner of the disposable fields and should just ignore the warnings.""",1
+388,"""And when you type GlyphUri in the VS XAML Editor and type equal sign it pops up an opinions menu to open a FontIcon Wizard.""",0
+6405,"""I would like to recommend adding the ability to upload screenshots in 1080x1920 pixel size.""",1
+79,"""And using that string the api may activate the command like cortana does when you say Hey cortana  MY COMMAND but without voice interaction.""",1
+7251,The only way to detect it is by looking for UnauthorizedException but that exception is ambiguous.,0
+0_446,"""Thus one has to manually dig through MSDN to find the correct signature.""",0
+1336,Others may find this annoying.,0
+1719_5,"""currently we only have the choice of hearing the voice notification in headset when the ring+vibrate is selected which also ring the phone.""",0
+672,I cannot report my problems from dashboard so I do it here.,0
+2468,"""The closet option is to launch it FullScreen but that obscures the task bar.""",1
+1584,"""Format the text with a specific number of decimal place (i.e.""",1
+1244_2,"""If you are browsing web in your app and you reach a site protected by basic auth the control stops working.""",0
+125,"""The error is in error.""",0
+898_5,"""Update the WPDEV feedback app.""",1
+796_10,"""Reasons to transfer an app: - Transfer ownership to a different person or group + Ex: An app is purchased by a different company.""",0
+797_3,"""The copyFolderAsync method is missing in WinRT for some non-obvious reason.""",0
+696_1,"""2 - I use SettingsFlyouts and I took some time to replicate them as pages in the Windows Phone project.""",0
+1598_2,"""Display HTML that users can interact with (i.e.""",1
+1859,"""The VM is able to ping both public addresses and corporate addresses; however it is unable to resolve names on either the publicâ¦ more""",0
+8306,It would be nice to have such an API in WinRT so we don't have to resort to native DirectX each time we need something more than a couple of shapes.,1
+7651,Suggestion: Introduce a system with trusted developers who can release apps as quick and easy as it is now.,1
+2009,Imagine writing text directly into the TextBox or RichEditBox canvas without the Ink-Keyboard-Overlay.,1
+0_1444,"""A Chrome/Firefox extension that shows a counter of unread items, with a dropdown that lets the user see the items.	""",0
+2387,"""At least we're not totally in the dark in a limbo where we don't know if the issue is just a transient one orâ¦ more""",0
+2602,"""To recreate paste the below XAML into a blank page and run (be sure the app is configured to use Dark theme).""",1
+1165,"""In my opinion developers should not have to do this to prevent multiple unintended events from a control.""",1
+665_2,"""It should be an option to remove the ""ru"" language code from my app 'language History' or an option to completly replace: Fully replace the prevoius(es) xap(s).""",1
+9123,All uesr want to find fast their contact when they must call so it's very good to insert the fast search on phone dialer it's good that the user can choose the better method to search like name or/and surname or/and Address etc...,1
+882,"""It'd be great if we could chain functions together in x:Bind to create more complex expressions.""",1
+0_1809,"""Seems kind of pointless for those who don't have a Buffer account (nor want one) to have to create an account, and have it be the middleman between Feedly and Facebook.""",0
+0_813,"""Requirement: Phone automatically set ringer to vibrate when crossing a geofence or at a specific location.""",1
+879_8,"""However, currently no WP8 platform component seems to support SSL certificate pinning.""",0
+683_6,"""Although it is possible to define custom ETW events, and to generate those events, the publicly available tooling does not currently provide a way to get access to these events.""",0
+0_875,"""This might require some processing on the part of Microsoft in the form of custom """"server"""" processing of incoming and outgoing data, but Microsoft could add an additional charge for apps that take advantage of this feature to cover cloud computing/storage costs.""",1
+1760_6,"""The general concept of a ResourceIntensiveTask being launched when constraints are met is strong but the implementation could be greatly improved.""",1
+1743_1,"""Would give Windows Phone more exposure, especially when Xbox users can see all the Xbox Live games for Windows Phone availiable.""",0
+3016,"""So if I click on a device it will open the app on that device with the same artice.""",0
+1244_1,"""It would be helpful if we have an equivalent API available in C++.""",1
+0_2047,"""Safari 7.1 seems to have broken the toolbar.""",0
+1598_1,"""u guys need to fix that or i will buy nokia 3110 which is way better than this sht!""",1
+0_1838,"""make feedly more sandboxed""",1
+1679_2,"""Solution is to call this method in an override of onNavigated method.""",0
+6721,The keyborad should also be customized like the gadget comfort on-screen keyboard in windows 7 (desktop).,1
+1769_4,"""I really want this features because its useful in many ways.""",1
+1223,On UWP for x86-64 ARM and ARM64 it's not possible to comply with the Windows ABI when generating code at runtime because you cannot generate the mandatory exception table data for the dynamically-generated code.,0
+986_2,"""Add them, please, to API.""",1
+1584,"""Format the text with a specific number of decimal place (i.e.""",1
+5381,"""Would be nice to have a market place of beautifully designed apps submitted by independent developers.""",1
+900_1,"""I think Windows Phone should make that happen in conjunction with their supporting Xamarin... and potentially hire me as a developer to help.""",1
+1020_1,"""Nobody hepls me about this topic in Turkey :( I think it's Microsoft USA's problem :) When Windows Phone Developer Account started, Turkey is not in the list, so I Choose a country for continue.""",0
+684_3,"""Please get back the old OneDrive integration to windows phone 8.1.""",1
+888_1,"""I get the following message: You don't have a supported version of silverlight installed.""",0
+0_1963,"""When viewing feeds from dribbble.com, I would like to have a 'Like' button that is integrated with the 'Like' mechanisms from their site""",1
+850_5,"""Please come back with previous solution.""",1
+922_3,"""Cant believe this isnt possible.""",0
+1500_6,"""I think many apps that need to generate a tile dynamically will encounter this issue.""",0
+1284_1,"""It would be very helpful the same functionality also in the Windows Phone emulator.""",1
+6081,"""If Microsoft really wants to get into the IOT they should really support version 4.2 with IPv6 communication over Bluetooth""",1
+463,This package does always crash after side loading it.,0
+945_1,"""Implement a free app of the week deal like apple does with ios""",1
+8194,Make necessary conditions so that developers choose proper (representing application )high quality images as application symbols in store matching modern ui,1
+0_1381,"""The OPML export feature should include tagging data.""",1
+1759_1,"""(ie like Windows scheduled tasks or linux cron jobs).""",0
+0_2001,"""I use Evernote to store all of my note and picture from web pages.""",0
+303,"""This data is critical to resolving customer issues.""",0
+0_1376,"""I know I can watch them via mirroring on the computer - but something more native would be appreciated.""",1
+1359_7,"""When we are on call and @the same time I want to look up for a number from phone book, I can't do it right now.""",0
+693,"""This is contrary to the docs and to expected behavior.""",0
+1841_5,"""When I create a paid app with a trial option, many users blow right by it because it doesn't show up in the ""free"" category even though a light version of the app is free (via the trial).""",0
+1029_1,"""...to show a map of satellites contributing to the fix""",0
+9358,Please provide a PhotoCropTask that takes an Image(Byte[]) and provides the same crop tool.,1
+978_7,"""Windows should allow additional user accounts added to track & review the application review process similar to what Apple and Android apple stores allow.""",1
+1488_1,"""When sending the message the receiving port is choosen randomly by the windows phone.""",0
+8438,Would become even more useful if say i could share to reading list from chrome extension or mac desktop or iOs.,1
+1207_1,"""Improve microsoft account login usability in app.""",1
+1679,a Cancel boolean on the event args of the ItemInvoked event.,0
+792_15,"""So I have to stick to sliverlight8.1.""",0
+995_2,"""Fix Altitude Bug in GeoCoordinateWatcher and Geolocator when using in WP8.""",1
+873_3,"""The store is unusable.""",0
+926_6,"""I want to be able to control the balance of the audio I play back with the BackgroundAudioPlayer.""",1
+8961,Everyone in the USA has nice upload speeds possibly but not worldwide and I presume Microsoft would wish to enable developers from other countries also to be able to use their dev center.,0
+2359,But I just stick to normal depth writes D3D11_DEPTH_STENCIL_DESC.DepthWriteMask,0
+958_1,"""hope you all able to update the Facebook Apps for Window 8 ,, as the chat room ( message ) not able to download file attachment like Words, Excel ... to maximize the utility of Microsoft Office usage, you all should included the function of downloading file attachment to allow user like me to have wide rage of office usage..""",0
+0_335,"""Secondly, we have many versions of the same application deployed to different customers.""",0
+844,"""To fix it just resize the window to a bigger proportion of the screen when is not fullscreen and then maximize it again.""",1
+0_95,"""Conversely, new apps that are not yet popular would be unknown to consumers, and so would only be found when a user browses categories in the Store or searches for apps by functionality as in use case two.""",0
+4804,"""Keep in mind the limits: 100 Command elements in a command set; 10 ListenFor entries in a command; 50 total PhraseList elements; and 2000 total PhraseList items across all PhraseLists.""",1
+9244,Allow the phone to be used as a mini presentation device.,1
+2176,"""And also in full screen I would expect transport controls to ignore safe area...""",1
+912_3,"""I cannot, for example, highlight a friend when I'm trying to tell something to him in my post.""",0
+3140,"""I belive that Store should control the SDK level more grained.""",1
+881_4,"""So what I suggest is give flexible background service for development and notify user while installing the app about the background services that will be running and battery consumption it might cause.And then user can decide to install the app or not.""",1
+0_2105,"""include outsidethenest.net, please.""",1
+1661_3,"""As an alternative to giving write-access to calendar (which can be hard to get a go on for security reasons), let us at least open an appointment directly in the calendar app.""",1
+917_14,"""On my What's new panel in Contacts I want to see posts from Facebook from people that are ""subscribed"" (followed) and not for all friends.""",1
+2386,"""Cam'on we need a service status page with we have issue we're working on.""",1
+0_355,"""The problem is: If I search """"Google Analytics"""" in Windows 10 mobile Store the app is not in the first 5 results.""",0
+0_888,"""I suggest these new maximum lengths: title 500 characters, description 10000 characters (same as for app description).""",1
+0_2124,"""but, the feedly mini icon is not shown on the naver blog such as http://panboy.blog.me or http://blog.naver.com/panboy""""",0
+0_1459,"""give me ONE place to consume everything, but only see it once (unless I save it). """,1
+988_2,"""On IOS, you can create a twitter aggregation of users and or topics to be shown on one screen.""",0
+1326_1,"""In Windows Mobile 6.5, this library exist, and it's very good for retreive lot of cell tower informations ( Cell ID, MNC, MCC, LAC, IMEI, IMSI ) lot of information we do not have access with Windows Phone!""",0
+884_4,"""=[""",0
+0_578,"""Also the 'more from' publisher was an easy way for the developer to promote one's other published apps.""",0
+0_1619,"""Maybe you could send them an API or something so they can add the option to sync with Feedly once GReader disappears.""",1
+0_1981,"""I saw a TV Preview for a Show next week and I want to be reminded regarding this feed entry.""",1
+1352_2,"""Copy this text, and paste it to the ""To:"" box in the New Message Expected : 1234;5678;9012; Actual : 1234;5678;5678;9012;9012""",0
+3260,"""I've noticed that when you create a DataPackage containing both data provided directly (let's say text using SetData) and delayed formats like a bitmap (using SetDataProvider) when closing the application the whole clipboard content is cleared.""",0
+2606,"""When I set Center with property or with TrySetViewAsync map changes altitude based on height of the object below""",0
+1215,and the user hover overs the seekbar with mouse or pen or any other input device for that perspective wherver is the user mouse show a small thumbnail of the video file at that specific position just above the seekbar ( slider ) and as the user moves the mouse along the seekbar the thumbnail should update accordingly.,1
+0_165,"""There are other panels in the UWP that do something similar, like the WrapGrid, but this doesn____t work well if the items are variable size.""",0
+0_2028,"""Like many others, I want to add some Twitter feeds as RSS feeds.""",1
+1387,"""Incremental Loading: I know this is already in the community toolkit.""",0
+1491,"""Recommendation: add a parameter to ShowAsync that positions the dialog relative to the main window of the app (centered left right bottom).""",1
+995_1,"""I know we can pass string in the URI but come on we are creating native apps not web apps that we should be limited to this way of coding.""",0
+0_1326,"""Today, I opened Chrome.	""",0
+0_43,"""A lot of official apps are almost completely abandoned (like Istragram Beta), but some unofficial clients are really amazing.""",0
+0_301,"""Please provide a way to implement AudioGraph nodes for custom Media Foundation MediaSource (input nodes) and MediaSinks (output nodes).
+""",1
+3614,"""I didnât find the option.""",0
+3254,"""The UWP application platform has a rich media API which allows querying of a video device (e.g.""",0
+1685,"""There are situations where you might want to interrupt navigating away from a page when using NavigationView.""",1
+6721,The keyborad should also be customized like the gadget comfort on-screen keyboard in windows 7 (desktop).,1
+0_2089,"""I use RockMelt as browser and feedly won't load, he loads just fine in google chrome, but I would like to be able to use it with RockMel""""",1
+1309_1,"""It will be a good idea if you introduce a Trust Center OR maybe Trusted Apps, which requires more review form Microsoft before publishing maybe.""",1
+955_3,"""Sometimes reviews can be for previous versions of the app.""",0
+917_1,"""For an app that doesn't require a login, so there's no account to tie the usage to, and doesn't have a natural way to limit functionality, adding a trial-mode feels like implement-and-pray.""",0
+778_1,"""List will appear and we select from list n call.""",0
+1864_12,"""register as a launcher/chooser] to ease on-device inter-application communication""",0
+1314_2,"""It's annoying having to download and install the toolkit separately.""",0
+3365,"""It would make developers life much easier if they had a possibility to access files simpler.""",1
+1520_1,"""(sorry if my English is bad, that's a foreign language for me, I'm French)""",0
+1700_4,"""It would be very useful for some audio applications to turn the speaker on while headset is connected.""",1
+1189,"""Allowing UWP access packaged COM will eliminate this overhead allow simpler architecture and allow re-use much more traditional win32 apps.""",1
+715_3,"""For more information see -> http://social.msdn.microsoft.com/Forums/windowsapps/en-US/2ebba203-dae1-409e-940e-14e33b422a21/auto-upload-app-not-launching-in-settings-page?forum=wpdevelop""",0
+0_1003,"""Developers should be focusing more on App as opposed to implement the standard navigation pattern and spend effort on styling.""""",1
+692,"""DataPackage.OperationCompleted is not raised (at least when pasting text).""",0
+1844_1,"""Alternatively: provide an API for the submission process so we can at least somewhat alleviate the pain ourselves.""",1
+1760_12,"""For example, logging GPS___ more""",0
+0_1671,"""I have quite a few notebooks and would like to be able to select one notebook as a default so I can simply click the Evernote icon and voila, the article saved to my default notebook.""""",1
+761,User changes the language to Arabic (FlowDirection: RTL),0
+0_266,"""Why can't Microsoft shut down all the extraneous accounts?""",0
+980_10,"""It would be great if there is one more layer for apps showing quick status.""",1
+0_1324,"""I see blank page.""",0
+0_888,"""I suggest these new maximum lengths: title 500 characters, description 10000 characters (same as for app description).""",1
+715_1,"""Closes alone than nothing""",0
+1438,"""It would be good if TextBoxRegEx will be automatically delete letters at input like the TextBoxMask.""",1
+1690,In my opinion UWP is too much APP centric.,0
+602,Also phone has support but is painful to use why is it different to the PC version?,0
+7589,Additional Payment option such as paypal should be added to allow people who owns visa card with advance features t register for Dev Center.,1
+698,"""and now that i am in my 50's Iam still playing and building but my mother and her friends cant keep up with windows they are having a hard time finding there way around windows please give them back the old windows that they can navigate.""",1
+0_504,"""Change the Store search engine algorithm back, to as it was.
+
+To make it possible to actually find an app by its title.
+
+I have made an app, when I search for it, 10 apps pops up, and my app isn't any of them.""""",1
+834_14,"""For example app submission/certification gives you ""There was a problem processing this request.""",0
+0_143,"""The problem starts after a certain app update.""",0
+843_1,"""Regards,""",0
+0_1618,"""something like AntennaPod (https://play.google.com/store/apps/details?id=de.danoeh.antennapod) would be very nice""",1
+0_719,"""Please take a note of this.""",1
+0_1314,"""Please make an option to login that does not include Google.""",1
+945_2,"""Create a SubClass of Panel that allows AbsolutePositioning of it's children, yet honours the layout bounds imposed by it's own parent, unlike Canvas which is unlimited in Size and must be clipped to stop the overflow of any children""",1
+0_427,"""- .""",0
+0_560,"""And make the start screen interactions smoother?""",0
+1715,"""The specified wildcard character pattern is not valid: [.exe""",0
+683_1,"""I also checked the Contacts permission was enabled on the Package.appxmanifest.""",0
+2612,"""Accessing this information through an API would be useful for creating automated KPI reports.""",1
+1748_5,"""Developers wishing to leverage the Zune media platform to offer improved or tailored podcast playback experiences are currently blocked.""",0
+979_1,"""I need a way to submit bugs to the engineering team and have them triaged + responded to.""",1
+0_931,"""The existing solutions like SwapChainPanel have many limitations like - - transparency - layering XAML-Direct2d-XAML is not possible - Direct2D effects cannot be applied to XAML content (e.g. Text) - etc.""",0
+1549_5,"""Maybe a theme that just picks colours from the standard set and distributes them among the tiles that don't have their own colour.""",0
+1514,On the slow ring we are currently on Windows build 17025 but the only SDK download link provided on the Windows Insider download page is for 17061 at time of writing.,0
+2273,"""I want to see a better Windows Store first where my apps can be found.""",1
+4552,"""It would be great to add new status like closed or abandoned""",1
+930,"""I am active Windows Insider users currently enrolled to receive the fastest Windows Inside Builds.""",0
+0_351,"""This question is not because bizview is my own app, the question is for all developers that works hard.""",0
+0_1604,"""I use it every day.""",0
+0_260,"""There are some devs that are making multiple Windows Store accounts to spam the same repackaged apps.""",0
+1404_3,"""Can you not make connection to these___ more""",0
+0_332,"""It should be possible to deploy a UWP app inside the Edge browser as opposed to the App Store.
+""",1
+1545_2,"""A lot of programs provide navigation and GPS maps.""",0
+1013_3,"""Please add option to choose bank country under ___Payment Account_ from list of supported one.""",1
+857_3,"""Hi Please extend Song Class with more useful properties such as LastPlayedDate, AddedDate.""",1
+0_1904,"""It's really annoying.""""",0
+1858_2,"""However, for some control, e.g.""",0
+0_487,"""I raised this in dev support but I am asked to add this issue here.""",0
+0_657,"""I need to implement a such thing for my own project.""""",0
+2279,"""Please give the highest priority to improve App Discoverability in Windows Store.""",1
+345,"""Compilation fails with error CS1061 in MainPage.g.cs: MainPage.MainPage_obj1_Bindings does not contain a definition for bindingsTracking and no extension method bindingsTracking accepting a first argument of type MainPage.MainPage_obj1_Bindings could be found.""",0
+0_590,"""Please put this project on high priority so that classic apps can get on to the store.""",1
+0_232,"""Companies like CSHTML5 (http://cshtml5.com) and DuoCode (http://duoco.de) are already doing this, but it would be great to see this effort officially adopted into the Microsoft Universal Windows Platform.""",1
+1490_4,"""I'm intalling: Microsoft Visual C# 2010 Microsoft Windows Phone Developer Tools 7.1 (Beta) - ENU Microsoft Visual Studio 2010 Ultimate - ENU Service Pack 1.""",0
+922_1,"""there should be mechanism that code can read installed apps.""",1
+843_12,"""It was good if we could set the app or in-app product to be free for one day for example and return back after that.""",1
+0_959,"""I see no reason to have 3 variations that are so similar, especially with the current efforts to make things universal.""",0
+0_276,"""Please allow seeing download numbers for ALL apps in the chart for any given time period.""",1
+8374,Allow apps to act as data sources for other apps.,1
+1096,The sample and the PDF document can be downloaded from the link below.,0
+1817_4,"""Allow filtering of marketplace results within categories beyond pay/free/top/new by adding filter by rating (ex: 4+), by price (ex: <$1.99), by number of downloads (ex: 10000+), or allow blacklisting of developers (or developer rankings) so spam apps and spam devs could be avoided.""",1
+1712_1,"""We need the ability for developers to add relevant tags to their app descriptions, we then need the ability to search for apps with those tags, tags should also be verified during app submission to ensure theyre relevant dont know about anyone else but im fed up of the marketplace being swamped with total rubbish, it would be nice to see apps that im interested in instead of a thousand apps that i have no interest in""",1
+802_1,"""Windows 8 phone default calculator is annoying without being able to copy and paste numbers into the calculator app.""",0
+2417,Now that Xaml and DirectX support SVG images I'd love to provide my splash screen image as an SVG file.,1
+8413,I understand power consumption is a consideration but a more balanced middle ground like only allowing more intensive background tasks when the system is plugged in and/or giving users clear indications such activity is occurring (liek Android does in its notification bar) so that they know why battery life is being impacted would make the WinRT environment much more useful and in turn drive adoption.,1
+0_332,"""It should be possible to deploy a UWP app inside the Edge browser as opposed to the App Store.
+""",1
+1314_1,"""Navigation uri doesn't work if the reminder/alarm ring under lockscreen""",0
+4029,"""More interestingly transcoding other files to ALAC works fine.""",0
+3166,"""How can we ensure registration is complete for the COM server without adding regsvr32 command in post build and setting linker value for âRegister Outputâ to false.""",0
+664_3,"""The store randomly gives the old xap or the new xap version of my app.""",0
+0_2026,"""Need support to add articles in ""Pocket"" directly.""",1
+1491,"""Recommendation: add a parameter to ShowAsync that positions the dialog relative to the main window of the app (centered left right bottom).""",1
+0_964,"""Developers shouldn't get bad ratings and reviews when something is broken in a Preview build just because you release unfinished builds to users who have no idea what Preview means, other than getting the new cool stuff first.""",1
+690_3,"""Please cant we have an option in the WPAppManifest file to untick ""fast resume"" and allow WP8.1 apps to not run in fast resume mode just like in WP8?""",1
+820_2,"""Or don't make these objects sealed, so that we can add the needed functionality ourselves.""",0
+1181,"""It would be nice it there was an API Discovery endpoint.""",1
+1740_1,"""We need to have a way by which applications can register the type of content they handle so that when user is downloading a content using IE, they can choose installed application to open with.""",1
+1782_7,"""like Name of that caller Phone Number Etc.""",0
+683_7,"""The Windows Phone Developer Power Tools only enable collection of predefined profiles that use certain system events.""",0
+3803,"""We can also change lock screen background.""",1
+1859_2,"""It's only currently possible via the web browser.""",0
+1782_9,"""I would like to be able to convert my individual account in the Marketplace into a company one without losing my publisher name, my brand, my app portfolio and my user base.""",1
+0_1745,"""I *should* be able to use feedly in luakit.""",1
+3459,"""If the enumeration are updated with the latest MDL2 glyphs it may helps many of developers who search the correct glyphs.""",1
+4095,"""I am attempting to design something to support functionality similar to Android's startActivityForResult() using the page stacks but I have no visibility into the management of the page stacks (BackStack and ForwardStack).""",0
+0_938,"""Add the ability to send the application for inclusion in the collection of applications store.
+
+For example: I want to include my WinGeoChat application in the collection """"""""Apps for Work"""""""".""""""""",1
+791,"""That would be sort of like going to Starbucks and telling the casher person to leaving room for Cream in your Coffee... where the cream layer is for your Headers....""",0
+946_13,"""Can Microsoft take Advertising support seriously, and provide world wide Ad promotion and delivery.""",1
+1595_4,"""Now it is not possible to accept tcp connection, ie to build an internal web server or tcp socket server.""",0
+988_8,"""2) Launch the application.""",0
+836_18,"""Can there please be an app that denies access to an app unless given a correct pin?""",1
+0_369,"""Dovrebbero fare una sveglia che si spegne con la voce""",0
+2727,"""We will only invoke the correct Add / Remove actionsâ¦ more""",0
+8344,It should also allow a timer based updation.,1
+6984,Therefore there should be no problem with installing scripts directly to the shared project using Bower instead of installing two copies of the same script to two different projects.,0
+0_1544,"""Readers get access to contribution-only content.""",0
+0_280,"""Pleas bring back the capability to read this information.""""",1
+4973,"""It would be more useful to be able to sort by Reviews Acquisitions Crashes and Ratings.""",1
+0_2085,"""Feedly to Google plus causes the Feedly app to crash back to the home screen on Kindle Fire.""",0
+1273_21,"""Wish I can undo that patch.""",1
+126,"""I'm okay with a friendly warning perhaps a glyph replacement?""",0
+3031,"""Please add simple API:""",1
+0_152,"""There are a lot of feedbacks asking to allow developers to delete/remove apps and IAPs from their Dev Center.""",1
+754_3,"""Pictures: -Needs to open on Albums instead of All the pictures Mail Center: -Would be awesome if it opened on a page where you have a seperate for each of your accounts.""",1
+2358,-I don't need to call OMSetRenderTargets for each draw call where I want to change D3D11_DSV_READ_ONLY_DEPTH.,0
+3655,""" // We're not able to add this folder""",0
+115,"""add stopwatch controller""",1
+3224,"""We've even tried setting MapElementCollisionBehavior.RemainVisible but it doesn't make much difference.""",0
+524,"""Would be nice if you could set the height of a TextBox using number of Lines.""",1
+1679_6,"""Checkboxes to select multiple contacts when sending messages or adding to a group.""",0
+1824_13,"""Needed to create pro level sequencers, synths and music creation related apps!""",0
+4,"""Windows.System.RemoteSystems.RemoteSystem does not provide meaningful data for Xbox.""",0
+2889,"""This UI should get loaded on client machine as the user types in url in windows10 task-bar which has the search boxthus removing the dependency on browser for web applications.""",1
+657,"""Enable 2D application developers to easily use 3D volumetric content in XAML/Composition by configuring spatial scenes and manipulating transforms and skeletal animations.""",1
+1273_23,"""This is not about just having more colors in the them colors dialog, but being able, as a developer.""",0
+1162,on Windows 10 UWP apps if you rapidly click or unintentionally double-click on any control supporting click/tapped event its associated Click event handler will execute for each.,0
+2616,"""The site is faster in Chrome and IE but still not fast and gives a poor user experience due to the lack of performance.""",0
+0_1880,"""I would love to be able to save directly to Pocket like I can on the android app.""",1
+2936,"""The following link appears to refer to the same bug.""",0
+1845_2,"""Enhance that further by allowing 3rd party application tie-ins, like ESPN's app or news from a BBC or CNN application.""",1
+1819,"""Please fix it to support hiding PivotItems correctly especially during data binding when you can't simply add/remove it from the Items collection.""",1
+0_1346,"""Is there any way i can save to Pocket directly without opening a separate web page each time?""",0
+1141,Using Microsoft gift cards as developer account registration fee.,0
+7993,make possible to add a range of list<mapicon> to make it faster and optimized,1
+0_1341,"""Create Kippt integration to allow sharing to Kippt.com""",1
+0_1379,"""New videos from users you subscribed to on Youtube can be a whole feed (like migrate the entire Home Page of your Youtube account and put it as a feed here).""",1
+1010_1,"""This can allow the phone to be used as a secondary display or project the screen contents on for example Push2TV devices or Widi Receivers""",0
+259,"""That was a very good build.""",0
+870_6,"""As such, please make the installation of the SDK optional during the SDK installation.""",1
+800_2,"""If you simply say an app failed with the policy number 2.11 or so, what can a developer benefit out of it, rather he will be more confused and after a couple of times, it will be frustrating.""",0
+1421,This limitation results in a bad user experience because there are scenarios where the user is working with one application and another application performs some operations based on the copied content.,0
+1719_2,"""This property should return correct information about connected headset.""",1
+2377,it's extremely annoying when I face service issues with devcenter with no knowledge if they are investigated or not.,0
+669_3,"""The point is to make the app universal across devices so that our engineers do not have to spend too much time learning and relearning the controls.""",0
+372,"""A command like ms-settings:utilities would be very useful.""",1
+1205_2,"""It would be extremely helpful if the emulator could use webcams as camera emulation.""",1
+0_1565,"""Chromecast support would be great so I could read my news on big screen.""",1
+967_10,"""I'd suggest to include all Transactions in the Report.""",1
+3428,"""At the moment there is no easy way to prevent a one-way binding from clearing when a DependencyProperty is set to a new value.""",0
+0_938,"""Add the ability to send the application for inclusion in the collection of applications store.
+
+For example: I want to include my WinGeoChat application in the collection """"""""Apps for Work"""""""".""""""""",1
+980_3,"""However, as I understand it, the appropriate APIs to create something similar for windows pho e are inaccessible.""",0
+0_1935,"""It would be nice to have a similar feature on mobile, except the way it would work would be to add all of the articles to Pocket or an alternative read-it-later app, """"Pocket all"""" or something like that.""""",1
+0_715,"""It should be possible to access shared folders in a local network using the smb-protocol from windows mobile phones""",1
+0_1503,"""So I can launch Feedly from google desktop app launcher.""",0
+1380_6,"""There is lack of support for digitally signing X509 client certificates.""",0
+3694,"""But in UWP it is impossible because the base classes have private constructors and the other classes are sealed.""",0
+1103,"""Please don't reply me with this: https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc708605(v=ws.10)""",0
+5879,"""However it would be even better if it allowed users with the developer role to create app packages in Visual Studio.""",1
+0_1595,"""In iGoogle there was the Google Reader gadget.""",0
+758_4,"""Also, after I restored the phone, Here Maps and Here Drive+ tiles had ""!""""",0
+1271_1,"""I understand the reasoning for not allowing the user to have access to the Mailboxes in the phone, but there should be an API to enumerate through accounts and get their statistics, like the number of unread emails, number of important emails, and the total e-mail count.""",1
+1002,"""TrySetWallpaperImageAsync only supports a primary display rather than allowing the wallpaper to be set for any attached displays.""",1
+705_1,"""With the two stores combining, can we bring built-in trial mode support to Windows Phone?""",1
+1214,When a mediaplayerelement is playing or paused a video.,0
+948_5,"""It should be an option to remove the ""ru"" language code from my app 'language History'.""",1
+0_1221,"""Allow Zune music + video tile in windows phone 7 to fetch metadata and display artist images and artist names in India too ... settings>applications >lock+wallpaper >show artist image when playing music under lock screen .""",1
+1515,"""I am not willing to go to fast ring because this renders my laptop useless.""",0
+2668,"""I'm looking to use ECDH key agreement in an universal windows app but I can't find a way to do so.""",0
+929,"""But I hope my suggestion will be passed to where it can be the most helpful.""",1
+7980,Please update the Windows SDK and Windows App Certification Kit to allow us to use Win32 PrefetchVirtualMemory function: http://msdn.microsoft.com/en-us/library/windows/desktop/hh780543(v=vs.85).aspx,1
+1235_1,"""There is an very old bug that is still present in Windows Phone 8 SDK: when a page has a control that inherits from ToggleButton (for example, CheckBox), System.IO.FileNotFoundException is thrown and shown in the Debug output.""",0
+1707_1,"""Are you guys taking this serious?""",0
+0_2050,"""I tried with Kara and Nextgen Reader Reader; """,0
+8613,Plesae implement Windows.ApplicationModel.SuspendingDeferral as IDisposable (probably already declared in ISuspendingDeferral) and call method Complete() from within IDisposable.Dispose() to simplify its usage:,1
+669_1,"""Its getting annoying.Please fix this.""",1
+1379,"""will be possible to share the roadmap on the LCOW improvment ?""",1
+0_590,"""Please put this project on high priority so that classic apps can get on to the store.""",1
+0_936,"""Make TShell available to all developers, not only OEM manufacturers.
+
+On other platforms (iPhone, Android) such tools as TShell a readily available to all developers.""""",1
+2078,"""Keyboard remains NumericPin.""",0
+8887,The trial feature should be built-in with automatic enforcement user prompting disabling etc just as it is in the Windows Store.,1
+0_315,"""Starting a project for a UWP is really hard.""",1
+1600_2,"""The developer portal is for developers.""",0
+1836_1,"""Unacceptable.""",0
+0_946,"""Like change his color (like a native UWP) and toggle full screen mode.""",0
+6540,"""It would be especially powerful and useful to be able to access the DOM that is in the currently loaded page of the WebView control and have full control over querying it and even modifying it if necessary.""",1
+789_7,"""Certain people request for devices and get immediately.""",0
+0_716,"""Give us an implementation of RadialGradientBrush that automatically uses acceleration when available.""",1
+0_361,"""I just wanted to say well done to Microsoft for offering a very good browsing experience on wp8.1 with ie11.
+
+With ie11 was able to watch e.g Putlocker videos with no interference such as ads popping up.
+
+On a friends Android doing the same thing it kept popping up saying """"""""your phone has a virus"""""""".""""",0
+809,This occurs because /proc/net/tcp is empty and thus the socket cannot be identified as TCP.,0

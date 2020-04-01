@@ -7,6 +7,7 @@ import csv
 from csv import reader
 from stanfordcorenlp import StanfordCoreNLP
 from transformers import AutoTokenizer
+import random
 # from aion.embeddings.cove import CoVeEmbeddings
 # from aion.embeddings.glove import GloVeEmbeddings
 # from pytorch_pretrained_bert.tokenization import BertTokenizer
@@ -103,11 +104,27 @@ def load_data(folder= "Subtask-A", filename="SubtaskA_EvaluationData_labeled.csv
         data = data[1:]
     #tokenizerfnc
     # lens = [len(pre_process_text(datum[1])) for datum in data]
-    lens = [len(tokenizerfnc(datum[1])) for datum in data]
-    lens.sort()
-    print(lens)
-    #print("Max Length", max_len, data[max_len_idx][1])
-    f.close()
+    # lens = [len(tokenizerfnc(datum[1])) for datum in data]
+    # lens.sort()
+    # print(lens)
+    val = [int(datum[2]) for datum in data]
+    val = np.array(val)
+    print("Number of ones: ", val.sum())
+    print("Length of Obs: ", len(val))
+
+    # Class Imbalance
+    # all_data = []
+    # for datum in data:
+    #     if int(datum[2]) == 1:
+    #         all_data.append(datum)
+    #         all_data.append(datum)
+    #     all_data.append(datum)
+    # f = open("out.csv", "w", encoding="utf-8", newline="")
+    # writer = csv.writer(f)
+    # writer.writerows(all_data)
+    # f.close()
+    # random.shuffle(all_data)
+
     return data
 
 
@@ -165,8 +182,8 @@ def create_cross_val_train_test(data_batches, id, folds=10):
 
 
 #testing
-data = load_data(filename='V1.4_Training.csv')
-# #print(len(data))
+data = load_data(filename='out.csv')
+# # #print(len(data))
 # data_folds = create_folds(data)
 # #for datum in data_folds:
 #     #print(len(datum))
