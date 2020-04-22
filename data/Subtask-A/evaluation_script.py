@@ -23,6 +23,8 @@ def f1_weight(v1,v2):
 	gold_total, predicted_total = 0, 0
 	gold_total = len(v1)
 	predicted_total = len(v2)
+	print(gold_total)
+	print(predicted_total)
 	if (gold_total > 0):
 		return np.absolute(float(predicted_total) / float(gold_total))
 	else:
@@ -56,16 +58,16 @@ inputdict = {}
 
 #Place the goldstandard.csv and the submission.csv in the same folder as this evaluation script
 #The structure of submission.csv has to be: "id, sentence, prediction" with prediction in [0,1]
-inputfilename = "submission.csv"
-filename = "goldstandard.csv"
+inputfilename = "result.csv"
+filename = "SubtaskA_EvaluationData_labeled.csv"
 
 
-with open(filename) as data_file:    
+with open(filename, encoding='utf-8') as data_file:    
 	Goldstandard = csv.reader(data_file, delimiter=',')
 	for gold in Goldstandard:
 		if len(gold[0]) > 0 and len(gold[2]) > 0:
 			golddict[gold[0]] = int(gold[2])
-with open(inputfilename) as data_file2:    
+with open(inputfilename, encoding='utf-8') as data_file2:    
 	Input = csv.reader(data_file2, delimiter=',')
 	for inputt in Input:
 		if len(inputt[0]) > 0 and len(inputt[2]) > 0:
@@ -76,7 +78,9 @@ with open(inputfilename) as data_file2:
 golddictlist = build_dicts(golddict,inputdict)[0]
 inputdictlist = build_dicts(golddict,inputdict)[1]
 f1score = getf1_score(golddictlist,inputdictlist)
+print(f1score)
 f1weight = f1_weight(golddict,inputdict)
+print(f1weight)
 finsco = final_score(f1score, f1weight)
 writeresults('%s' % finsco)
 

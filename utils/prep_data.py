@@ -107,10 +107,10 @@ def load_data(folder= "Subtask-A", filename="SubtaskA_EvaluationData_labeled.csv
     # lens = [len(tokenizerfnc(datum[1])) for datum in data]
     # lens.sort()
     # print(lens)
-    val = [int(datum[2]) for datum in data]
-    val = np.array(val)
-    print("Number of ones: ", val.sum())
-    print("Length of Obs: ", len(val))
+    # val = [int(datum[2]) for datum in data]
+    # val = np.array(val)
+    # print("Number of ones: ", val.sum())
+    # print("Length of Obs: ", len(val))
 
     # Class Imbalance
     # all_data = []
@@ -180,9 +180,64 @@ def create_cross_val_train_test(data_batches, id, folds=10):
     return train, test
 
 
+def create_results(filename='result.csv'):
+    '''
+    '''
+    data = load_data()
+    id_map = {int(datum[0]):datum[1] for datum in data}
+
+    f = open(filename, 'r', encoding="utf-8", newline='')
+    data_reader = reader(f, delimiter=",")
+    results = [row for row in data_reader]
+
+    final_results = [ [id_map[int(result[0])], int(result[1]), int(result[2])] for result in results ]
+    print(final_results[2:5])
+    
+    true_positive = 0
+    false_negative = 0
+    false_positive = 0
+    false_negative_len = []
+    false_positive_len = []
+    true_positive_len = []
+    for result in final_results:
+        if result[1] == 1 and result[2] == 0:
+            false_negative += 1
+            false_negative_len.append(len(result[0]))
+        elif result[1] == 0 and result[2] == 1:
+            false_positive += 1
+            false_positive_len.append(len(result[0]))
+        elif result[1] == 1 and result[2] == 1:
+            true_positive += 1
+            true_positive_len.append(len(result[0]))
+
+    false_negative_len.sort()
+    false_positive_len.sort()
+    true_positive_len.sort()
+
+    print("False Negatives: ", false_negative)
+    print("False Positives: ", false_positive)    
+    print("True Positive: ", true_positive)
+
+    print(false_negative_len)
+    print(false_positive_len)
+    print(true_positive_len)
+
+
+    precision = true_positive/(true_positive+false_positive)
+    recall = true_positive/(true_positive+false_negative)
+    f1_score = (2*precision*recall)/(precision+recall)
+    print("F1-Score: ", f1_score)
+    
+    # f = open("final.csv", "w", encoding="utf-8", newline="")
+    # writer = csv.writer(f)
+    # writer.writerows(final_results)
+    # f.close()
+
+
+create_results()
 
 #testing
-data = load_data(filename='out.csv')
+# data = load_data(filename='out.csv')
 # # #print(len(data))
 # data_folds = create_folds(data)
 # #for datum in data_folds:
